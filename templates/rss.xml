@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>{{ site_name }}</title>
-    <link>{{ site_url }}/</link>
+    <link>{{ site_url }}{% if language == 'zh' %}/zh{% endif %}/</link>
     <description>{{ site_description }}</description>
-    <language>zh-CN</language>
+    <language>{{ language_code }}</language>
     <lastBuildDate>{{ build_date }}</lastBuildDate>
     {% for post in posts %}
     <item>

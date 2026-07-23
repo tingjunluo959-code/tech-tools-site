@@ -1,9 +1,11 @@
 ---
 category: 未分类
 date: '2026-07-23T09:32:24+00:00'
+lang: zh
 original_link: https://www.producthunt.com/products/gta-datacity-san-francisco
 slug: 2026-07-23-gta-datacity-dbf8cdca
 title: GTA DataCity：值得关注的科技工具
+translation_slug: 2026-07-23-gta-datacity-dbf8cdca
 ---
 
 ## 产品速览

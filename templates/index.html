@@ -1,32 +1,32 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="{{ 'zh-CN' if language == 'zh' else 'en' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ site_description }}">
   <title>{{ site_name }}</title>
-  <link rel="alternate" type="application/rss+xml" title="{{ site_name }} RSS" href="rss.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site_name }} RSS" href="{{ rss_href }}">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
   <style>
     :root { --pico-font-family-sans-serif: system-ui, "PingFang SC", "Microsoft YaHei", sans-serif; }
-    header { padding-block: 3rem 2rem; }
-    article { overflow-wrap: anywhere; }
-    .meta { color: var(--pico-muted-color); font-size: .9rem; }
-    footer { text-align: center; padding-block: 2rem; }
+    header { padding-block: 3rem 2rem; } article { overflow-wrap: anywhere; }
+    .meta { color: var(--pico-muted-color); font-size: .9rem; } footer { text-align: center; padding-block: 2rem; }
   </style>
-  <!-- Google AdSense 自动广告：将 ca-pub-xxxxxxxxxxxxxxxx 替换为发布商 ID 后取消下面一行注释。 -->
+  <!-- 启用 AdSense 时，替换 ca-pub ID 并取消下一行注释。 -->
   <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx" crossorigin="anonymous"></script> -->
 </head>
 <body>
   <header class="container">
-    <nav aria-label="主导航">
+    <nav aria-label="{{ '主导航' if language == 'zh' else 'Primary navigation' }}">
       <ul><li><strong>{{ site_name }}</strong></li></ul>
-      <ul><li><a href="rss.xml">RSS 订阅</a></li></ul>
+      <ul>
+        <li><a href="{{ rss_href }}">RSS</a></li>
+        <li><a href="{{ switch_href }}">{{ 'English' if language == 'zh' else '中文' }}</a></li>
+      </ul>
     </nav>
-    <h1>每天发现一个好工具</h1>
+    <h1>{{ '每天发现一个好工具' if language == 'zh' else 'One useful tool, every day' }}</h1>
     <p>{{ site_description }}</p>
   </header>
-
   <main class="container" id="main-content">
     {% if posts %}
       {% for post in posts %}
@@ -36,19 +36,13 @@
           <p class="meta"><time datetime="{{ post.date.isoformat() }}">{{ post.date_text }}</time> · {{ post.category }}</p>
         </header>
         <p>{{ post.summary }}</p>
-        <footer><a href="{{ post.url }}" aria-label="阅读《{{ post.title }}》全文">阅读更多 →</a></footer>
+        <footer><a href="{{ post.url }}">{{ '阅读全文 →' if language == 'zh' else 'Read more →' }}</a></footer>
       </article>
       {% endfor %}
     {% else %}
-      <article>
-        <h2>文章正在准备中</h2>
-        <p>完成首次内容生成后，最新文章会显示在这里。</p>
-      </article>
+      <article><h2>{{ '文章正在准备中' if language == 'zh' else 'Articles are coming soon' }}</h2><p>{{ '下一次自动运行后，最新文章会显示在这里。' if language == 'zh' else 'New articles will appear here after the next scheduled run.' }}</p></article>
     {% endif %}
   </main>
-
-  <footer class="container">
-    <small>本站部分链接可能是联盟链接；通过这些链接购买不会增加你的费用，但站点可能获得佣金。</small>
-  </footer>
+  <footer class="container"><small>{{ '本网站部分链接可能是联盟链接；通过这些链接购买不会增加你的费用，但站点可能获得佣金。' if language == 'zh' else 'Some links may be affiliate links. Your price does not increase, but the site may earn a commission.' }}</small></footer>
 </body>
 </html>

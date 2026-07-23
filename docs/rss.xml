@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技工具推荐</title>
-    <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
-    <description>每天发现值得关注的科技产品与效率工具</description>
-    <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 15:45:14 +0000</lastBuildDate>
+    <title>Tech Tools Worth Watching</title>
+    <link>http://localhost:8000/</link>
+    <description>A daily, source-aware look at new tools from Product Hunt.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jul 2026 09:32:24 +0000</lastBuildDate>
     <item>
-      <title>Rehello：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-rehello-32e80ca9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-rehello-32e80ca9.html</guid>
-      <pubDate>Thu, 23 Jul 2026 15:45:14 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 Rehello 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Made for introverts to remember people &amp; reconnect naturally 从这段公开信息来看…</description>
-    </item>
-    <item>
-      <title>GTA DataCity：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-gta-datacity-dbf8cdca.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-gta-datacity-dbf8cdca.html</guid>
+      <title>GTA DataCity：值得关注的科技工具: A Tool Worth Watching</title>
+      <link>http://localhost:8000/posts/2026-07-23-gta-datacity-dbf8cdca.html</link>
+      <guid isPermaLink="true">http://localhost:8000/posts/2026-07-23-gta-datacity-dbf8cdca.html</guid>
       <pubDate>Thu, 23 Jul 2026 09:32:24 +0000</pubDate>
       <category>未分类</category>
-      <description>产品速览 GTA DataCity 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： San Francisco co working dataset visualized, as a game! 从这段公开信息来看…</description>
+      <description>Quick overview GTA DataCity：值得关注的科技工具 is a product discovered through Product Hunt, listed in the 未分类 category. The existing Chinese article is retain…</description>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-"""用本地模板或可选 OpenAI 模式生成中文推荐文章。"""
+"""文章生成模块：默认使用本地双语模板，也支持可选 OpenAI。"""
 
 from __future__ import annotations
 
@@ -19,44 +19,41 @@ AFFILIATE_PLACEHOLDER = "{{affiliate_link}}"
 
 
 def _slugify(title: str, link: str) -> str:
-    """生成稳定、适合 URL 的文件名；哈希可避免同名产品冲突。"""
     slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:60] or "product"
     suffix = hashlib.sha256(link.encode("utf-8")).hexdigest()[:8]
     return f"{slug}-{suffix}"
 
 
-def build_prompt(product: dict[str, str]) -> str:
-    """提示模型只依据 Feed 信息写作，避免虚构亲自使用的经历。"""
-    return f"""请根据以下 Product Hunt Feed 信息，写一篇 400-600 个中文字的中文科技工具推荐文。
+def build_prompt(product: dict[str, str], language: str = "zh") -> str:
+    """构造严格基于 Feed 信息的提示词。"""
+    if language == "en":
+        return f"""Write a 400-600 word English recommendation article based only on this Product Hunt feed entry.
+Product: {product['title']}
+Description: {product['description'] or 'No description supplied by the feed'}
+Category: {product['category']}
 
+Use a friendly, practical tone. Do not claim personal use, testing, pricing, reviews, or results that are not in the source. Explain the known purpose, likely audience, and sensible checks before subscribing. Output Markdown body only (no title, front matter, or code fence). Include exactly one natural link [Learn more]({AFFILIATE_PLACEHOLDER}) and remind readers to verify current details on the official site."""
+    return f"""请根据以下 Product Hunt Feed 信息，写一篇 400-600 个中文字的中文科技工具推荐文。
 产品名称：{product['title']}
 产品描述：{product['description'] or 'Feed 未提供描述'}
 产品分类：{product['category']}
 
-写作要求：
-1. 使用自然、亲切、易读的推荐语气，但不得声称你亲自使用、测试或购买过该产品，也不得虚构功能、价格、评价或效果。
-2. 简要说明已知功能、可能解决的问题和适合人群；信息不足时明确使用“从官方简介来看”等限定语。
-3. 使用 Markdown 正文，可包含二级标题和列表；不要输出文章主标题、front matter 或代码围栏。
-4. 在文中自然且只插入一次 Markdown 链接：[了解更多]({AFFILIATE_PLACEHOLDER})。
-5. 结尾提醒读者在购买或订阅前核对官网的最新功能、价格与条款。
-"""
+语气亲切但不得声称亲自使用、测试或购买过产品，也不得虚构功能、价格、评价或效果。只输出 Markdown 正文，不要输出标题、front matter 或代码围栏。自然且只插入一次 [了解更多]({AFFILIATE_PLACEHOLDER})，并提醒读者在官网核对最新信息。"""
 
 
 def _chinese_character_count(text: str) -> int:
-    """统计中文字符，用于验证模型是否满足 400–600 字要求。"""
     return len(re.findall(r"[\u3400-\u4dbf\u4e00-\u9fff]", text))
 
 
 def _escape_markdown_text(value: str) -> str:
-    """转义 Feed 文本中的 Markdown 控制字符，避免破坏正文结构。"""
     return re.sub(r"([\\`*_[\]<>])", r"\\\1", value.strip())
 
 
 def generate_template_article(product: dict[str, str]) -> str:
-    """不调用外部 AI，依据有限 Feed 信息生成诚实、可发布的中文稿。"""
+    """生成无需外部账号的中文模板文章。"""
     title = _escape_markdown_text(product["title"])
-    description = _escape_markdown_text(product["description"] or "官方 Feed 暂未提供详细简介")
-    category = _escape_markdown_text(product["category"] or "未分类")
+    description = _escape_markdown_text(product.get("description") or "官方 Feed 暂未提供详细简介")
+    category = _escape_markdown_text(product.get("category") or "未分类")
     article = f"""## 产品速览
 
 {title} 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“{category}”类别。官方 Feed 给出的原始简介是：
@@ -88,82 +85,163 @@ def generate_template_article(product: dict[str, str]) -> str:
     return article
 
 
-def generate_article(
-    product: dict[str, str],
-    client: OpenAI | None = None,
-    content_dir: Path = CONTENT_DIR,
-) -> Path | None:
-    """生成一篇文章；默认本地模板，OpenAI 模式失败时重试 2 次。"""
+def generate_template_article_en(product: dict[str, str]) -> str:
+    """生成英文镜像文章；只陈述 Feed 已公开的信息。"""
+    title = product.get("title", "New product").strip()
+    description = product.get("description") or "The Product Hunt feed does not include a detailed description."
+    category = product.get("category") or "Uncategorized"
+    return f"""## Quick overview
+
+**{title}** is a recent Product Hunt launch listed in the **{category}** category. The public feed describes it this way:
+
+> {description}
+
+That short description is a useful starting point, but it is not a substitute for the product's own documentation. This article intentionally avoids inventing features, prices, reviews, performance claims, or first-hand experience.
+
+## Why it may be worth a closer look
+
+New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, {title} is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
+
+## Who may find it useful
+
+- People exploring productivity or development tools and willing to test them in a limited, low-risk setting;
+- Buyers with a clearly defined task who want to compare several approaches before committing;
+- Team leads who need to review permissions, collaboration features, export options, and data handling.
+
+If your current workflow is stable and no clear pain point exists, bookmarking the launch and watching future updates may be the most sensible next step. Fit depends on context, budget, learning time, and whether your data can be exported when needed.
+
+## Checks before subscribing
+
+Use [Learn more]({AFFILIATE_PLACEHOLDER}) to open the latest product page. Confirm the current free allowance, subscription price, cancellation process, storage location, privacy policy, support channel, and any limits on integrations. If the tool requests access to email, cloud storage, source code, or team documents, begin with non-sensitive test data and verify that permissions can be revoked. For business use, ask the relevant owner to review security and compliance boundaries.
+
+Overall, {title} is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial."""
+
+
+def _openai_article(product: dict[str, str], client: OpenAI, language: str) -> str | None:
+    model = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
+    for attempt in range(1, 4):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": "You are a careful technology editor. Never invent facts or personal experience."},
+                    {"role": "user", "content": build_prompt(product, language)},
+                ],
+                temperature=0.7,
+            )
+            article = (response.choices[0].message.content or "").strip()
+            if not article:
+                raise ValueError("OpenAI returned empty content")
+            if language == "zh":
+                count = _chinese_character_count(article)
+                if not 400 <= count <= 600:
+                    raise ValueError(f"Chinese character count {count} is outside 400-600")
+            elif not 250 <= len(article.split()) <= 800:
+                raise ValueError("English article length is outside 250-800 words")
+            if AFFILIATE_PLACEHOLDER not in article:
+                article += f"\n\n[{'Learn more' if language == 'en' else '了解更多'}]({AFFILIATE_PLACEHOLDER})"
+            return article
+        except Exception as exc:
+            LOGGER.warning("生成 %s/%s 失败（第 %d/3 次）：%s", product.get("title"), language, attempt, exc)
+            if attempt < 3:
+                time.sleep(float(os.getenv("OPENAI_RETRY_DELAY_SECONDS", "2")) * attempt)
+    LOGGER.error("生成 %s/%s 连续失败，已跳过", product.get("title"), language)
+    return None
+
+
+def _generate_one(product: dict[str, str], language: str, client: OpenAI | None, content_dir: Path, now: datetime) -> Path | None:
     mode = (os.getenv("CONTENT_MODE") or "template").strip().lower()
-    # 测试或调用方显式传入客户端时，视为要求走 OpenAI 兼容流程。
     if client is not None:
         mode = "openai"
-
-    if mode == "template":
-        try:
-            article = generate_template_article(product)
-        except (KeyError, TypeError, ValueError) as exc:
-            LOGGER.error("本地模板生成 %s 失败：%s", product.get("title", "未知产品"), exc)
-            return None
-    elif mode == "openai":
-        api_key = os.getenv("OPENAI_API_KEY")
-        if client is None:
-            if not api_key:
-                LOGGER.error("OpenAI 模式未配置 OPENAI_API_KEY")
+    try:
+        if mode == "template":
+            article = generate_template_article_en(product) if language == "en" else generate_template_article(product)
+        elif mode == "openai":
+            if client is None:
+                api_key = os.getenv("OPENAI_API_KEY")
+                if not api_key:
+                    LOGGER.error("OpenAI 模式未配置 OPENAI_API_KEY")
+                    return None
+                client = OpenAI(api_key=api_key)
+            article = _openai_article(product, client, language)
+            if article is None:
                 return None
-            client = OpenAI(api_key=api_key)
-
-        model = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
-        attempts = 3
-        article = ""
-        for attempt in range(1, attempts + 1):
-            try:
-                response = client.chat.completions.create(
-                    model=model,
-                    messages=[
-                        {
-                            "role": "system",
-                            "content": "你是严谨的中文科技编辑。忠于输入资料，不编造亲身体验或未经提供的事实。",
-                        },
-                        {"role": "user", "content": build_prompt(product)},
-                    ],
-                    temperature=0.7,
-                )
-                article = (response.choices[0].message.content or "").strip()
-                if not article:
-                    raise ValueError("OpenAI 返回了空内容")
-                character_count = _chinese_character_count(article)
-                if not 400 <= character_count <= 600:
-                    raise ValueError(f"正文中文字数为 {character_count}，不在 400–600 范围内")
-                if AFFILIATE_PLACEHOLDER not in article:
-                    article += f"\n\n[了解更多]({AFFILIATE_PLACEHOLDER})"
-                break
-            except Exception as exc:  # SDK 的网络/限流/响应异常类型可能不同
-                LOGGER.warning("生成 %s 失败（第 %d/%d 次）：%s", product["title"], attempt, attempts, exc)
-                if attempt < attempts:
-                    time.sleep(float(os.getenv("OPENAI_RETRY_DELAY_SECONDS", "2")) * attempt)
         else:
-            LOGGER.error("生成 %s 连续失败，已跳过", product["title"])
+            LOGGER.error("不支持的 CONTENT_MODE=%s", mode)
             return None
-    else:
-        LOGGER.error("不支持的 CONTENT_MODE=%s，仅支持 template 或 openai", mode)
+    except (KeyError, TypeError, ValueError) as exc:
+        LOGGER.error("%s 模板生成 %s 失败：%s", language, product.get("title", "未知产品"), exc)
         return None
 
-    now = datetime.now(timezone.utc)
-    # 日期前缀可避免去重文件被误删后，同一产品跨日重生成时覆盖旧页面。
-    slug = f"{now:%Y-%m-%d}-{_slugify(product['title'], product['link'])}"
+    base_slug = f"{now:%Y-%m-%d}-{_slugify(product['title'], product['link'])}"
+    file_slug = f"{base_slug}-{language}"
     post = frontmatter.Post(article)
     post.metadata.update(
         {
-            "title": f"{product['title']}：值得关注的科技工具",
+            "title": (f"{product['title']}：值得关注的科技工具" if language == "zh" else f"{product['title']}: A Tool Worth Watching"),
             "date": now.isoformat(timespec="seconds"),
-            "category": product["category"],
+            "category": product.get("category") or "未分类",
             "original_link": product["link"],
-            "slug": slug,
+            "slug": base_slug,
+            "lang": language,
+            "translation_slug": base_slug,
         }
     )
     content_dir.mkdir(parents=True, exist_ok=True)
-    output_path = content_dir / f"{slug}.md"
+    output_path = content_dir / f"{file_slug}.md"
     output_path.write_text(frontmatter.dumps(post), encoding="utf-8")
-    LOGGER.info("文章已保存：%s", output_path)
+    LOGGER.info("%s 文章已保存：%s", language, output_path)
     return output_path
+
+
+def generate_article(product: dict[str, str], client: OpenAI | None = None, content_dir: Path = CONTENT_DIR, language: str | None = None) -> Path | None:
+    """生成单语文章；未指定 language 时生成中英文并要求两者都成功。
+
+    传入 client 的旧调用保持只生成中文，兼容已有 OpenAI 重试测试。
+    """
+    now = datetime.now(timezone.utc)
+    if language in {"zh", "en"}:
+        return _generate_one(product, language, client, content_dir, now)
+    if client is not None:
+        return _generate_one(product, "zh", client, content_dir, now)
+    zh = _generate_one(product, "zh", None, content_dir, now)
+    en = _generate_one(product, "en", None, content_dir, now)
+    if zh is None or en is None:
+        LOGGER.error("产品 %s 未能完整生成双语文章", product.get("title", "未知产品"))
+        return None
+    return zh
+
+
+def migrate_legacy_posts(content_dir: Path = CONTENT_DIR) -> int:
+    """给旧中文文章补元数据，并创建缺失的英文镜像。"""
+    if not content_dir.exists():
+        return 0
+    created = 0
+    for path in content_dir.glob("*.md"):
+        try:
+            post = frontmatter.load(path)
+            if post.get("lang") == "en":
+                continue
+            changed = False
+            slug = str(post.get("slug") or path.stem)
+            if post.get("lang") != "zh":
+                post["lang"] = "zh"; changed = True
+            if not post.get("translation_slug"):
+                post["translation_slug"] = slug; changed = True
+            if changed:
+                path.write_text(frontmatter.dumps(post), encoding="utf-8")
+            en_path = content_dir / f"{slug}-en.md"
+            if en_path.exists():
+                continue
+            title = str(post.get("title") or slug)
+            title = re.sub(r"\s*[：:]值得关注的科技工具\s*$", "", title).strip() or slug
+            category = str(post.get("category") or "Uncategorized")
+            link = str(post.get("original_link") or "")
+            body = f"""## Quick overview\n\n**{title}** is a product discovered through Product Hunt, listed in the **{category}** category. The existing Chinese article is retained as the source for this mirror; no unverified features or first-hand claims are added.\n\n## What to check\n\nRead the official page for the latest product description, documentation, pricing, privacy policy, integrations, and support terms. The available source information is limited, so treat this page as a research note rather than a guarantee.\n\nUse [Learn more]({AFFILIATE_PLACEHOLDER}) to open the original listing. Before sharing sensitive data, test with a non-sensitive account and confirm that permissions can be revoked.\n\nDecide after comparing the tool with your actual workflow and a small, reversible trial."""
+            mirror = frontmatter.Post(body)
+            mirror.metadata.update({"title": f"{title}: A Tool Worth Watching", "date": post["date"], "category": category, "original_link": link, "slug": slug, "lang": "en", "translation_slug": slug})
+            en_path.write_text(frontmatter.dumps(mirror), encoding="utf-8")
+            created += 1
+        except (OSError, TypeError, ValueError) as exc:
+            LOGGER.warning("旧文章迁移失败 %s：%s", path, exc)
+    return created

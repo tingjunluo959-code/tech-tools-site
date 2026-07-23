@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 from build import build_site
 from fetcher import fetch_new_products, mark_processed
-from generator import generate_article
+from generator import generate_article, migrate_legacy_posts
 
 
 def configure_logging() -> None:
@@ -26,6 +26,11 @@ def main() -> int:
     configure_logging()
     logger = logging.getLogger(__name__)
     processed_file = Path(os.getenv("PROCESSED_IDS_FILE", "processed_ids.txt"))
+
+    # 旧版中文文章保留原文件，并自动补齐英文镜像。
+    migrated = migrate_legacy_posts()
+    if migrated:
+        logger.info("已为 %d 篇旧中文文章补齐英文镜像", migrated)
 
     try:
         products = fetch_new_products(processed_file=processed_file)
