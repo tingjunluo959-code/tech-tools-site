@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site_name }}</title>
+    <link>{{ site_url }}/</link>
+    <description>{{ site_description }}</description>
+    <language>zh-CN</language>
+    <lastBuildDate>{{ build_date }}</lastBuildDate>
+    {% for post in posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>{{ post.absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.absolute_url }}</guid>
+      <pubDate>{{ post.pub_date }}</pubDate>
+      <category>{{ post.category }}</category>
+      <description>{{ post.summary }}</description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
