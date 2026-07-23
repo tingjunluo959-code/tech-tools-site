@@ -81,7 +81,7 @@ def _render_language(posts: list[dict[str, object]], language: str, env: Environ
         post["html"] = Markup(markdown.markdown(str(escape(body)), extensions=["extra", "sane_lists"]))
         counterpart = other_posts.get(str(post["translation_slug"]))
         context = dict(common)
-        context.update({"language": language, "home_href": "../index.html", "rss_href": "../rss.xml", "language_label": "中文" if is_zh else "English", "switch_href": f"../posts/{quote(str(counterpart['slug']))}.html" if is_zh and counterpart else (f"../zh/posts/{quote(str(counterpart['slug']))}.html" if counterpart else "../zh/index.html" if not is_zh else "../index.html")})
+        context.update({"language": language, "home_href": "../index.html", "rss_href": "../rss.xml", "language_label": "中文" if is_zh else "English", "switch_href": f"../../posts/{quote(str(counterpart['slug']))}.html" if is_zh and counterpart else (f"../zh/posts/{quote(str(counterpart['slug']))}.html" if counterpart else "../zh/index.html" if not is_zh else "../index.html")})
         (posts_dir / f"{quote(str(post['slug']))}.html").write_text(template.render(post=post, **context), encoding="utf-8")
 
     rss_posts = []
