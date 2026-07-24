@@ -2,14 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>Tech Tools Worth Watching</title>
-    <link>http://localhost:8000/</link>
+    <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:12:03 +0000</lastBuildDate>
+    <item>
+      <title>The new Firecrawl /search: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html</guid>
+      <pubDate>Fri, 24 Jul 2026 09:12:03 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview The new Firecrawl /search is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Our most a…</description>
+    </item>
+    <item>
+      <title>Rehello: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-rehello-32e80ca9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-rehello-32e80ca9.html</guid>
+      <pubDate>Thu, 23 Jul 2026 15:45:14 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Rehello is a product discovered through Product Hunt, listed in the 未分类 category. The existing Chinese article is retained as the sourc…</description>
+    </item>
     <item>
       <title>GTA DataCity：值得关注的科技工具: A Tool Worth Watching</title>
-      <link>http://localhost:8000/posts/2026-07-23-gta-datacity-dbf8cdca.html</link>
-      <guid isPermaLink="true">http://localhost:8000/posts/2026-07-23-gta-datacity-dbf8cdca.html</guid>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-gta-datacity-dbf8cdca.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-23-gta-datacity-dbf8cdca.html</guid>
       <pubDate>Thu, 23 Jul 2026 09:32:24 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview GTA DataCity：值得关注的科技工具 is a product discovered through Product Hunt, listed in the 未分类 category. The existing Chinese article is retain…</description>
