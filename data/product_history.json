@@ -1,0 +1,16 @@
+{
+  "products": {
+    "9ef9b85c577280a80f0ccfa3dde5b9653cf4f53cd9488bc52180b0cdde821bde": {
+      "link_status": {
+        "error": "",
+        "ok": true,
+        "status_code": 200,
+        "url": "https://www.wisprkey.com/"
+      },
+      "official_url": "https://www.wisprkey.com/",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-07-25T09:58:41+00:00"
+    }
+  }
+}
