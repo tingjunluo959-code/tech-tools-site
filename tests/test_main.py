@@ -22,7 +22,7 @@ class MainTests(unittest.TestCase):
     def test_partial_success_marks_only_successful_product(
         self, _fetch, _generate, mark, _build
     ):
-        with patch.dict(os.environ, {"OPENAI_API_KEY": "test-key", "MAX_PRODUCTS_PER_RUN": "0"}, clear=False):
+        with patch.dict(os.environ, {"OPENAI_API_KEY": "test-key", "MAX_PRODUCTS_PER_RUN": "0", "ENRICHMENT_ENABLED": "false", "RANKING_ENABLED": "false"}, clear=False):
             result = main.main()
         self.assertEqual(result, 0)
         self.assertEqual(mark.call_count, 1)
@@ -33,7 +33,7 @@ class MainTests(unittest.TestCase):
     @patch("main.generate_article", return_value=None)
     @patch("main.fetch_new_products", return_value=PRODUCTS[:1])
     def test_all_generation_failures_return_failure(self, _fetch, _generate, mark, _build):
-        with patch.dict(os.environ, {"OPENAI_API_KEY": "test-key", "MAX_PRODUCTS_PER_RUN": "0"}, clear=False):
+        with patch.dict(os.environ, {"OPENAI_API_KEY": "test-key", "MAX_PRODUCTS_PER_RUN": "0", "ENRICHMENT_ENABLED": "false", "RANKING_ENABLED": "false"}, clear=False):
             result = main.main()
         self.assertEqual(result, 1)
         mark.assert_not_called()
@@ -42,7 +42,7 @@ class MainTests(unittest.TestCase):
     def test_missing_api_key_returns_failure(self, _fetch):
         with patch.dict(
             os.environ,
-            {"CONTENT_MODE": "openai", "MAX_PRODUCTS_PER_RUN": "0"},
+            {"CONTENT_MODE": "openai", "MAX_PRODUCTS_PER_RUN": "0", "ENRICHMENT_ENABLED": "false", "RANKING_ENABLED": "false"},
             clear=False,
         ):
             os.environ.pop("OPENAI_API_KEY", None)

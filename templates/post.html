@@ -11,6 +11,13 @@
     :root { --pico-font-family-sans-serif: system-ui, "PingFang SC", "Microsoft YaHei", sans-serif; }
     body > main { max-width: 820px; } .meta { color: var(--pico-muted-color); }
     .disclosure { border-left: .25rem solid var(--pico-primary); padding-left: 1rem; } article { overflow-wrap: anywhere; } footer { padding-block: 2rem; }
+    .alert { border: 1px solid #f0a020; background: color-mix(in srgb, #f0a020 12%, transparent); border-radius: .5rem; padding: 1rem; }
+    .warning { border-color: #d93526; background: color-mix(in srgb, #d93526 10%, transparent); }
+    .pricing-wrap { overflow-x: auto; margin-block: 2rem; }
+    .pricing-wrap table { min-width: 640px; }
+    .recommended { background: color-mix(in srgb, var(--pico-primary) 10%, transparent); }
+    .cta { display: inline-block; white-space: nowrap; font-weight: 700; }
+    article img { width: 100%; height: auto; border-radius: .5rem; border: 1px solid var(--pico-muted-border-color); }
   </style>
   <!-- 启用 AdSense 时，替换 ca-pub ID 并取消下一行注释。 -->
   <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx" crossorigin="anonymous"></script> -->
@@ -29,7 +36,32 @@
         <p class="meta"><time datetime="{{ post.date.isoformat() }}">{{ post.date_text }}</time> · {{ post.category }}</p>
         <p class="disclosure"><small>{{ '披露：本文可能包含联盟链接。若你通过链接购买，本网站可能获得佣金，但不会增加你的费用。' if language == 'zh' else 'Disclosure: this article may contain affiliate links. The site may earn a commission without increasing your cost.' }}</small></p>
       </header>
+      {% if post.promotion_alerts %}
+      <aside class="alert" role="status"><strong>{{ '🚀 限时优惠提醒' if language == 'zh' else '🚀 Promotion alert' }}</strong><br>{{ post.promotion_alerts | join(' · ') }}<br><small>{{ '此信息由公开页面自动识别，可能发生变化，请在官网确认适用条件。' if language == 'zh' else 'Detected automatically from a public page; verify eligibility and current terms on the official site.' }}</small></aside>
+      {% endif %}
+      {% if post.link_status and not post.link_status.get('ok', true) %}
+      <aside class="alert warning" role="alert"><strong>{{ '注意：官网链接可能已失效或暂时不可访问。' if language == 'zh' else 'Warning: the official link may be unavailable or temporarily unreachable.' }}</strong></aside>
+      {% endif %}
       <section>{{ post.html }}</section>
+      {% if post.pricing %}
+      <section class="pricing-wrap" aria-labelledby="pricing-title">
+        <h2 id="pricing-title">{{ '定价与额度快照' if language == 'zh' else 'Pricing snapshot' }}</h2>
+        <p><small>{{ '自动提取结果可能不完整，价格、税费、币种和额度请以官网结账页为准。' if language == 'zh' else 'Automatically extracted and possibly incomplete. Confirm price, taxes, currency, and limits at checkout.' }}</small></p>
+        <table>
+          <thead><tr><th>{{ '套餐' if language == 'zh' else 'Plan' }}</th><th>{{ '价格' if language == 'zh' else 'Price' }}</th><th>{{ '公开页面列出的功能' if language == 'zh' else 'Features found on page' }}</th><th>{{ '操作' if language == 'zh' else 'Action' }}</th></tr></thead>
+          <tbody>
+          {% for plan in post.pricing %}
+            <tr class="{{ 'recommended' if plan.recommended else '' }}">
+              <th>{{ plan.plan }}{% if plan.recommended %}<br><small>{{ '优先比较' if language == 'zh' else 'Compare first' }}</small>{% endif %}</th>
+              <td>{{ plan.price }}</td>
+              <td>{{ plan.features | join(' · ') if plan.features else ('未可靠提取' if language == 'zh' else 'Not reliably extracted') }}</td>
+              <td><a class="cta" role="button" href="{{ post.affiliate_url }}" rel="noopener noreferrer sponsored nofollow" target="_blank">{{ '查看官网与试用条件' if language == 'zh' else 'Check official offer' }}</a></td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+      </section>
+      {% endif %}
       <footer><p><a href="{{ post.original_link }}" rel="noopener noreferrer nofollow" target="_blank">{{ '查看 Product Hunt 原始页面 →' if language == 'zh' else 'View the original Product Hunt listing →' }}</a></p></footer>
     </article>
   </main>

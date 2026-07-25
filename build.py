@@ -16,6 +16,8 @@ import markdown
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markupsafe import Markup, escape
 
+from affiliate import build_affiliate_url
+
 LOGGER = logging.getLogger(__name__)
 CONTENT_DIR = Path("content/posts")
 TEMPLATE_DIR = Path("templates")
@@ -56,6 +58,14 @@ def load_posts(content_dir: Path = CONTENT_DIR) -> list[dict[str, object]]:
                 "category": str(document["category"]), "original_link": str(document["original_link"]),
                 "slug": slug, "lang": language, "translation_slug": str(document.get("translation_slug") or slug),
                 "body": document.content, "summary": _summary(document.content), "source_path": path,
+                "product_id": str(document.get("product_id") or ""),
+                "official_url": str(document.get("official_url") or document["original_link"]),
+                "screenshot": str(document.get("screenshot") or ""),
+                "pricing": list(document.get("pricing") or []),
+                "pricing_url": str(document.get("pricing_url") or ""),
+                "promotion_alerts": list(document.get("promotion_alerts") or []),
+                "link_status": dict(document.get("link_status") or {}),
+                "content_type": str(document.get("content_type") or "product"),
             })
         except (OSError, ValueError, TypeError) as exc:
             LOGGER.warning("跳过无法读取的文章 %s：%s", path, exc)
@@ -76,8 +86,19 @@ def _render_language(posts: list[dict[str, object]], language: str, env: Environ
     other_posts = {str(p["translation_slug"]): p for p in posts if p["lang"] == other}
     template = env.get_template("post.html")
     for post in selected:
-        target_link = affiliate_link or str(post["original_link"])
+        target_link = affiliate_link or build_affiliate_url(str(post["official_url"]))
+        post["affiliate_url"] = target_link
         body = str(post["body"]).replace("{{affiliate_link}}", target_link)
+        body = re.sub(
+            r"\{\{affiliate_url\|([^}]+)\}\}",
+            lambda match: build_affiliate_url(match.group(1).strip()),
+            body,
+        )
+        if post["screenshot"]:
+            screenshot_prefix = "../../" if is_zh and not force_root else "../"
+            body = body.replace("{{screenshot_path}}", screenshot_prefix + str(post["screenshot"]).lstrip("/"))
+        else:
+            body = re.sub(r"!\[[^\]]*\]\(\{\{screenshot_path\}\}\)\s*", "", body)
         post["html"] = Markup(markdown.markdown(str(escape(body)), extensions=["extra", "sane_lists"]))
         counterpart = other_posts.get(str(post["translation_slug"]))
         context = dict(common)
@@ -101,11 +122,13 @@ def _render_language(posts: list[dict[str, object]], language: str, env: Environ
     (prefix / "index.html").write_text(env.get_template("index.html").render(posts=selected[:10], **index_context), encoding="utf-8")
 
 
-def build_site(content_dir: Path = CONTENT_DIR, template_dir: Path = TEMPLATE_DIR, output_dir: Path = OUTPUT_DIR) -> int:
+def build_site(content_dir: Path = CONTENT_DIR, template_dir: Path = TEMPLATE_DIR, output_dir: Path = OUTPUT_DIR, asset_dir: Path = Path("assets")) -> int:
     posts = load_posts(content_dir)
     if output_dir.exists():
         shutil.rmtree(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
+    if asset_dir.exists():
+        shutil.copytree(asset_dir, output_dir / "assets", dirs_exist_ok=True)
     env = Environment(loader=FileSystemLoader(template_dir), autoescape=select_autoescape(["html", "xml"]), trim_blocks=True, lstrip_blocks=True)
     site_name = os.getenv("SITE_NAME") or "Tech Tools Worth Watching"
     site_description = os.getenv("SITE_DESCRIPTION") or "A daily, source-aware look at new tools from Product Hunt."

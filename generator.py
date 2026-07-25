@@ -13,6 +13,9 @@ from pathlib import Path
 import frontmatter
 from openai import OpenAI
 
+from fetcher import product_id as make_product_id
+from prompt_engine import build_experience_prompt
+
 LOGGER = logging.getLogger(__name__)
 CONTENT_DIR = Path("content/posts")
 AFFILIATE_PLACEHOLDER = "{{affiliate_link}}"
@@ -25,20 +28,12 @@ def _slugify(title: str, link: str) -> str:
 
 
 def build_prompt(product: dict[str, str], language: str = "zh") -> str:
-    """构造严格基于 Feed 信息的提示词。"""
-    if language == "en":
-        return f"""Write a 400-600 word English recommendation article based only on this Product Hunt feed entry.
-Product: {product['title']}
-Description: {product['description'] or 'No description supplied by the feed'}
-Category: {product['category']}
-
-Use a friendly, practical tone. Do not claim personal use, testing, pricing, reviews, or results that are not in the source. Explain the known purpose, likely audience, and sensible checks before subscribing. Output Markdown body only (no title, front matter, or code fence). Include exactly one natural link [Learn more]({AFFILIATE_PLACEHOLDER}) and remind readers to verify current details on the official site."""
-    return f"""请根据以下 Product Hunt Feed 信息，写一篇 400-600 个中文字的中文科技工具推荐文。
-产品名称：{product['title']}
-产品描述：{product['description'] or 'Feed 未提供描述'}
-产品分类：{product['category']}
-
-语气亲切但不得声称亲自使用、测试或购买过产品，也不得虚构功能、价格、评价或效果。只输出 Markdown 正文，不要输出标题、front matter 或代码围栏。自然且只插入一次 [了解更多]({AFFILIATE_PLACEHOLDER})，并提醒读者在官网核对最新信息。"""
+    """构造基于公开证据的场景化提示词。"""
+    return build_experience_prompt(product, language) + (
+        f"\n\n正文需为 400-600 个中文字，并自然插入一次 [了解更多]({AFFILIATE_PLACEHOLDER})。"
+        if language == "zh"
+        else f"\n\nWrite 400-600 words and include exactly one [Learn more]({AFFILIATE_PLACEHOLDER}) link."
+    )
 
 
 def _chinese_character_count(text: str) -> int:
@@ -173,6 +168,10 @@ def _generate_one(product: dict[str, str], language: str, client: OpenAI | None,
         LOGGER.error("%s 模板生成 %s 失败：%s", language, product.get("title", "未知产品"), exc)
         return None
 
+    if product.get("screenshot"):
+        alt = "产品公开页面截图（自动采集，非实际使用证明）" if language == "zh" else "Public product page screenshot (automated capture, not proof of hands-on use)"
+        article = f"![{alt}]({{{{screenshot_path}}}})\n\n{article}"
+
     base_slug = f"{now:%Y-%m-%d}-{_slugify(product['title'], product['link'])}"
     file_slug = f"{base_slug}-{language}"
     post = frontmatter.Post(article)
@@ -185,6 +184,14 @@ def _generate_one(product: dict[str, str], language: str, client: OpenAI | None,
             "slug": base_slug,
             "lang": language,
             "translation_slug": base_slug,
+            "product_id": str(product.get("product_id") or make_product_id(product["link"])),
+            "official_url": str(product.get("official_url") or product["link"]),
+            "screenshot": str(product.get("screenshot") or ""),
+            "pricing": list((product.get("pricing") or {}).get("plans", [])),
+            "pricing_url": str((product.get("pricing") or {}).get("url", "")),
+            "promotion_alerts": list((product.get("pricing") or {}).get("promotions", [])),
+            "link_status": dict(product.get("link_status") or {}),
+            "content_type": "product",
         }
     )
     content_dir.mkdir(parents=True, exist_ok=True)

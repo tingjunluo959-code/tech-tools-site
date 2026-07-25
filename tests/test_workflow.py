@@ -11,7 +11,9 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn("OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}", workflow)
         self.assertIn("CONTENT_MODE: ${{ vars.CONTENT_MODE || 'template' }}", workflow)
         self.assertIn("contents: write", workflow)
-        self.assertIn("run: python main.py", workflow)
+        self.assertIn("python main.py", workflow)
+        self.assertIn("python -m playwright install --with-deps chromium", workflow)
+        self.assertIn("ENRICHMENT_ENABLED", workflow)
         self.assertIn("git push", workflow)
 
     def test_workflow_has_no_known_mojibake_markers(self):

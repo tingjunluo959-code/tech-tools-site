@@ -4,6 +4,19 @@
 
 根路径 `/` 是英文站，中文版本位于 `/zh/`。每篇文章都有独立页面和对应 RSS。文章只引用 Feed 已提供的信息，不声称亲自体验，也不保证收入；产品事实、联盟资格、广告政策和当地披露要求仍需人工审核。
 
+## 富化流水线
+
+当 `ENRICHMENT_ENABLED=true` 时，每个新产品会按以下顺序处理：
+
+1. 从 Product Hunt 页面解析候选官网，执行 HEAD（必要时 GET）健康检查；
+2. 使用 Playwright Chromium 以 1920×1080 视口渲染，截取页面前 2160 像素；
+3. 尝试访问官网 `/pricing`，保守提取套餐、价格、功能和促销关键词；
+4. 将截图、定价和链接状态写入 Markdown front matter；
+5. 与 `data/product_history.json` 比较状态，为旧文更新促销或失效链接提示；
+6. 从最近 30 天同类文章生成最多 5 项的双语领域榜单。
+
+截图或定价解析失败不会阻断文章发布。自动提取结果会在页面明确标注“请以官网为准”。系统不会编造亲自使用经历；OpenAI 提示词只允许基于公开证据进行场景化推断。
+
 ## 本地运行
 
 要求 Python 3.10+：
@@ -12,6 +25,7 @@
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+python -m playwright install chromium
 Copy-Item .env.example .env
 python main.py
 python -m http.server 8000 --directory docs
@@ -39,6 +53,7 @@ python -m unittest discover -s tests -v
 
 - 在 `.env` 或 GitHub Secret 设置统一的 `AFFILIATE_LINK`；
 - 或在 `content/posts/` 中搜索替换 `{{affiliate_link}}`，为不同文章填写不同链接。
+- 或设置 `AFFILIATE_ID` 与 `AFFILIATE_LINK_TEMPLATE`，例如 `https://partner.example/go?target={url}&ref={affiliate_id}`。`{url}` 和 `{affiliate_id}` 会安全编码，重新构建即可统一更新所有 CTA 和榜单链接。
 
 只有获得相应联盟计划授权后才使用真实联盟链接。`templates/index.html` 和 `templates/post.html` 中有注释状态的 Google AdSense 脚本，审核通过后替换 `ca-pub-xxxxxxxxxxxxxxxx` 并取消注释。
 
@@ -68,6 +83,8 @@ git push -u origin main
 
 可选 Variables：`CONTENT_MODE`、`OPENAI_MODEL`、`SITE_URL`、`SITE_NAME`、`SITE_DESCRIPTION`、`MAX_PRODUCTS_PER_RUN`、`CUSTOM_DOMAIN`。`SITE_URL` 应填写例如 `https://用户名.github.io/仓库名`。
 
+富化相关 Variables：`ENRICHMENT_ENABLED`、`SCREENSHOT_ENABLED`、`SCREENSHOT_WIDTH`、`SCREENSHOT_HEIGHT`、`PRICING_ENABLED`、`MONITOR_MAX_PRODUCTS`、`RANKING_ENABLED`、`RANKING_DAYS`、`RANKING_LIMIT`。联盟 ID 应保存为 Secret `AFFILIATE_ID`，模板本身保存为 Variable `AFFILIATE_LINK_TEMPLATE`。
+
 ## 绑定自定义域名
 
 1. 添加 Actions Variable `CUSTOM_DOMAIN=tools.example.com`，并把 `SITE_URL` 改成 `https://tools.example.com`；
@@ -79,6 +96,13 @@ git push -u origin main
 
 ## 目录说明
 
-`fetcher.py` 抓取和去重，`generator.py` 生成双语 Markdown，`build.py` 生成 `docs/`，`main.py` 串起每日流程；`content/posts/` 保存文章源文件，`templates/` 保存 Jinja2 模板，`.github/workflows/deploy.yml` 负责定时提交。
+`fetcher.py` 抓取和去重，`link_checker.py` 解析并检查官网，`screenshot.py` 截图，`pricing_parser.py` 提取定价，`history_monitor.py` 管理历史状态，`rankings.py` 生成榜单，`prompt_engine.py` 维护基于证据的提示词，`pipeline.py` 组合富化步骤，`generator.py` 生成双语 Markdown，`build.py` 构建 `docs/`，`main.py` 串起每日流程。
+
+## 已知限制与人工确认
+
+- 官网和 Pricing 页结构没有统一标准，定价解析可能返回空值或不完整结果；页面会保留来源和核验提示。
+- 登录墙、验证码、Cookie 弹窗和反自动化机制可能使截图失败；失败只记日志，不会伪造图片。
+- “推荐”标记只表示优先比较的常规付费套餐，不代表实际性价比结论。
+- 联盟资格、促销适用地区、税费、广告披露和截图使用条件需要站点运营者定期人工确认。
 
 需求指定的 `https://www.producthunt.com/feed.rss` 当前可能返回 404，抓取器会自动回退到 `https://www.producthunt.com/feed` Atom Feed，也可通过 `PRODUCT_HUNT_FEED_URL` 覆盖。

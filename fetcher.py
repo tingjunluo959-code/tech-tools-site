@@ -64,6 +64,32 @@ def _plain_text(raw_html: str) -> str:
     return " ".join(html.unescape(text).split())
 
 
+def _product_redirect(raw_html: str) -> str:
+    """提取 Atom Feed 中名为 Link 的 Product Hunt 出站跳转地址。"""
+    decoded = html.unescape(raw_html)
+    for href, label in re.findall(r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', decoded, flags=re.I | re.S):
+        if re.sub(r"<[^>]+>", "", label).strip().lower() in {"link", "website", "visit"}:
+            return html.unescape(href).strip()
+    return ""
+
+
+def _infer_category(title: str, description: str) -> str:
+    """Feed 通常不带类别；用保守关键词生成可复现的宽分类。"""
+    text = f"{title} {description}".lower()
+    rules = (
+        ("AI", (" ai ", "agent", "gpt", "llm", "model", "生成式", "人工智能")),
+        ("Developer Tools", ("code", "developer", "api", "database", "github", "deploy", "开发")),
+        ("Collaboration", ("team", "collabor", "meeting", "workspace", "团队", "协作")),
+        ("Design", ("design", "image", "video", "ui", "ux", "设计", "图像")),
+        ("Productivity", ("productivity", "workflow", "task", "note", "automation", "效率", "自动化")),
+    )
+    padded = f" {text} "
+    for category, keywords in rules:
+        if any(keyword in padded for keyword in keywords):
+            return category
+    return "未分类"
+
+
 def _first_text(node: ET.Element, paths: list[str], namespaces: dict[str, str]) -> str:
     for path in paths:
         found = node.find(path, namespaces)
@@ -108,12 +134,14 @@ def parse_feed(xml_text: str) -> list[dict[str, str]]:
         if not title or not link:
             LOGGER.warning("跳过缺少标题或链接的 Feed 条目")
             continue
+        plain_description = _plain_text(description)
         products.append(
             {
                 "title": html.unescape(title),
                 "link": link,
-                "description": _plain_text(description),
-                "category": html.unescape(category) if category else "未分类",
+                "description": plain_description,
+                "category": html.unescape(category) if category else _infer_category(title, plain_description),
+                "redirect_url": _product_redirect(description),
             }
         )
     return products
