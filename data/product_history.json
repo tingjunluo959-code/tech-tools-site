@@ -1,5 +1,17 @@
 {
   "products": {
+    "5e87fd587f149b22a23119c38876e5dde1ccd88d78b13aa2a741b064d89ff12a": {
+      "link_status": {
+        "error": "",
+        "ok": true,
+        "status_code": 200,
+        "url": "https://openbase.cloud?ref=producthunt"
+      },
+      "official_url": "https://openbase.cloud?ref=producthunt",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-07-26T09:02:19+00:00"
+    },
     "9ef9b85c577280a80f0ccfa3dde5b9653cf4f53cd9488bc52180b0cdde821bde": {
       "link_status": {
         "error": "",
@@ -10,7 +22,7 @@
       "official_url": "https://www.wisprkey.com/",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-07-25T09:58:41+00:00"
+      "updated_at": "2026-07-26T09:02:20+00:00"
     }
   }
 }
