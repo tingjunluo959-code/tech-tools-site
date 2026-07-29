@@ -10,7 +10,34 @@
       "official_url": "https://usenotate.app/changelog",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-07-28T09:49:41+00:00"
+      "updated_at": "2026-07-29T10:14:27+00:00"
+    },
+    "2ab8b930554a1979d10befaa4fc2610f58b6755aba1081526cf5b7c719957375": {
+      "link_status": {
+        "error": "",
+        "ok": true,
+        "status_code": 200,
+        "url": "https://github.com/waittim/MemoryCustodian?ref=producthunt#start-of-content"
+      },
+      "official_url": "https://github.com/waittim/MemoryCustodian?ref=producthunt#start-of-content",
+      "plans": [
+        {
+          "features": [],
+          "plan": "Free",
+          "price": "free",
+          "recommended": false
+        },
+        {
+          "features": [],
+          "plan": "Team",
+          "price": "$ 4",
+          "recommended": true
+        }
+      ],
+      "promotions": [
+        "free trial"
+      ],
+      "updated_at": "2026-07-29T10:14:27+00:00"
     },
     "5e87fd587f149b22a23119c38876e5dde1ccd88d78b13aa2a741b064d89ff12a": {
       "link_status": {
@@ -22,7 +49,7 @@
       "official_url": "https://openbase.cloud?ref=producthunt",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-07-28T09:49:41+00:00"
+      "updated_at": "2026-07-29T10:14:28+00:00"
     },
     "9ef9b85c577280a80f0ccfa3dde5b9653cf4f53cd9488bc52180b0cdde821bde": {
       "link_status": {
@@ -34,7 +61,7 @@
       "official_url": "https://www.wisprkey.com/",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-07-28T09:49:42+00:00"
+      "updated_at": "2026-07-29T10:14:28+00:00"
     },
     "f4292e611cca0ff5b8a51e59f52bd73957bbd2a8db588d7bef3ef520fe054024": {
       "link_status": {
@@ -46,7 +73,7 @@
       "official_url": "https://dashboard.ycode.cloud/",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-07-28T09:49:40+00:00"
+      "updated_at": "2026-07-29T10:14:29+00:00"
     }
   }
 }

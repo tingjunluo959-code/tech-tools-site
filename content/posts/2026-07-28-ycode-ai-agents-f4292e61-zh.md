@@ -4,7 +4,6 @@ content_type: product
 date: '2026-07-28T09:49:40+00:00'
 lang: zh
 link_status:
-  checked_at: '2026-07-28T09:49:34+00:00'
   error: ''
   ok: true
   status_code: 200
