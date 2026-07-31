@@ -1,38 +1,39 @@
 ---
 category: AI
 content_type: product
-date: '2026-07-30T09:38:48+00:00'
+date: '2026-07-31T10:05:53+00:00'
 lang: en
 link_status:
+  checked_at: '2026-07-31T10:05:05+00:00'
   error: ''
   ok: true
   status_code: 200
-  url: https://www.producthunt.com/products/greplica
-official_url: https://www.producthunt.com/products/greplica
-original_link: https://www.producthunt.com/products/greplica
+  url: https://www.producthunt.com/products/cleanlist-ai
+official_url: https://www.producthunt.com/products/cleanlist-ai
+original_link: https://www.producthunt.com/products/cleanlist-ai
 pricing: []
 pricing_url: https://www.producthunt.com/pricing
-product_id: 2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b
+product_id: b97ff01b3f7b1ba071e6549bda58e1d34e56c45d490ec7b62df694c6e86c8804
 promotion_alerts: []
-screenshot: assets/screenshots/2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b.png
-slug: 2026-07-30-greplica-2dd1dec1
-title: 'Greplica: A Tool Worth Watching'
-translation_slug: 2026-07-30-greplica-2dd1dec1
+screenshot: assets/screenshots/b97ff01b3f7b1ba071e6549bda58e1d34e56c45d490ec7b62df694c6e86c8804.png
+slug: 2026-07-31-cleanlist-ai-b97ff01b
+title: 'Cleanlist AI: A Tool Worth Watching'
+translation_slug: 2026-07-31-cleanlist-ai-b97ff01b
 ---
 
 ![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
 
 ## Quick overview
 
-**Greplica** is a recent Product Hunt launch listed in the **AI** category. The public feed describes it this way:
+**Cleanlist AI** is a recent Product Hunt launch listed in the **AI** category. The public feed describes it this way:
 
-> Self updating wiki for coding agents
+> Natural-language prospecting: find, enrich and sync leads.
 
 That short description is a useful starting point, but it is not a substitute for the product's own documentation. This article intentionally avoids inventing features, prices, reviews, performance claims, or first-hand experience.
 
 ## Why it may be worth a closer look
 
-New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Greplica is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
+New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Cleanlist AI is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
 
 ## Who may find it useful
 
@@ -46,4 +47,4 @@ If your current workflow is stable and no clear pain point exists, bookmarking t
 
 Use [Learn more]({{affiliate_link}}) to open the latest product page. Confirm the current free allowance, subscription price, cancellation process, storage location, privacy policy, support channel, and any limits on integrations. If the tool requests access to email, cloud storage, source code, or team documents, begin with non-sensitive test data and verify that permissions can be revoked. For business use, ask the relevant owner to review security and compliance boundaries.
 
-Overall, Greplica is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
+Overall, Cleanlist AI is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
