@@ -10,7 +10,7 @@
       "official_url": "https://usenotate.app/changelog",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:00+00:00"
+      "updated_at": "2026-08-03T12:41:14+00:00"
     },
     "0b06c683ec5a8fd59669101327a2841dbdce38a4df0944ba2f76fc6eeb433f43": {
       "link_status": {
@@ -22,7 +22,7 @@
       "official_url": "https://www.producthunt.com/products/capptivo",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:55:59+00:00"
+      "updated_at": "2026-08-03T12:41:15+00:00"
     },
     "2ab8b930554a1979d10befaa4fc2610f58b6755aba1081526cf5b7c719957375": {
       "link_status": {
@@ -49,7 +49,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-08-02T07:56:01+00:00"
+      "updated_at": "2026-08-03T12:41:16+00:00"
     },
     "2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b": {
       "link_status": {
@@ -61,7 +61,7 @@
       "official_url": "https://www.producthunt.com/products/greplica",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:02+00:00"
+      "updated_at": "2026-08-03T12:41:16+00:00"
     },
     "5e87fd587f149b22a23119c38876e5dde1ccd88d78b13aa2a741b064d89ff12a": {
       "link_status": {
@@ -73,7 +73,7 @@
       "official_url": "https://openbase.cloud?ref=producthunt",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:02+00:00"
+      "updated_at": "2026-08-03T12:41:17+00:00"
     },
     "6d8748c9972db38d8808f84e0508275e6eb4945fb9ae8a9f3a6683ce0d3c2728": {
       "link_status": {
@@ -85,7 +85,19 @@
       "official_url": "https://apps.apple.com/us/ipad/today",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:03+00:00"
+      "updated_at": "2026-08-03T12:41:18+00:00"
+    },
+    "9632a0c11067a220c1cfbd16685451bdc0e1a1ce6039e03a7758e4e47847eb2b": {
+      "link_status": {
+        "error": "",
+        "ok": true,
+        "status_code": 200,
+        "url": "https://www.producthunt.com/products/qwen3"
+      },
+      "official_url": "https://www.producthunt.com/products/qwen3",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-08-03T12:41:14+00:00"
     },
     "9ef9b85c577280a80f0ccfa3dde5b9653cf4f53cd9488bc52180b0cdde821bde": {
       "link_status": {
@@ -97,7 +109,7 @@
       "official_url": "https://www.wisprkey.com/",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:03+00:00"
+      "updated_at": "2026-08-03T12:41:18+00:00"
     },
     "b97ff01b3f7b1ba071e6549bda58e1d34e56c45d490ec7b62df694c6e86c8804": {
       "link_status": {
@@ -109,7 +121,7 @@
       "official_url": "https://www.producthunt.com/products/cleanlist-ai",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:04+00:00"
+      "updated_at": "2026-08-03T12:41:19+00:00"
     },
     "f4292e611cca0ff5b8a51e59f52bd73957bbd2a8db588d7bef3ef520fe054024": {
       "link_status": {
@@ -121,7 +133,7 @@
       "official_url": "https://dashboard.ycode.cloud/",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-02T07:56:05+00:00"
+      "updated_at": "2026-08-03T12:41:20+00:00"
     }
   }
 }
