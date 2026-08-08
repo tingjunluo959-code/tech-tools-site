@@ -1,38 +1,39 @@
 ---
 category: AI
 content_type: product
-date: '2026-08-07T05:54:36+00:00'
+date: '2026-08-08T04:18:21+00:00'
 lang: en
 link_status:
+  checked_at: '2026-08-08T04:18:13+00:00'
   error: ''
   ok: true
   status_code: 200
-  url: https://www.producthunt.com/products/superlog
-official_url: https://www.producthunt.com/products/superlog
-original_link: https://www.producthunt.com/products/superlog
+  url: https://www.promptbridge.co/
+official_url: https://www.promptbridge.co/
+original_link: https://www.producthunt.com/products/prompt-bridge-2
 pricing: []
-pricing_url: https://www.producthunt.com/pricing
-product_id: 46490c69d777bf7f2de061a5c736056f2d2f84648f67e903760cca6ffc7a327c
+pricing_url: https://www.promptbridge.co/pricing
+product_id: a5fab50b51813b4174840eee620e3aac36668319e023402ccf40b0acc5881331
 promotion_alerts: []
-screenshot: assets/screenshots/46490c69d777bf7f2de061a5c736056f2d2f84648f67e903760cca6ffc7a327c.png
-slug: 2026-08-07-superlog-responder-46490c69
-title: 'Superlog Responder: A Tool Worth Watching'
-translation_slug: 2026-08-07-superlog-responder-46490c69
+screenshot: assets/screenshots/a5fab50b51813b4174840eee620e3aac36668319e023402ccf40b0acc5881331.png
+slug: 2026-08-08-prompt-bridge-a5fab50b
+title: 'Prompt Bridge: A Tool Worth Watching'
+translation_slug: 2026-08-08-prompt-bridge-a5fab50b
 ---
 
 ![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
 
 ## Quick overview
 
-**Superlog Responder** is a recent Product Hunt launch listed in the **AI** category. The public feed describes it this way:
+**Prompt Bridge** is a recent Product Hunt launch listed in the **AI** category. The public feed describes it this way:
 
-> Free, open-source AI bug-fixing agent
+> Keep AI Context Portable
 
 That short description is a useful starting point, but it is not a substitute for the product's own documentation. This article intentionally avoids inventing features, prices, reviews, performance claims, or first-hand experience.
 
 ## Why it may be worth a closer look
 
-New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Superlog Responder is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
+New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Prompt Bridge is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
 
 ## Who may find it useful
 
@@ -46,4 +47,4 @@ If your current workflow is stable and no clear pain point exists, bookmarking t
 
 Use [Learn more]({{affiliate_link}}) to open the latest product page. Confirm the current free allowance, subscription price, cancellation process, storage location, privacy policy, support channel, and any limits on integrations. If the tool requests access to email, cloud storage, source code, or team documents, begin with non-sensitive test data and verify that permissions can be revoked. For business use, ask the relevant owner to review security and compliance boundaries.
 
-Overall, Superlog Responder is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
+Overall, Prompt Bridge is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
