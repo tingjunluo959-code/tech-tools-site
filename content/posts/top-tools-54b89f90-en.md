@@ -1,7 +1,7 @@
 ---
 category: 未分类
 content_type: ranking
-date: '2026-08-02T07:55:59+00:00'
+date: '2026-08-09T04:46:30+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-tools-54b89f90
@@ -13,22 +13,22 @@ translation_slug: top-tools-54b89f90
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [Capptivo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/capptivo}})
+### 1. [Basedash Subscriptions: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/basedash}})
 
 ![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
 
-### 2. [EssayKraft: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/essaykraft}})
+### 2. [Capptivo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/capptivo}})
 
 ![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
 
-### 3. [Wisprkey: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/wisprkey-mac-ai-assistant}})
+### 3. [EssayKraft: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/essaykraft}})
 
 ![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
 
-### 4. [ADE: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ade-agentic-development-environment}})
+### 4. [Wisprkey: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/wisprkey-mac-ai-assistant}})
 
-## Quick overview
+![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
 
-### 5. [The new Firecrawl /search: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/extract-by-firecrawl}})
+### 5. [ADE: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ade-agentic-development-environment}})
 
 ## Quick overview
