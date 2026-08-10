@@ -56,6 +56,12 @@ class BuildTests(unittest.TestCase):
             self.assertTrue((output / "assets/js/search.js").exists())
             site_css = (output / "assets/css/site.css").read_text(encoding="utf-8")
             self.assertIn("scrollbar-width: none", site_css)
+            # 透视效果必须位于固定背景层；放在 body 会让 fixed 元素相对整篇长文定位。
+            body_css = site_css.split("body {", 1)[1].split("}", 1)[0]
+            background_css = site_css.split(".bg-3d-container {", 1)[1].split("}", 1)[0]
+            self.assertNotIn("perspective:", body_css)
+            self.assertIn("position: fixed", background_css)
+            self.assertIn("perspective: 1000px", background_css)
             archive_html = (output / "archive.html").read_text(encoding="utf-8")
             self.assertIn("文章 0</a>", archive_html)
             self.assertIn("文章 10</a>", archive_html)
