@@ -1,48 +1,60 @@
-<!doctype html>
-<html lang="{{ 'zh-CN' if language == 'zh' else 'en' }}">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ site_description }}">
-  <title>{{ site_name }}</title>
-  <link rel="alternate" type="application/rss+xml" title="{{ site_name }} RSS" href="{{ rss_href }}">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-  <style>
-    :root { --pico-font-family-sans-serif: system-ui, "PingFang SC", "Microsoft YaHei", sans-serif; }
-    header { padding-block: 3rem 2rem; } article { overflow-wrap: anywhere; }
-    .meta { color: var(--pico-muted-color); font-size: .9rem; } footer { text-align: center; padding-block: 2rem; }
-  </style>
-  <!-- 启用 AdSense 时，替换 ca-pub ID 并取消下一行注释。 -->
-  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx" crossorigin="anonymous"></script> -->
-</head>
-<body>
-  <header class="container">
-    <nav aria-label="{{ '主导航' if language == 'zh' else 'Primary navigation' }}">
-      <ul><li><strong>{{ site_name }}</strong></li></ul>
-      <ul>
-        <li><a href="{{ rss_href }}">RSS</a></li>
-        <li><a href="{{ switch_href }}">{{ 'English' if language == 'zh' else '中文' }}</a></li>
-      </ul>
-    </nav>
-    <h1>{{ '每天发现一个好工具' if language == 'zh' else 'One useful tool, every day' }}</h1>
-    <p>{{ site_description }}</p>
-  </header>
-  <main class="container" id="main-content">
-    {% if posts %}
-      {% for post in posts %}
-      <article>
-        <header>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <p class="meta"><time datetime="{{ post.date.isoformat() }}">{{ post.date_text }}</time> · {{ post.category }}</p>
-        </header>
-        <p>{{ post.summary }}</p>
-        <footer><a href="{{ post.url }}">{{ '阅读全文 →' if language == 'zh' else 'Read more →' }}</a></footer>
-      </article>
-      {% endfor %}
-    {% else %}
-      <article><h2>{{ '文章正在准备中' if language == 'zh' else 'Articles are coming soon' }}</h2><p>{{ '下一次自动运行后，最新文章会显示在这里。' if language == 'zh' else 'New articles will appear here after the next scheduled run.' }}</p></article>
-    {% endif %}
-  </main>
-  <footer class="container"><small>{{ '本网站部分链接可能是联盟链接；通过这些链接购买不会增加你的费用，但站点可能获得佣金。' if language == 'zh' else 'Some links may be affiliate links. Your price does not increase, but the site may earn a commission.' }}</small></footer>
-</body>
-</html>
+{% extends "base.html" %}
+{% from "macros/news_card.html" import news_card %}
+
+{% block content %}
+<header class="mb-10 border-b border-gray-800/40 pb-6">
+  <nav class="site-nav mb-12 flex items-center justify-between gap-4" aria-label="{{ '主导航' if language == 'zh' else 'Primary navigation' }}">
+    <a class="text-sm font-semibold tracking-wide text-gray-100" href="{{ home_href }}">{{ site_name }}</a>
+    <div class="flex items-center gap-5 text-xs text-gray-400">
+      <a class="transition-colors hover:text-white" href="{{ rss_href }}">RSS</a>
+      <a class="rounded-full border border-gray-700/30 bg-gray-800/30 px-4 py-2 transition-colors hover:border-gray-600/60 hover:text-white" href="{{ switch_href }}">
+        {{ 'English' if language == 'zh' else '中文' }}
+      </a>
+    </div>
+  </nav>
+
+  <div class="flex flex-col items-start justify-between gap-6 md:flex-row md:items-end">
+    <div>
+      <h1 class="animate-text-shimmer mb-2 bg-gradient-to-r from-blue-400 via-purple-400 to-blue-400 bg-clip-text text-4xl font-bold tracking-tight text-transparent md:text-5xl">
+        ◈ {{ site_name }}
+      </h1>
+      <p class="max-w-2xl text-sm font-light leading-relaxed text-gray-400">{{ site_description }}</p>
+      <p class="mt-3 text-xs uppercase tracking-[0.22em] text-gray-600">
+        {{ 'Art Meets Tech / 每日工具观察' if language == 'zh' else 'Art Meets Tech / Daily Tool Notes' }}
+      </p>
+    </div>
+    <span class="shrink-0 rounded-full border border-gray-700/20 bg-gray-800/30 px-4 py-2 text-xs font-light text-gray-300 backdrop-blur">
+      {{ ('最新 ' ~ (posts | length) ~ ' 篇') if language == 'zh' else ((posts | length) ~ ' latest stories') }}
+    </span>
+  </div>
+</header>
+
+<main id="main-content">
+  {% set category_styles = {
+    'AI': {'tag': 'text-blue-400 bg-blue-500/10', 'hover': 'group-hover:text-blue-300'},
+    'Developer Tools': {'tag': 'text-purple-400 bg-purple-500/10', 'hover': 'group-hover:text-purple-300'},
+    'Productivity': {'tag': 'text-orange-400 bg-orange-500/10', 'hover': 'group-hover:text-orange-300'},
+    'Design': {'tag': 'text-pink-400 bg-pink-500/10', 'hover': 'group-hover:text-pink-300'},
+    'Collaboration': {'tag': 'text-emerald-400 bg-emerald-500/10', 'hover': 'group-hover:text-emerald-300'}
+  } %}
+  {% set fallback_style = {'tag': 'text-gray-300 bg-gray-500/10', 'hover': 'group-hover:text-gray-200'} %}
+
+  {% if posts %}
+  <section class="mb-12 grid grid-cols-1 gap-6 md:grid-cols-2" aria-label="{{ '最新文章' if language == 'zh' else 'Latest articles' }}">
+    {% for post in posts %}
+      {% set style = category_styles.get(post.category, fallback_style) %}
+      {{ news_card(post, language, style.tag, style.hover) }}
+    {% endfor %}
+  </section>
+  {% else %}
+  <section class="glass-panel rounded-2xl p-10 text-center">
+    <h2 class="mb-2 text-xl font-semibold text-white">{{ '文章正在准备中' if language == 'zh' else 'Articles are coming soon' }}</h2>
+    <p class="text-sm text-gray-400">{{ '下一次自动运行后，最新文章会显示在这里。' if language == 'zh' else 'New articles will appear here after the next scheduled run.' }}</p>
+  </section>
+  {% endif %}
+</main>
+
+<footer class="border-t border-gray-800/40 py-8 text-center text-xs font-light leading-relaxed text-gray-600">
+  {{ '本网站部分链接可能是联盟链接；通过这些链接购买不会增加你的费用，但站点可能获得佣金。' if language == 'zh' else 'Some links may be affiliate links. Your price does not increase, but the site may earn a commission.' }}
+</footer>
+{% endblock %}

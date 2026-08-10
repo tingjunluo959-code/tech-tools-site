@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="{{ 'zh-CN' if language == 'zh' else 'en' }}" class="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% block page_description %}{{ site_description }}{% endblock %}">
+  <title>{% block page_title %}{{ site_name }}{% endblock %}</title>
+  <link rel="alternate" type="application/rss+xml" title="{{ site_name }} RSS" href="{{ rss_href }}">
+
+  <!-- 当前项目没有 Node 构建步骤，使用 Tailwind Play CDN 保持部署流程简单。 -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: "class"
+    };
+  </script>
+  <link rel="stylesheet" href="{{ site_url }}/assets/css/site.css">
+
+  <!-- 启用 AdSense 时，替换 ca-pub ID 并取消下一行注释。 -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx" crossorigin="anonymous"></script> -->
+</head>
+<body class="min-h-screen bg-[#050508] px-5 py-6 text-gray-100 md:px-10 md:py-10">
+  <a class="skip-link" href="#main-content">{{ '跳到主要内容' if language == 'zh' else 'Skip to main content' }}</a>
+
+  <!-- 固定在全站内容下方的 3D 艺术背景。 -->
+  <div class="bg-3d-container" id="bg3dContainer" aria-hidden="true">
+    <div class="breath-light"></div>
+    <div class="tech-grid"></div>
+    <div class="art-ring-wrapper">
+      <div class="art-ring"></div>
+      <div class="ring-glow"></div>
+    </div>
+  </div>
+
+  <div class="content-wrapper mx-auto w-full max-w-5xl">
+    {% block content %}{% endblock %}
+  </div>
+
+  <script src="{{ site_url }}/assets/js/main.js" defer></script>
+</body>
+</html>
