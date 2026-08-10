@@ -50,6 +50,8 @@ class BuildTests(unittest.TestCase):
             self.assertIn("https://site.example/assets/css/site.css", index_html)
             self.assertTrue((output / "assets/css/site.css").exists())
             self.assertTrue((output / "assets/js/main.js").exists())
+            site_css = (output / "assets/css/site.css").read_text(encoding="utf-8")
+            self.assertIn("scrollbar-width: none", site_css)
             post_html = (output / "posts/post-10.html").read_text(encoding="utf-8")
             self.assertIn("https://affiliate.example/ref", post_html)
             self.assertIn('class="article-content"', post_html)

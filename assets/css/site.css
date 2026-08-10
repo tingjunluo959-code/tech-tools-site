@@ -8,6 +8,16 @@ html {
   background: #050508;
   overflow-x: hidden;
   scroll-behavior: smooth;
+  /* 内嵌浏览器已有外层滚动条，隐藏页面轨道但保留滚轮、键盘和触摸滚动。 */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
 }
 
 body {
