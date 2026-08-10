@@ -1,4 +1,8 @@
 {% macro news_card(post, language, category_classes, title_hover_class) -%}
+{% set card_summary = post.summary
+  | replace('! Public product page screenshot automated capture, not proof of hands on use {{screenshot path}} ', '')
+  | replace('! 产品公开页面截图（自动采集，非实际使用证明） {{screenshot path}} ', '')
+%}
 <article class="news-card group flex h-full flex-col rounded-2xl p-6">
   <div class="mb-3 flex items-start justify-between gap-4">
     <span class="rounded-full px-3 py-1 text-xs font-medium {{ category_classes }}">
@@ -14,7 +18,7 @@
   </h2>
 
   <p class="line-clamp-4 flex-1 text-sm font-light leading-relaxed text-gray-400">
-    {{ post.summary }}
+    {{ card_summary }}
   </p>
 
   <footer class="mt-5 flex items-center justify-between gap-4 border-t border-gray-700/20 pt-4 text-xs font-light text-gray-500">
