@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% from "macros/navigation.html" import site_navigation %}
+
+{% block page_title %}{{ '文章分类' if language == 'zh' else 'Categories' }} | {{ site_name }}{% endblock %}
+{% block page_description %}{{ '按产品类别浏览科技工具文章。' if language == 'zh' else 'Browse technology tool articles by category.' }}{% endblock %}
+
+{% block content %}
+<header class="mb-10 border-b border-gray-800/40 pb-8">
+  {{ site_navigation(site_name, language, home_href, archive_href, categories_href, search_href, rss_href, switch_href, current_page) }}
+  <p class="mb-2 text-xs uppercase tracking-[0.22em] text-purple-400">{{ 'Categories / 分类浏览' if language == 'zh' else 'Categories / Browse by topic' }}</p>
+  <h1 class="text-3xl font-bold tracking-tight text-white md:text-5xl">{{ '文章分类' if language == 'zh' else 'Article categories' }}</h1>
+  <p class="mt-3 max-w-2xl text-sm leading-relaxed text-gray-400">{{ ('共 ' ~ post_count ~ ' 篇文章，按产品领域整理。') if language == 'zh' else (post_count ~ ' articles grouped by product area.') }}</p>
+</header>
+
+<main id="main-content">
+  {% if category_groups %}
+  <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+    {% for group in category_groups %}
+    <section class="glass-panel rounded-2xl p-6" id="category-{{ loop.index }}">
+      <header class="mb-5 flex items-center justify-between gap-4 border-b border-gray-800/60 pb-4">
+        <h2 class="text-xl font-semibold text-white">{{ group.name }}</h2>
+        <a class="rounded-full bg-gray-800/50 px-3 py-1 text-xs text-gray-400 transition-colors hover:text-white" href="{{ search_href }}?q={{ group.name | urlencode }}">{{ group.posts | length }} {{ '篇' if language == 'zh' else 'articles' }}</a>
+      </header>
+      <ol class="space-y-4">
+        {% for post in group.posts %}
+        <li class="flex items-start justify-between gap-4">
+          <a class="min-w-0 text-sm leading-relaxed text-gray-300 transition-colors hover:text-blue-300" href="{{ post.url }}">{{ post.title }}</a>
+          <time class="shrink-0 pt-0.5 text-xs text-gray-600" datetime="{{ post.date.isoformat() }}">{{ post.date_text }}</time>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endfor %}
+  </div>
+  {% else %}
+  <section class="glass-panel rounded-2xl p-10 text-center text-gray-400">{{ '暂无分类。' if language == 'zh' else 'No categories yet.' }}</section>
+  {% endif %}
+</main>
+
+<footer class="border-t border-gray-800/40 py-8 text-center text-xs text-gray-600">{{ site_name }}</footer>
+{% endblock %}

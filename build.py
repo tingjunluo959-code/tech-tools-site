@@ -31,6 +31,10 @@ def _parse_date(value: object) -> datetime:
 
 def _summary(markdown_text: str, limit: int = 150) -> str:
     plain = markdown_text.replace("{{affiliate_link}}", "")
+    # 摘要不应暴露 Markdown 图片、截图路径或榜单动态链接占位符。
+    plain = re.sub(r"!\[[^\]]*\]\([^)]+\)", " ", plain)
+    plain = re.sub(r"\{\{screenshot_path\}\}", " ", plain)
+    plain = re.sub(r"\{\{affiliate_url\|[^}]+\}\}", " ", plain)
     plain = re.sub(r"[\[\]#*_>`~()-]", " ", plain)
     plain = " ".join(plain.split())
     return plain if len(plain) <= limit else plain[:limit].rstrip() + "…"
@@ -73,7 +77,7 @@ def load_posts(content_dir: Path = CONTENT_DIR) -> list[dict[str, object]]:
 
 
 def _render_language(posts: list[dict[str, object]], language: str, env: Environment, output_dir: Path, common: dict[str, str], affiliate_link: str, force_root: bool = False) -> None:
-    """渲染一种语言的首页、文章页和 RSS。"""
+    """渲染一种语言的首页、文章页、归档、分类、搜索和 RSS。"""
     is_zh = language == "zh"
     prefix = output_dir / "zh" if is_zh and not force_root else output_dir
     posts_dir = prefix / "posts"
@@ -102,7 +106,17 @@ def _render_language(posts: list[dict[str, object]], language: str, env: Environ
         post["html"] = Markup(markdown.markdown(str(escape(body)), extensions=["extra", "sane_lists"]))
         counterpart = other_posts.get(str(post["translation_slug"]))
         context = dict(common)
-        context.update({"language": language, "home_href": "../index.html", "rss_href": "../rss.xml", "language_label": "中文" if is_zh else "English", "switch_href": f"../../posts/{quote(str(counterpart['slug']))}.html" if is_zh and counterpart else (f"../zh/posts/{quote(str(counterpart['slug']))}.html" if counterpart else "../zh/index.html" if not is_zh else "../index.html")})
+        context.update({
+            "language": language,
+            "home_href": "../index.html",
+            "archive_href": "../archive.html",
+            "categories_href": "../categories.html",
+            "search_href": "../search.html",
+            "rss_href": "../rss.xml",
+            "current_page": "post",
+            "language_label": "中文" if is_zh else "English",
+            "switch_href": f"../../posts/{quote(str(counterpart['slug']))}.html" if is_zh and counterpart else (f"../zh/posts/{quote(str(counterpart['slug']))}.html" if counterpart else "../zh/index.html" if not is_zh else "../index.html"),
+        })
         (posts_dir / f"{quote(str(post['slug']))}.html").write_text(template.render(post=post, **context), encoding="utf-8")
 
     rss_posts = []
@@ -117,9 +131,42 @@ def _render_language(posts: list[dict[str, object]], language: str, env: Environ
     rss_context.update({"language": language, "language_code": "zh-CN" if is_zh else "en", "rss_path": "zh/rss.xml" if is_zh else "rss.xml"})
     (prefix / "rss.xml").write_text(env.get_template("rss.xml").render(posts=rss_posts, build_date=format_datetime(build_date), **rss_context), encoding="utf-8")
 
+    page_navigation = {
+        "language": language,
+        "home_href": "index.html",
+        "archive_href": "archive.html",
+        "categories_href": "categories.html",
+        "search_href": "search.html",
+        "rss_href": "rss.xml",
+        "language_label": "中文" if is_zh else "English",
+    }
+
     index_context = dict(common)
-    index_context.update({"language": language, "home_href": "index.html", "rss_href": "rss.xml", "language_label": "中文" if is_zh else "English", "switch_href": "../index.html" if is_zh else "zh/index.html"})
+    index_context.update(page_navigation)
+    index_context.update({"current_page": "home", "switch_href": "../index.html" if is_zh else "zh/index.html"})
     (prefix / "index.html").write_text(env.get_template("index.html").render(posts=selected[:10], **index_context), encoding="utf-8")
+
+    archive_context = dict(common)
+    archive_context.update(page_navigation)
+    archive_context.update({"current_page": "archive", "switch_href": "../archive.html" if is_zh else "zh/archive.html"})
+    (prefix / "archive.html").write_text(env.get_template("archive.html").render(posts=selected, **archive_context), encoding="utf-8")
+
+    grouped: dict[str, list[dict[str, object]]] = {}
+    for post in selected:
+        grouped.setdefault(str(post["category"]), []).append(post)
+    category_groups = [
+        {"name": name, "posts": grouped[name]}
+        for name in sorted(grouped, key=str.casefold)
+    ]
+    categories_context = dict(common)
+    categories_context.update(page_navigation)
+    categories_context.update({"current_page": "categories", "switch_href": "../categories.html" if is_zh else "zh/categories.html"})
+    (prefix / "categories.html").write_text(env.get_template("categories.html").render(category_groups=category_groups, post_count=len(selected), **categories_context), encoding="utf-8")
+
+    search_context = dict(common)
+    search_context.update(page_navigation)
+    search_context.update({"current_page": "search", "switch_href": "../search.html" if is_zh else "zh/search.html"})
+    (prefix / "search.html").write_text(env.get_template("search.html").render(posts=selected, **search_context), encoding="utf-8")
 
 
 def build_site(content_dir: Path = CONTENT_DIR, template_dir: Path = TEMPLATE_DIR, output_dir: Path = OUTPUT_DIR, asset_dir: Path = Path("assets")) -> int:

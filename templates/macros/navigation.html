@@ -1,0 +1,14 @@
+{% macro site_navigation(site_name, language, home_href, archive_href, categories_href, search_href, rss_href, switch_href, current_page) -%}
+<nav class="site-nav mb-12 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between" aria-label="{{ '主导航' if language == 'zh' else 'Primary navigation' }}">
+  <a class="text-sm font-semibold tracking-wide text-gray-100" href="{{ home_href }}">{{ site_name }}</a>
+  <div class="flex flex-wrap items-center gap-x-4 gap-y-3 text-xs text-gray-400 sm:justify-end">
+    <a class="transition-colors hover:text-white {{ 'text-white' if current_page == 'archive' else '' }}" href="{{ archive_href }}"{% if current_page == 'archive' %} aria-current="page"{% endif %}>{{ '全部文章' if language == 'zh' else 'Archive' }}</a>
+    <a class="transition-colors hover:text-white {{ 'text-white' if current_page == 'categories' else '' }}" href="{{ categories_href }}"{% if current_page == 'categories' %} aria-current="page"{% endif %}>{{ '分类' if language == 'zh' else 'Categories' }}</a>
+    <a class="transition-colors hover:text-white {{ 'text-white' if current_page == 'search' else '' }}" href="{{ search_href }}"{% if current_page == 'search' %} aria-current="page"{% endif %}>{{ '搜索' if language == 'zh' else 'Search' }}</a>
+    <a class="transition-colors hover:text-white" href="{{ rss_href }}">RSS</a>
+    <a class="rounded-full border border-gray-700/30 bg-gray-800/30 px-4 py-2 transition-colors hover:border-gray-600/60 hover:text-white" href="{{ switch_href }}">
+      {{ 'English' if language == 'zh' else '中文' }}
+    </a>
+  </div>
+</nav>
+{%- endmacro %}

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% from "macros/news_card.html" import news_card %}
+{% from "macros/navigation.html" import site_navigation %}
+
+{% block page_title %}{{ '全部文章' if language == 'zh' else 'Archive' }} | {{ site_name }}{% endblock %}
+{% block page_description %}{{ '浏览网站发布的全部科技工具文章。' if language == 'zh' else 'Browse every technology tool article published on the site.' }}{% endblock %}
+
+{% block content %}
+<header class="mb-10 border-b border-gray-800/40 pb-8">
+  {{ site_navigation(site_name, language, home_href, archive_href, categories_href, search_href, rss_href, switch_href, current_page) }}
+  <div class="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+    <div>
+      <p class="mb-2 text-xs uppercase tracking-[0.22em] text-blue-400">{{ 'Archive / 历史内容' if language == 'zh' else 'Archive / All stories' }}</p>
+      <h1 class="text-3xl font-bold tracking-tight text-white md:text-5xl">{{ '全部文章' if language == 'zh' else 'All articles' }}</h1>
+      <p class="mt-3 max-w-2xl text-sm leading-relaxed text-gray-400">{{ '按发布时间倒序浏览所有历史文章。' if language == 'zh' else 'Browse every article in reverse chronological order.' }}</p>
+    </div>
+    <span class="rounded-full border border-gray-700/30 bg-gray-800/30 px-4 py-2 text-xs text-gray-400">{{ posts | length }} {{ '篇文章' if language == 'zh' else 'articles' }}</span>
+  </div>
+</header>
+
+<main id="main-content">
+  {% set category_styles = {
+    'AI': {'tag': 'text-blue-400 bg-blue-500/10', 'hover': 'group-hover:text-blue-300'},
+    'Developer Tools': {'tag': 'text-purple-400 bg-purple-500/10', 'hover': 'group-hover:text-purple-300'},
+    'Productivity': {'tag': 'text-orange-400 bg-orange-500/10', 'hover': 'group-hover:text-orange-300'},
+    'Design': {'tag': 'text-pink-400 bg-pink-500/10', 'hover': 'group-hover:text-pink-300'},
+    'Collaboration': {'tag': 'text-emerald-400 bg-emerald-500/10', 'hover': 'group-hover:text-emerald-300'}
+  } %}
+  {% set fallback_style = {'tag': 'text-gray-300 bg-gray-500/10', 'hover': 'group-hover:text-gray-200'} %}
+
+  {% if posts %}
+  <section class="mb-12 grid grid-cols-1 gap-6 md:grid-cols-2" aria-label="{{ '全部文章' if language == 'zh' else 'All articles' }}">
+    {% for post in posts %}
+      {% set style = category_styles.get(post.category, fallback_style) %}
+      {{ news_card(post, language, style.tag, style.hover) }}
+    {% endfor %}
+  </section>
+  {% else %}
+  <section class="glass-panel rounded-2xl p-10 text-center text-gray-400">{{ '暂无文章。' if language == 'zh' else 'No articles yet.' }}</section>
+  {% endif %}
+</main>
+
+<footer class="border-t border-gray-800/40 py-8 text-center text-xs text-gray-600">{{ site_name }}</footer>
+{% endblock %}

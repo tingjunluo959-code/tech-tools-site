@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search article titles, categories, and summaries.">
+  <title>Search | Tech Tools Worth Watching</title>
+  <link rel="alternate" type="application/rss+xml" title="Tech Tools Worth Watching RSS" href="rss.xml">
+
+  <!-- 当前项目没有 Node 构建步骤，使用 Tailwind Play CDN 保持部署流程简单。 -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: "class"
+    };
+  </script>
+  <link rel="stylesheet" href="https://tingjunluo959-code.github.io/tech-tools-site/assets/css/site.css">
+
+  <!-- 启用 AdSense 时，替换 ca-pub ID 并取消下一行注释。 -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx" crossorigin="anonymous"></script> -->
+</head>
+<body class="min-h-screen bg-[#050508] px-5 py-6 text-gray-100 md:px-10 md:py-10">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <!-- 固定在全站内容下方的 3D 艺术背景。 -->
+  <div class="bg-3d-container" id="bg3dContainer" aria-hidden="true">
+    <div class="breath-light"></div>
+    <div class="tech-grid"></div>
+    <div class="art-ring-wrapper">
+      <div class="art-ring"></div>
+      <div class="ring-glow"></div>
+    </div>
+  </div>
+
+  <div class="content-wrapper mx-auto w-full max-w-5xl">
+<header class="mb-10 border-b border-gray-800/40 pb-8">
+  <nav class="site-nav mb-12 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between" aria-label="Primary navigation">
+  <a class="text-sm font-semibold tracking-wide text-gray-100" href="index.html">Tech Tools Worth Watching</a>
+  <div class="flex flex-wrap items-center gap-x-4 gap-y-3 text-xs text-gray-400 sm:justify-end">
+    <a class="transition-colors hover:text-white " href="archive.html">Archive</a>
+    <a class="transition-colors hover:text-white " href="categories.html">Categories</a>
+    <a class="transition-colors hover:text-white text-white" href="search.html" aria-current="page">Search</a>
+    <a class="transition-colors hover:text-white" href="rss.xml">RSS</a>
+    <a class="rounded-full border border-gray-700/30 bg-gray-800/30 px-4 py-2 transition-colors hover:border-gray-600/60 hover:text-white" href="zh/search.html">
+      中文
+    </a>
+  </div>
+</nav>
+  <p class="mb-2 text-xs uppercase tracking-[0.22em] text-emerald-400">Search / Private and instant</p>
+  <h1 class="text-3xl font-bold tracking-tight text-white md:text-5xl">Search the site</h1>
+  <p class="mt-3 max-w-2xl text-sm leading-relaxed text-gray-400">Search runs entirely in your browser; your query is not uploaded.</p>
+</header>
+
+<main id="main-content">
+  <section class="glass-panel mb-8 rounded-2xl p-5 md:p-7" role="search">
+    <label class="mb-3 block text-sm font-medium text-gray-200" for="siteSearchInput">Enter a title, category, or keyword</label>
+    <div class="flex flex-col gap-3 sm:flex-row">
+      <input class="min-w-0 flex-1 rounded-xl border border-gray-700/60 bg-black/30 px-4 py-3 text-base text-white outline-none transition-colors placeholder:text-gray-600 focus:border-blue-500/70" id="siteSearchInput" type="search" autocomplete="off" placeholder="For example: AI, collaboration, Omniwork">
+      <button class="rounded-xl border border-gray-700/50 bg-gray-800/40 px-5 py-3 text-sm text-gray-300 transition-colors hover:border-gray-600 hover:text-white" id="siteSearchClear" type="button">Clear</button>
+    </div>
+    <p class="mt-4 text-xs text-gray-500" id="siteSearchCount" data-label="articles" aria-live="polite"></p>
+  </section>
+
+  <section aria-label="Search results">
+    <ul class="space-y-4" id="siteSearchResults">
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="omniwork: a tool worth watching ai quick overview omniwork is a recent product hunt launch listed in the ai category. the public feed describes it this way: the creative agent os, creat…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-10T05:11:10+00:00">2026-08-10</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-10-omniwork-5213ab9e.html">Omniwork: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Omniwork is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The Creative Agent OS, creat…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="2026: top 5 ai tools to watch ai top tools in ai a rolling shortlist based on recent product hunt coverage. verify current features and pricing on each official page before deciding.…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-10T05:11:10+00:00">2026-08-10</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/top-ai-11fb682b.html">2026: Top 5 AI Tools to Watch</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="basedash subscriptions: a tool worth watching 未分类 quick overview basedash subscriptions is a recent product hunt launch listed in the 未分类 category. the public feed describes it this way: subscribe to…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-09T04:46:30+00:00">2026-08-09</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-09-basedash-subscriptions-127639cc.html">Basedash Subscriptions: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Basedash Subscriptions is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Subscribe to…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="2026: top 5 未分类 tools to watch 未分类 top tools in 未分类 a rolling shortlist based on recent product hunt coverage. verify current features and pricing on each official page before deciding.…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-09T04:46:30+00:00">2026-08-09</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/top-tools-54b89f90.html">2026: Top 5 未分类 Tools to Watch</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="prompt bridge: a tool worth watching ai quick overview prompt bridge is a recent product hunt launch listed in the ai category. the public feed describes it this way: keep ai context portabl…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-08T04:18:21+00:00">2026-08-08</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-08-prompt-bridge-a5fab50b.html">Prompt Bridge: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Prompt Bridge is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep AI Context Portabl…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="superlog responder: a tool worth watching ai quick overview superlog responder is a recent product hunt launch listed in the ai category. the public feed describes it this way: free, open source…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-07T05:54:36+00:00">2026-08-07</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-07-superlog-responder-46490c69.html">Superlog Responder: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Superlog Responder is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Free, open source…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="brandfetch mcp: a tool worth watching ai quick overview brandfetch mcp is a recent product hunt launch listed in the ai category. the public feed describes it this way: stop your ai from gues…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-06T10:15:33+00:00">2026-08-06</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-06-brandfetch-mcp-9eea8c87.html">Brandfetch MCP: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Brandfetch MCP is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Stop your AI from gues…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="wispr flow notetaker: a tool worth watching collaboration quick overview wispr flow notetaker is a recent product hunt launch listed in the collaboration category. the public feed describes it this way: meeti…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">Collaboration</span>
+          <time datetime="2026-08-05T10:08:20+00:00">2026-08-05</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-05-wispr-flow-notetaker-0ac1be6c.html">Wispr Flow Notetaker: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Wispr Flow Notetaker is a recent Product Hunt launch listed in the Collaboration category. The public feed describes it this way: Meeti…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="artdeck: a tool worth watching design quick overview artdeck is a recent product hunt launch listed in the design category. the public feed describes it this way: reference boards with vis…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">Design</span>
+          <time datetime="2026-08-04T10:16:00+00:00">2026-08-04</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-04-artdeck-87067f72.html">ArtDeck: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview ArtDeck is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Reference boards with vis…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="qwen3.8-max: a tool worth watching ai quick overview qwen3.8 max is a recent product hunt launch listed in the ai category. the public feed describes it this way: qwen’s most capable model…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-03T12:41:14+00:00">2026-08-03</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-03-qwen3-8-max-9632a0c1.html">Qwen3.8-Max: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Qwen3.8 Max is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Qwen’s most capable model…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="capptivo: a tool worth watching 未分类 quick overview capptivo is a recent product hunt launch listed in the 未分类 category. the public feed describes it this way: free open source screen rec…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-02T07:55:59+00:00">2026-08-02</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-02-capptivo-0b06c683.html">Capptivo: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Capptivo is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Free open source screen rec…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="essaykraft: a tool worth watching 未分类 quick overview essaykraft is a recent product hunt launch listed in the 未分类 category. the public feed describes it this way: native essay writing app…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-01T07:54:13+00:00">2026-08-01</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-01-essaykraft-6d8748c9.html">EssayKraft: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview EssayKraft is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Native essay writing app…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="cleanlist ai: a tool worth watching ai quick overview cleanlist ai is a recent product hunt launch listed in the ai category. the public feed describes it this way: natural language prospec…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-31T10:05:53+00:00">2026-07-31</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-31-cleanlist-ai-b97ff01b.html">Cleanlist AI: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Cleanlist AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Natural language prospec…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="greplica: a tool worth watching ai quick overview greplica is a recent product hunt launch listed in the ai category. the public feed describes it this way: self updating wiki for codin…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-30T09:38:48+00:00">2026-07-30</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-30-greplica-2dd1dec1.html">Greplica: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Greplica is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Self updating wiki for codin…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="memorycustodian: a tool worth watching ai quick overview memorycustodian is a recent product hunt launch listed in the ai category. the public feed describes it this way: repo native memory fo…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-29T10:14:27+00:00">2026-07-29</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-29-memorycustodian-2ab8b930.html">MemoryCustodian: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview MemoryCustodian is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Repo native memory fo…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="ycode ai agents: a tool worth watching ai quick overview ycode ai agents is a recent product hunt launch listed in the ai category. the public feed describes it this way: build websites with a…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-28T09:49:40+00:00">2026-07-28</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-28-ycode-ai-agents-f4292e61.html">Ycode AI Agents: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Ycode AI Agents is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Build websites with A…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="notate: a tool worth watching ai quick overview notate is a recent product hunt launch listed in the ai category. the public feed describes it this way: annotate anything for humans a…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-27T12:40:42+00:00">2026-07-27</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-27-notate-0320568b.html">Notate: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Notate is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Annotate anything for humans a…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="openbase: a tool worth watching ai quick overview openbase is a recent product hunt launch listed in the ai category. the public feed describes it this way: manage your team of ai agent…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-26T09:02:19+00:00">2026-07-26</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-26-openbase-5e87fd58.html">Openbase: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Openbase is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Manage your team of AI agent…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="wisprkey: a tool worth watching 未分类 quick overview wisprkey is a recent product hunt launch listed in the 未分类 category. the public feed describes it this way: talk to any app on your mac…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-25T09:58:41+00:00">2026-07-25</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-25-wisprkey-9ef9b85c.html">Wisprkey: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Wisprkey is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Talk to any app on your Mac…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="ade: a tool worth watching 未分类 quick overview ade is a recent product hunt launch listed in the 未分类 category. the public feed describes it this way: all your coding agents, synced e…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-25T07:34:51+00:00">2026-07-25</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-25-ade-3e32c8cd.html">ADE: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview ADE is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: All your coding agents, synced e…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="the new firecrawl /search: a tool worth watching 未分类 quick overview the new firecrawl /search is a recent product hunt launch listed in the 未分类 category. the public feed describes it this way: our most a…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-24T09:12:03+00:00">2026-07-24</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html">The new Firecrawl /search: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview The new Firecrawl /search is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Our most a…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="rehello: a tool worth watching 未分类 quick overview rehello is a product discovered through product hunt, listed in the 未分类 category. the existing chinese article is retained as the sourc…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-23T15:45:14+00:00">2026-07-23</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-23-rehello-32e80ca9.html">Rehello: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview Rehello is a product discovered through Product Hunt, listed in the 未分类 category. The existing Chinese article is retained as the sourc…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="gta datacity：值得关注的科技工具: a tool worth watching 未分类 quick overview gta datacity：值得关注的科技工具 is a product discovered through product hunt, listed in the 未分类 category. the existing chinese article is retain…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-23T09:32:24+00:00">2026-07-23</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-23-gta-datacity-dbf8cdca.html">GTA DataCity：值得关注的科技工具: A Tool Worth Watching</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">Quick overview GTA DataCity：值得关注的科技工具 is a product discovered through Product Hunt, listed in the 未分类 category. The existing Chinese article is retain…</p>
+      </li>
+    </ul>
+    <div class="glass-panel hidden rounded-2xl p-10 text-center text-gray-400" id="siteSearchEmpty">No matching articles. Try a shorter keyword.</div>
+  </section>
+</main>
+
+<footer class="border-t border-gray-800/40 py-8 text-center text-xs text-gray-600">Tech Tools Worth Watching</footer>
+  </div>
+
+  <script src="https://tingjunluo959-code.github.io/tech-tools-site/assets/js/main.js" defer></script>
+<script src="https://tingjunluo959-code.github.io/tech-tools-site/assets/js/search.js" defer></script></body>
+</html>

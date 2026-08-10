@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="zh-CN" class="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="搜索科技工具文章的标题、分类和摘要。">
+  <title>站内搜索 | Tech Tools Worth Watching</title>
+  <link rel="alternate" type="application/rss+xml" title="Tech Tools Worth Watching RSS" href="rss.xml">
+
+  <!-- 当前项目没有 Node 构建步骤，使用 Tailwind Play CDN 保持部署流程简单。 -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: "class"
+    };
+  </script>
+  <link rel="stylesheet" href="https://tingjunluo959-code.github.io/tech-tools-site/assets/css/site.css">
+
+  <!-- 启用 AdSense 时，替换 ca-pub ID 并取消下一行注释。 -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx" crossorigin="anonymous"></script> -->
+</head>
+<body class="min-h-screen bg-[#050508] px-5 py-6 text-gray-100 md:px-10 md:py-10">
+  <a class="skip-link" href="#main-content">跳到主要内容</a>
+
+  <!-- 固定在全站内容下方的 3D 艺术背景。 -->
+  <div class="bg-3d-container" id="bg3dContainer" aria-hidden="true">
+    <div class="breath-light"></div>
+    <div class="tech-grid"></div>
+    <div class="art-ring-wrapper">
+      <div class="art-ring"></div>
+      <div class="ring-glow"></div>
+    </div>
+  </div>
+
+  <div class="content-wrapper mx-auto w-full max-w-5xl">
+<header class="mb-10 border-b border-gray-800/40 pb-8">
+  <nav class="site-nav mb-12 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between" aria-label="主导航">
+  <a class="text-sm font-semibold tracking-wide text-gray-100" href="index.html">Tech Tools Worth Watching</a>
+  <div class="flex flex-wrap items-center gap-x-4 gap-y-3 text-xs text-gray-400 sm:justify-end">
+    <a class="transition-colors hover:text-white " href="archive.html">全部文章</a>
+    <a class="transition-colors hover:text-white " href="categories.html">分类</a>
+    <a class="transition-colors hover:text-white text-white" href="search.html" aria-current="page">搜索</a>
+    <a class="transition-colors hover:text-white" href="rss.xml">RSS</a>
+    <a class="rounded-full border border-gray-700/30 bg-gray-800/30 px-4 py-2 transition-colors hover:border-gray-600/60 hover:text-white" href="../search.html">
+      English
+    </a>
+  </div>
+</nav>
+  <p class="mb-2 text-xs uppercase tracking-[0.22em] text-emerald-400">Search / 本地即时检索</p>
+  <h1 class="text-3xl font-bold tracking-tight text-white md:text-5xl">站内搜索</h1>
+  <p class="mt-3 max-w-2xl text-sm leading-relaxed text-gray-400">搜索在当前浏览器内完成，不会上传你的查询内容。</p>
+</header>
+
+<main id="main-content">
+  <section class="glass-panel mb-8 rounded-2xl p-5 md:p-7" role="search">
+    <label class="mb-3 block text-sm font-medium text-gray-200" for="siteSearchInput">输入标题、分类或关键词</label>
+    <div class="flex flex-col gap-3 sm:flex-row">
+      <input class="min-w-0 flex-1 rounded-xl border border-gray-700/60 bg-black/30 px-4 py-3 text-base text-white outline-none transition-colors placeholder:text-gray-600 focus:border-blue-500/70" id="siteSearchInput" type="search" autocomplete="off" placeholder="例如：AI、协作、Omniwork">
+      <button class="rounded-xl border border-gray-700/50 bg-gray-800/40 px-5 py-3 text-sm text-gray-300 transition-colors hover:border-gray-600 hover:text-white" id="siteSearchClear" type="button">清除</button>
+    </div>
+    <p class="mt-4 text-xs text-gray-500" id="siteSearchCount" data-label="篇文章" aria-live="polite"></p>
+  </section>
+
+  <section aria-label="搜索结果">
+    <ul class="space-y-4" id="siteSearchResults">
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="omniwork：值得关注的科技工具 ai 产品速览 omniwork 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： the creative agent os, create better with desktop ai agents 从这段公开信息来看，…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-10T05:11:10+00:00">2026-08-10</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-10-omniwork-5213ab9e.html">Omniwork：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Omniwork 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The Creative Agent OS, create better with desktop AI agents 从这段公开信息来看，…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="2026 年值得关注的 5 个ai工具 ai ai 工具观察榜 本榜单按最近 product hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. omniwork: a tool worth watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. prompt bridge: a t…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-10T05:11:10+00:00">2026-08-10</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/top-ai-11fb682b.html">2026 年值得关注的 5 个AI工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Omniwork: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Prompt Bridge: A T…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="basedash subscriptions：值得关注的科技工具 未分类 产品速览 basedash subscriptions 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： subscribe to any dashboard. delivered on schedule. 从这段公…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-09T04:46:30+00:00">2026-08-09</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-09-basedash-subscriptions-127639cc.html">Basedash Subscriptions：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Basedash Subscriptions 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Subscribe to any dashboard. Delivered on schedule. 从这段公…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="2026 年值得关注的 5 个未分类工具 未分类 未分类 工具观察榜 本榜单按最近 product hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. basedash subscriptions: a tool worth watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. cap…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-09T04:46:30+00:00">2026-08-09</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/top-tools-54b89f90.html">2026 年值得关注的 5 个未分类工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Basedash Subscriptions: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Cap…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="prompt bridge：值得关注的科技工具 ai 产品速览 prompt bridge 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： keep ai context portable 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 feed 提…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-08T04:18:21+00:00">2026-08-08</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-08-prompt-bridge-a5fab50b.html">Prompt Bridge：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Prompt Bridge 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Keep AI Context Portable 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Feed 提…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="superlog responder：值得关注的科技工具 ai 产品速览 superlog responder 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： free, open source ai bug fixing agent 从这段公开信息来看，它更适合被当作一个值得进…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-07T05:54:36+00:00">2026-08-07</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-07-superlog-responder-46490c69.html">Superlog Responder：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Superlog Responder 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Free, open source AI bug fixing agent 从这段公开信息来看，它更适合被当作一个值得进…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="brandfetch mcp：值得关注的科技工具 ai 产品速览 brandfetch mcp 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： stop your ai from guessing brand logos 从这段公开信息来看，它更适合被当作一个值得进一步了…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-06T10:15:33+00:00">2026-08-06</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-06-brandfetch-mcp-9eea8c87.html">Brandfetch MCP：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Brandfetch MCP 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Stop your AI from guessing brand logos 从这段公开信息来看，它更适合被当作一个值得进一步了…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="wispr flow notetaker：值得关注的科技工具 collaboration 产品速览 wispr flow notetaker 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“collaboration”类别。官方 feed 给出的原始简介是： meeting notes that get the details right. 从这段公开…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">Collaboration</span>
+          <time datetime="2026-08-05T10:08:20+00:00">2026-08-05</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-05-wispr-flow-notetaker-0ac1be6c.html">Wispr Flow Notetaker：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Wispr Flow Notetaker 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Collaboration”类别。官方 Feed 给出的原始简介是： Meeting notes that get the details right. 从这段公开…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="artdeck：值得关注的科技工具 design 产品速览 artdeck 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“design”类别。官方 feed 给出的原始简介是： reference boards with visual study tools built in 从这段公开信息来看，它更适合被当作…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">Design</span>
+          <time datetime="2026-08-04T10:16:00+00:00">2026-08-04</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-04-artdeck-87067f72.html">ArtDeck：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 ArtDeck 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Reference boards with visual study tools built in 从这段公开信息来看，它更适合被当作…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="qwen3.8-max：值得关注的科技工具 ai 产品速览 qwen3.8 max 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： qwen’s most capable model for coding and cowork 从这段公开信息来看，它更适合被当作一个…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-08-03T12:41:14+00:00">2026-08-03</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-03-qwen3-8-max-9632a0c1.html">Qwen3.8-Max：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Qwen3.8 Max 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Qwen’s most capable model for coding and cowork 从这段公开信息来看，它更适合被当作一个…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="capptivo：值得关注的科技工具 未分类 产品速览 capptivo 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： free open source screen recorder &amp; demo editor 从这段公开信息来看，它更适合被当作一个值得进…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-02T07:55:59+00:00">2026-08-02</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-02-capptivo-0b06c683.html">Capptivo：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Capptivo 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Free open source screen recorder &amp; demo editor 从这段公开信息来看，它更适合被当作一个值得进…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="essaykraft：值得关注的科技工具 未分类 产品速览 essaykraft 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： native essay writing app for mac and ipad 从这段公开信息来看，它更适合被当作一个值得进一步了…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-08-01T07:54:13+00:00">2026-08-01</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-08-01-essaykraft-6d8748c9.html">EssayKraft：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 EssayKraft 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Native essay writing app for Mac and iPad 从这段公开信息来看，它更适合被当作一个值得进一步了…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="cleanlist ai：值得关注的科技工具 ai 产品速览 cleanlist ai 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： natural language prospecting: find, enrich and sync leads. 从这段公开信息…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-31T10:05:53+00:00">2026-07-31</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-31-cleanlist-ai-b97ff01b.html">Cleanlist AI：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Cleanlist AI 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Natural language prospecting: find, enrich and sync leads. 从这段公开信息…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="greplica：值得关注的科技工具 ai 产品速览 greplica 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： self updating wiki for coding agents 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-30T09:38:48+00:00">2026-07-30</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-30-greplica-2dd1dec1.html">Greplica：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Greplica 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Self updating wiki for coding agents 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="memorycustodian：值得关注的科技工具 ai 产品速览 memorycustodian 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： repo native memory for coding agents 从这段公开信息来看，它更适合被当作一个值得进一步了解…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-29T10:14:27+00:00">2026-07-29</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-29-memorycustodian-2ab8b930.html">MemoryCustodian：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 MemoryCustodian 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Repo native memory for coding agents 从这段公开信息来看，它更适合被当作一个值得进一步了解…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="ycode ai agents：值得关注的科技工具 ai 产品速览 ycode ai agents 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： build websites with ai 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 feed 提…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-28T09:49:40+00:00">2026-07-28</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-28-ycode-ai-agents-f4292e61.html">Ycode AI Agents：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Ycode AI Agents 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Build websites with AI 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Feed 提…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="notate：值得关注的科技工具 ai 产品速览 notate 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： annotate anything for humans and their agents 从这段公开信息来看，它更适合被当作一个值得进一步了解…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-27T12:40:42+00:00">2026-07-27</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-27-notate-0320568b.html">Notate：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Notate 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Annotate anything for humans and their agents 从这段公开信息来看，它更适合被当作一个值得进一步了解…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="openbase：值得关注的科技工具 ai 产品速览 openbase 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“ai”类别。官方 feed 给出的原始简介是： manage your team of ai agents by voice, from anywhere 从这段公开信息来看，它更适合被当…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">AI</span>
+          <time datetime="2026-07-26T09:02:19+00:00">2026-07-26</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-26-openbase-5e87fd58.html">Openbase：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Openbase 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Manage your team of AI agents by voice, from anywhere 从这段公开信息来看，它更适合被当…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="wisprkey：值得关注的科技工具 未分类 产品速览 wisprkey 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： talk to any app on your mac 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 feed 提供…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-25T09:58:41+00:00">2026-07-25</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-25-wisprkey-9ef9b85c.html">Wisprkey：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Wisprkey 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Talk to any app on your Mac 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Feed 提供…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="ade：值得关注的科技工具 未分类 产品速览 ade 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： all your coding agents, synced everywhere, free forever 从这段公开信息来看，它更适合被当作一…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-25T07:34:51+00:00">2026-07-25</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-25-ade-3e32c8cd.html">ADE：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 ADE 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： All your coding agents, synced everywhere, free forever 从这段公开信息来看，它更适合被当作一…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="the new firecrawl /search：值得关注的科技工具 未分类 产品速览 the new firecrawl /search 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： our most accurate /search yet that uses 10x fewer to…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-24T09:12:03+00:00">2026-07-24</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html">The new Firecrawl /search：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 The new Firecrawl /search 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Our most accurate /search yet that uses 10x fewer to…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="rehello：值得关注的科技工具 未分类 产品速览 rehello 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： made for introverts to remember people &amp; reconnect naturally 从这段公开信息来看…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-23T15:45:14+00:00">2026-07-23</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-23-rehello-32e80ca9.html">Rehello：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 Rehello 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Made for introverts to remember people &amp; reconnect naturally 从这段公开信息来看…</p>
+      </li>
+      <li class="search-result-item glass-panel rounded-2xl p-5 transition-colors hover:border-blue-500/30" data-search-text="gta datacity：值得关注的科技工具 未分类 产品速览 gta datacity 是近期出现在 product hunt 上的一款科技产品，目前 feed 将它归在“未分类”类别。官方 feed 给出的原始简介是： san francisco co working dataset visualized, as a game! 从这段公开信息来看…">
+        <div class="mb-2 flex flex-wrap items-center gap-3 text-xs text-gray-500">
+          <span class="rounded-full bg-blue-500/10 px-3 py-1 text-blue-400">未分类</span>
+          <time datetime="2026-07-23T09:32:24+00:00">2026-07-23</time>
+        </div>
+        <h2 class="text-lg font-semibold text-white"><a class="transition-colors hover:text-blue-300" href="posts/2026-07-23-gta-datacity-dbf8cdca.html">GTA DataCity：值得关注的科技工具</a></h2>
+        <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-gray-400">产品速览 GTA DataCity 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： San Francisco co working dataset visualized, as a game! 从这段公开信息来看…</p>
+      </li>
+    </ul>
+    <div class="glass-panel hidden rounded-2xl p-10 text-center text-gray-400" id="siteSearchEmpty">没有找到匹配的文章，请尝试更短的关键词。</div>
+  </section>
+</main>
+
+<footer class="border-t border-gray-800/40 py-8 text-center text-xs text-gray-600">Tech Tools Worth Watching</footer>
+  </div>
+
+  <script src="https://tingjunluo959-code.github.io/tech-tools-site/assets/js/main.js" defer></script>
+<script src="https://tingjunluo959-code.github.io/tech-tools-site/assets/js/search.js" defer></script></body>
+</html>
