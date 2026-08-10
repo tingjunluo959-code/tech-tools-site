@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 05:11:10 +0000</lastBuildDate>
+    <item>
+      <title>Omniwork: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-10-omniwork-5213ab9e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-10-omniwork-5213ab9e.html</guid>
+      <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
+      <category>AI</category>
+      <description>! Public product page screenshot automated capture, not proof of hands on use {{screenshot path}} Quick overview Omniwork is a recent Product Hunt lau…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>2026: Top 5 未分类 Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Sat, 08 Aug 2026 04:18:21 +0000</pubDate>
       <category>AI</category>
       <description>! Public product page screenshot automated capture, not proof of hands on use {{screenshot path}} Quick overview Prompt Bridge is a recent Product Hun…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sat, 08 Aug 2026 04:18:21 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Superlog Responder: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 25 Jul 2026 07:34:51 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview ADE is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: All your coding agents, synced e…</description>
-    </item>
-    <item>
-      <title>The new Firecrawl /search: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html</guid>
-      <pubDate>Fri, 24 Jul 2026 09:12:03 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview The new Firecrawl /search is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Our most a…</description>
     </item>
   </channel>
 </rss>

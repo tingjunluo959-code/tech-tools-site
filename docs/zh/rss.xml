@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 05:11:10 +0000</lastBuildDate>
+    <item>
+      <title>Omniwork：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-10-omniwork-5213ab9e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-10-omniwork-5213ab9e.html</guid>
+      <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
+      <category>AI</category>
+      <description>! 产品公开页面截图（自动采集，非实际使用证明） {{screenshot path}} 产品速览 Omniwork 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The Creative Agent OS, cr…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Omniwork: A Tool Worth Watching {{affiliate url|https://www.producthunt.com/pro…</description>
+    </item>
     <item>
       <title>Basedash Subscriptions：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-09-basedash-subscriptions-127639cc.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Sat, 08 Aug 2026 04:18:21 +0000</pubDate>
       <category>AI</category>
       <description>! 产品公开页面截图（自动采集，非实际使用证明） {{screenshot path}} 产品速览 Prompt Bridge 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Keep AI Context Port…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sat, 08 Aug 2026 04:18:21 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Prompt Bridge: A Tool Worth Watching {{affiliate url|https://www.producthunt.co…</description>
     </item>
     <item>
       <title>Superlog Responder：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 25 Jul 2026 07:34:51 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 ADE 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： All your coding agents, synced everywhere, free forever 从这段公开信息来看，它更适合被当作一…</description>
-    </item>
-    <item>
-      <title>The new Firecrawl /search：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-07-24-the-new-firecrawl-search-9c34bdf5.html</guid>
-      <pubDate>Fri, 24 Jul 2026 09:12:03 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 The new Firecrawl /search 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Our most accurate /search yet that uses 10x fewer to…</description>
     </item>
   </channel>
 </rss>
