@@ -4,14 +4,14 @@ content_type: product
 date: '2026-08-07T05:54:36+00:00'
 lang: zh
 link_status:
-  error: ''
-  ok: true
-  status_code: 200
+  error: HTTP 403
+  ok: false
+  status_code: 403
   url: https://www.producthunt.com/products/superlog
 official_url: https://www.producthunt.com/products/superlog
 original_link: https://www.producthunt.com/products/superlog
 pricing: []
-pricing_url: https://www.producthunt.com/pricing
+pricing_url: ''
 product_id: 46490c69d777bf7f2de061a5c736056f2d2f84648f67e903760cca6ffc7a327c
 promotion_alerts: []
 screenshot: assets/screenshots/46490c69d777bf7f2de061a5c736056f2d2f84648f67e903760cca6ffc7a327c.png

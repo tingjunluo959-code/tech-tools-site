@@ -4,14 +4,14 @@ content_type: product
 date: '2026-07-30T09:38:48+00:00'
 lang: zh
 link_status:
-  error: ''
-  ok: true
-  status_code: 200
+  error: HTTP 403
+  ok: false
+  status_code: 403
   url: https://www.producthunt.com/products/greplica
 official_url: https://www.producthunt.com/products/greplica
 original_link: https://www.producthunt.com/products/greplica
 pricing: []
-pricing_url: https://www.producthunt.com/pricing
+pricing_url: ''
 product_id: 2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b
 promotion_alerts: []
 screenshot: assets/screenshots/2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b.png

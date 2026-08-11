@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:51:23 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Tue, 11 Aug 2026 04:51:23 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. AI Group Call: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Omniwork: A T…</description>
+    </item>
+    <item>
+      <title>AI Group Call：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-11-ai-group-call-2c856733.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-11-ai-group-call-2c856733.html</guid>
+      <pubDate>Tue, 11 Aug 2026 04:51:23 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 AI Group Call 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Type a goal, join a live voice call with six AI minds 从这段公开信息来看，它…</description>
+    </item>
     <item>
       <title>Omniwork：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-10-omniwork-5213ab9e.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Omniwork 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The Creative Agent OS, create better with desktop AI agents 从这段公开信息来看，…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Omniwork: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Prompt Bridge: A T…</description>
     </item>
     <item>
       <title>Basedash Subscriptions：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 25 Jul 2026 09:58:41 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 Wisprkey 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Talk to any app on your Mac 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Feed 提供…</description>
-    </item>
-    <item>
-      <title>ADE：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-07-25-ade-3e32c8cd.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-07-25-ade-3e32c8cd.html</guid>
-      <pubDate>Sat, 25 Jul 2026 07:34:51 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 ADE 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： All your coding agents, synced everywhere, free forever 从这段公开信息来看，它更适合被当作一…</description>
     </item>
   </channel>
 </rss>

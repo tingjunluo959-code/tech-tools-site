@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-08-10T05:11:10+00:00'
+date: '2026-08-11T04:51:23+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Omniwork: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/omniwork-2}})
+### 1. [AI Group Call: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ai-group-call}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Prompt Bridge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/prompt-bridge-2}})
+### 2. [Omniwork: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/omniwork-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Superlog Responder: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/superlog}})
+### 3. [Prompt Bridge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/prompt-bridge-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Brandfetch MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/brandfetch}})
+### 4. [Superlog Responder: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/superlog}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Qwen3.8-Max: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/qwen3}})
+### 5. [Brandfetch MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/brandfetch}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
