@@ -1,36 +1,37 @@
 ---
-category: AI
+category: Design
 content_type: product
-date: '2026-08-11T04:51:23+00:00'
+date: '2026-08-12T05:45:43+00:00'
 lang: zh
 link_status:
+  checked_at: '2026-08-12T05:45:43+00:00'
   error: HTTP 403
   ok: false
   status_code: 403
-  url: https://www.producthunt.com/products/ai-group-call
-official_url: https://www.producthunt.com/products/ai-group-call
-original_link: https://www.producthunt.com/products/ai-group-call
+  url: https://www.producthunt.com/products/equitybee
+official_url: https://www.producthunt.com/products/equitybee
+original_link: https://www.producthunt.com/products/equitybee
 pricing: []
 pricing_url: ''
-product_id: 2c85673336a9ea346bcb09d7278265b915ac5ea8a3e43df8ca8289055291131e
+product_id: 0ba6ec5f5610c7c02678fda5c8e08287dbcb232fc1dced5e399f3fe432b0527c
 promotion_alerts: []
 screenshot: ''
-slug: 2026-08-11-ai-group-call-2c856733
-title: AI Group Call：值得关注的科技工具
-translation_slug: 2026-08-11-ai-group-call-2c856733
+slug: 2026-08-12-equitybee-benchmark-0ba6ec5f
+title: Equitybee Benchmark：值得关注的科技工具
+translation_slug: 2026-08-12-equitybee-benchmark-0ba6ec5f
 ---
 
 ## 产品速览
 
-AI Group Call 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是：
+Equitybee Benchmark 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是：
 
-> Type a goal, join a live voice call with six AI minds
+> Compare your startup equity grant for free.
 
 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Feed 提供的资料有限，本文不会补写未经官方确认的功能、价格、用户评价或使用效果。
 
 ## 为什么值得留意
 
-新工具的价值通常不只取决于功能数量，更取决于它能否减少重复步骤、降低学习成本，或者让原本分散的工作更容易管理。AI Group Call 的简介至少提供了一个观察入口：读者可以先判断它所针对的问题是否与自己的实际需求重合，再决定是否投入时间试用。建议先查看演示、帮助文档和更新记录。
+新工具的价值通常不只取决于功能数量，更取决于它能否减少重复步骤、降低学习成本，或者让原本分散的工作更容易管理。Equitybee Benchmark 的简介至少提供了一个观察入口：读者可以先判断它所针对的问题是否与自己的实际需求重合，再决定是否投入时间试用。建议先查看演示、帮助文档和更新记录。
 
 ## 可能适合的人
 
@@ -44,4 +45,4 @@ AI Group Call 是近期出现在 Product Hunt 上的一款科技产品，目前 
 
 建议先通过[了解更多]({{affiliate_link}})查看最新页面，重点核对免费额度、订阅价格、取消方式、数据保存位置、隐私政策和客服渠道。若产品需要连接邮箱、云盘、代码仓库或团队资料，应先用非敏感测试数据体验，并确认授权可以随时撤销。涉及公司数据时，还应由负责人检查合规和权限边界。
 
-总体而言，AI Group Call 值得作为候选工具继续观察，但现有 Feed 信息不足以支持强结论。购买或订阅前，请以产品官网的最新功能、价格和服务条款为准，并根据真实试用结果作决定。
+总体而言，Equitybee Benchmark 值得作为候选工具继续观察，但现有 Feed 信息不足以支持强结论。购买或订阅前，请以产品官网的最新功能、价格和服务条款为准，并根据真实试用结果作决定。

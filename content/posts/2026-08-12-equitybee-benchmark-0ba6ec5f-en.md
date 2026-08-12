@@ -1,36 +1,37 @@
 ---
-category: AI
+category: Design
 content_type: product
-date: '2026-08-11T04:51:23+00:00'
+date: '2026-08-12T05:45:43+00:00'
 lang: en
 link_status:
+  checked_at: '2026-08-12T05:45:43+00:00'
   error: HTTP 403
   ok: false
   status_code: 403
-  url: https://www.producthunt.com/products/ai-group-call
-official_url: https://www.producthunt.com/products/ai-group-call
-original_link: https://www.producthunt.com/products/ai-group-call
+  url: https://www.producthunt.com/products/equitybee
+official_url: https://www.producthunt.com/products/equitybee
+original_link: https://www.producthunt.com/products/equitybee
 pricing: []
 pricing_url: ''
-product_id: 2c85673336a9ea346bcb09d7278265b915ac5ea8a3e43df8ca8289055291131e
+product_id: 0ba6ec5f5610c7c02678fda5c8e08287dbcb232fc1dced5e399f3fe432b0527c
 promotion_alerts: []
 screenshot: ''
-slug: 2026-08-11-ai-group-call-2c856733
-title: 'AI Group Call: A Tool Worth Watching'
-translation_slug: 2026-08-11-ai-group-call-2c856733
+slug: 2026-08-12-equitybee-benchmark-0ba6ec5f
+title: 'Equitybee Benchmark: A Tool Worth Watching'
+translation_slug: 2026-08-12-equitybee-benchmark-0ba6ec5f
 ---
 
 ## Quick overview
 
-**AI Group Call** is a recent Product Hunt launch listed in the **AI** category. The public feed describes it this way:
+**Equitybee Benchmark** is a recent Product Hunt launch listed in the **Design** category. The public feed describes it this way:
 
-> Type a goal, join a live voice call with six AI minds
+> Compare your startup equity grant for free.
 
 That short description is a useful starting point, but it is not a substitute for the product's own documentation. This article intentionally avoids inventing features, prices, reviews, performance claims, or first-hand experience.
 
 ## Why it may be worth a closer look
 
-New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, AI Group Call is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
+New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Equitybee Benchmark is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
 
 ## Who may find it useful
 
@@ -44,4 +45,4 @@ If your current workflow is stable and no clear pain point exists, bookmarking t
 
 Use [Learn more]({{affiliate_link}}) to open the latest product page. Confirm the current free allowance, subscription price, cancellation process, storage location, privacy policy, support channel, and any limits on integrations. If the tool requests access to email, cloud storage, source code, or team documents, begin with non-sensitive test data and verify that permissions can be revoked. For business use, ask the relevant owner to review security and compliance boundaries.
 
-Overall, AI Group Call is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
+Overall, Equitybee Benchmark is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
