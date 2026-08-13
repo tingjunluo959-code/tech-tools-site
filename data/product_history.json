@@ -10,7 +10,7 @@
       "official_url": "https://usenotate.app/changelog",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:44+00:00"
+      "updated_at": "2026-08-13T05:51:07+00:00"
     },
     "0ac1be6cb54e4b1e89068e39e75446ffaaffe38e24a92217b386bd569398d4ac": {
       "link_status": {
@@ -22,7 +22,7 @@
       "official_url": "https://wisprflow.onelink.me/PguH/lw5h199m",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:46+00:00"
+      "updated_at": "2026-08-13T05:51:09+00:00"
     },
     "0b06c683ec5a8fd59669101327a2841dbdce38a4df0944ba2f76fc6eeb433f43": {
       "link_status": {
@@ -34,7 +34,7 @@
       "official_url": "https://www.producthunt.com/products/capptivo",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:46+00:00"
+      "updated_at": "2026-08-13T05:51:09+00:00"
     },
     "0ba6ec5f5610c7c02678fda5c8e08287dbcb232fc1dced5e399f3fe432b0527c": {
       "link_status": {
@@ -46,7 +46,7 @@
       "official_url": "https://www.producthunt.com/products/equitybee",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:43+00:00"
+      "updated_at": "2026-08-13T05:51:09+00:00"
     },
     "127639cc62d76a80ea31db16a56983d54ab3c9336bca7d2723da3eabf6d6d01a": {
       "link_status": {
@@ -79,7 +79,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-08-12T05:45:46+00:00"
+      "updated_at": "2026-08-13T05:51:10+00:00"
     },
     "2ab8b930554a1979d10befaa4fc2610f58b6755aba1081526cf5b7c719957375": {
       "link_status": {
@@ -106,7 +106,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-08-12T05:45:48+00:00"
+      "updated_at": "2026-08-13T05:51:11+00:00"
     },
     "2c85673336a9ea346bcb09d7278265b915ac5ea8a3e43df8ca8289055291131e": {
       "link_status": {
@@ -118,7 +118,7 @@
       "official_url": "https://www.producthunt.com/products/ai-group-call",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:48+00:00"
+      "updated_at": "2026-08-13T05:51:11+00:00"
     },
     "2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b": {
       "link_status": {
@@ -130,7 +130,7 @@
       "official_url": "https://www.producthunt.com/products/greplica",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:48+00:00"
+      "updated_at": "2026-08-13T05:51:11+00:00"
     },
     "46490c69d777bf7f2de061a5c736056f2d2f84648f67e903760cca6ffc7a327c": {
       "link_status": {
@@ -142,7 +142,7 @@
       "official_url": "https://www.producthunt.com/products/superlog",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:48+00:00"
+      "updated_at": "2026-08-13T05:51:11+00:00"
     },
     "5213ab9e411ed1fd79f111927156f5432726bd8a151e3ddd006ffd89ec1be41f": {
       "link_status": {
@@ -154,7 +154,7 @@
       "official_url": "https://www.omniwork.ai?ref=producthunt#hero-section",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-12T05:45:50+00:00"
+      "updated_at": "2026-08-13T05:51:13+00:00"
     },
     "5e87fd587f149b22a23119c38876e5dde1ccd88d78b13aa2a741b064d89ff12a": {
       "link_status": {
@@ -239,6 +239,18 @@
       "plans": [],
       "promotions": [],
       "updated_at": "2026-08-08T04:18:21+00:00"
+    },
+    "b0d1a5fee6a401662861b321ab8a6452f02125fc3df40c3d85c9d5d32d0b9892": {
+      "link_status": {
+        "error": "HTTP 403",
+        "ok": false,
+        "status_code": 403,
+        "url": "https://www.producthunt.com/products/swipe-9"
+      },
+      "official_url": "https://www.producthunt.com/products/swipe-9",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-08-13T05:51:07+00:00"
     },
     "b97ff01b3f7b1ba071e6549bda58e1d34e56c45d490ec7b62df694c6e86c8804": {
       "link_status": {
