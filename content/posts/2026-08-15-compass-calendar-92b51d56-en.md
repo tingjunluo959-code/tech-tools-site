@@ -1,36 +1,37 @@
 ---
 category: Design
 content_type: product
-date: '2026-08-14T05:46:12+00:00'
+date: '2026-08-15T03:04:17+00:00'
 lang: en
 link_status:
+  checked_at: '2026-08-15T03:04:17+00:00'
   error: HTTP 403
   ok: false
   status_code: 403
-  url: https://www.producthunt.com/products/scrimba
-official_url: https://www.producthunt.com/products/scrimba
-original_link: https://www.producthunt.com/products/scrimba
+  url: https://www.producthunt.com/products/compass-calendar
+official_url: https://www.producthunt.com/products/compass-calendar
+original_link: https://www.producthunt.com/products/compass-calendar
 pricing: []
 pricing_url: ''
-product_id: 1cd886c575ea35bbeb6250b34363ba7120e21cffd56cb9785cb11583ec605188
+product_id: 92b51d569647e8b54f8e7bf8e6feb03cbf7152e401ba4705fd21d51f9786f3fe
 promotion_alerts: []
 screenshot: ''
-slug: 2026-08-14-scrimba-explain-1cd886c5
-title: 'Scrimba Explain: A Tool Worth Watching'
-translation_slug: 2026-08-14-scrimba-explain-1cd886c5
+slug: 2026-08-15-compass-calendar-92b51d56
+title: 'Compass Calendar: A Tool Worth Watching'
+translation_slug: 2026-08-15-compass-calendar-92b51d56
 ---
 
 ## Quick overview
 
-**Scrimba Explain** is a recent Product Hunt launch listed in the **Design** category. The public feed describes it this way:
+**Compass Calendar** is a recent Product Hunt launch listed in the **Design** category. The public feed describes it this way:
 
-> Ask any question, get a video back instantly
+> The keyboard-first calendar to get organized quickly
 
 That short description is a useful starting point, but it is not a substitute for the product's own documentation. This article intentionally avoids inventing features, prices, reviews, performance claims, or first-hand experience.
 
 ## Why it may be worth a closer look
 
-New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Scrimba Explain is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
+New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Compass Calendar is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
 
 ## Who may find it useful
 
@@ -44,4 +45,4 @@ If your current workflow is stable and no clear pain point exists, bookmarking t
 
 Use [Learn more]({{affiliate_link}}) to open the latest product page. Confirm the current free allowance, subscription price, cancellation process, storage location, privacy policy, support channel, and any limits on integrations. If the tool requests access to email, cloud storage, source code, or team documents, begin with non-sensitive test data and verify that permissions can be revoked. For business use, ask the relevant owner to review security and compliance boundaries.
 
-Overall, Scrimba Explain is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
+Overall, Compass Calendar is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
