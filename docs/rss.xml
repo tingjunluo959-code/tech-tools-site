@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 03:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:11:15 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Mon, 17 Aug 2026 03:16:09 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>TinyFish: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-18-tinyfish-ed08eee9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-18-tinyfish-ed08eee9.html</guid>
+      <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview TinyFish is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The web operating layer for…</description>
     </item>
     <item>
       <title>Chert: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 02 Aug 2026 07:55:59 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Capptivo is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Free open source screen rec…</description>
-    </item>
-    <item>
-      <title>EssayKraft: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-01-essaykraft-6d8748c9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-01-essaykraft-6d8748c9.html</guid>
-      <pubDate>Sat, 01 Aug 2026 07:54:13 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview EssayKraft is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Native essay writing app…</description>
     </item>
   </channel>
 </rss>

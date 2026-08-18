@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-08-17T03:16:09+00:00'
+date: '2026-08-18T03:11:15+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Chert: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/chert}})
+### 1. [TinyFish: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/tinyfish-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [AI Group Call: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ai-group-call}})
+### 2. [Chert: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/chert}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Omniwork: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/omniwork-2}})
+### 3. [AI Group Call: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ai-group-call}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Prompt Bridge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/prompt-bridge-2}})
+### 4. [Omniwork: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/omniwork-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Superlog Responder: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/superlog}})
+### 5. [Prompt Bridge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/prompt-bridge-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
