@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:13:01 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Thu, 20 Aug 2026 03:13:01 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. anyCreature by Gobkit: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. TinyF…</description>
+    </item>
+    <item>
+      <title>anyCreature by Gobkit：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-20-anycreature-by-gobkit-17a1f589.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-20-anycreature-by-gobkit-17a1f589.html</guid>
+      <pubDate>Thu, 20 Aug 2026 03:13:01 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 anyCreature by Gobkit 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Summon monsters straight from your agent. 从这段公开信息来看，它更适合被…</description>
+    </item>
     <item>
       <title>TinyFish：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-18-tinyfish-ed08eee9.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 TinyFish 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The web operating layer for AI agents 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. TinyFish: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Chert: A Tool Wort…</description>
     </item>
     <item>
       <title>Chert：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 03 Aug 2026 12:41:14 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Qwen3.8 Max 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Qwen’s most capable model for coding and cowork 从这段公开信息来看，它更适合被当作一个…</description>
-    </item>
-    <item>
-      <title>Capptivo：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-02-capptivo-0b06c683.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-02-capptivo-0b06c683.html</guid>
-      <pubDate>Sun, 02 Aug 2026 07:55:59 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 Capptivo 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Free open source screen recorder &amp; demo editor 从这段公开信息来看，它更适合被当作一个值得进…</description>
     </item>
   </channel>
 </rss>

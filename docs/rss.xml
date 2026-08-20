@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:13:01 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 03:13:01 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>anyCreature by Gobkit: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-20-anycreature-by-gobkit-17a1f589.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-20-anycreature-by-gobkit-17a1f589.html</guid>
+      <pubDate>Thu, 20 Aug 2026 03:13:01 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview anyCreature by Gobkit is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Summon monsters…</description>
     </item>
     <item>
       <title>TinyFish: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 03 Aug 2026 12:41:14 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Qwen3.8 Max is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Qwen’s most capable model…</description>
-    </item>
-    <item>
-      <title>Capptivo: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-02-capptivo-0b06c683.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-02-capptivo-0b06c683.html</guid>
-      <pubDate>Sun, 02 Aug 2026 07:55:59 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Capptivo is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Free open source screen rec…</description>
     </item>
   </channel>
 </rss>
