@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:30:47 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 20 Aug 2026 03:13:01 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 03:30:47 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Shape: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-21-shape-57936e82.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-21-shape-57936e82.html</guid>
+      <pubDate>Fri, 21 Aug 2026 03:30:47 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Shape is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The agentic IDE for designers a…</description>
     </item>
     <item>
       <title>anyCreature by Gobkit: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 04 Aug 2026 10:16:00 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview ArtDeck is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Reference boards with vis…</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Max: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-03-qwen3-8-max-9632a0c1.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-03-qwen3-8-max-9632a0c1.html</guid>
-      <pubDate>Mon, 03 Aug 2026 12:41:14 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Qwen3.8 Max is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Qwen’s most capable model…</description>
     </item>
   </channel>
 </rss>
