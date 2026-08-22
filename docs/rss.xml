@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:08:34 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Fri, 21 Aug 2026 03:30:47 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 03:08:34 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>PixelRead AI OCR: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-22-pixelread-ai-ocr-cbe236ce.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-22-pixelread-ai-ocr-cbe236ce.html</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:34 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview PixelRead AI OCR is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Capture, translate,…</description>
     </item>
     <item>
       <title>Shape: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 05 Aug 2026 10:08:20 +0000</pubDate>
       <category>Collaboration</category>
       <description>Quick overview Wispr Flow Notetaker is a recent Product Hunt launch listed in the Collaboration category. The public feed describes it this way: Meeti…</description>
-    </item>
-    <item>
-      <title>ArtDeck: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-04-artdeck-87067f72.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-04-artdeck-87067f72.html</guid>
-      <pubDate>Tue, 04 Aug 2026 10:16:00 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview ArtDeck is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Reference boards with vis…</description>
     </item>
   </channel>
 </rss>
