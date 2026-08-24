@@ -5,7 +5,15 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 01:02:11 +0000</lastBuildDate>
+    <item>
+      <title>Tab Notes: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-24-tab-notes-c6844f5e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-24-tab-notes-c6844f5e.html</guid>
+      <pubDate>Mon, 24 Aug 2026 01:02:11 +0000</pubDate>
+      <category>Productivity</category>
+      <description>Quick overview Tab Notes is a recent Product Hunt launch listed in the Productivity category. The public feed describes it this way: Turn your browser…</description>
+    </item>
     <item>
       <title>Pocket by Meta: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-23-pocket-by-meta-6c30a892.html</link>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 07 Aug 2026 05:54:36 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Superlog Responder is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Free, open source…</description>
-    </item>
-    <item>
-      <title>Brandfetch MCP: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-06-brandfetch-mcp-9eea8c87.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-06-brandfetch-mcp-9eea8c87.html</guid>
-      <pubDate>Thu, 06 Aug 2026 10:15:33 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Brandfetch MCP is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Stop your AI from gues…</description>
     </item>
   </channel>
 </rss>
