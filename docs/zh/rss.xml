@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 01:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:01:45 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个未分类工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Tue, 25 Aug 2026 01:01:45 +0000</pubDate>
+      <category>未分类</category>
+      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. IFAH: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. FileRouter: A Tool Wo…</description>
+    </item>
+    <item>
+      <title>IFAH：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-25-ifah-f82eee23.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-25-ifah-f82eee23.html</guid>
+      <pubDate>Tue, 25 Aug 2026 01:01:45 +0000</pubDate>
+      <category>未分类</category>
+      <description>产品速览 IFAH 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Instruments for composing and experiencing sound as a space 从这段公开信息来看，它更适…</description>
+    </item>
     <item>
       <title>Tab Notes：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-24-tab-notes-c6844f5e.html</link>
@@ -79,14 +95,6 @@
       <description>产品速览 FileRouter 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Take control of files and editors 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于…</description>
     </item>
     <item>
-      <title>2026 年值得关注的 5 个未分类工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Sun, 16 Aug 2026 03:16:34 +0000</pubDate>
-      <category>未分类</category>
-      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. FileRouter: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Swipe: A Tool W…</description>
-    </item>
-    <item>
       <title>Compass Calendar：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-15-compass-calendar-92b51d56.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-15-compass-calendar-92b51d56.html</guid>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 08 Aug 2026 04:18:21 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Prompt Bridge 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Keep AI Context Portable 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Feed 提…</description>
-    </item>
-    <item>
-      <title>Superlog Responder：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-07-superlog-responder-46490c69.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-07-superlog-responder-46490c69.html</guid>
-      <pubDate>Fri, 07 Aug 2026 05:54:36 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 Superlog Responder 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Free, open source AI bug fixing agent 从这段公开信息来看，它更适合被当作一个值得进…</description>
     </item>
   </channel>
 </rss>

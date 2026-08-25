@@ -10,7 +10,7 @@
       "official_url": "https://usenotate.app/changelog",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:12+00:00"
+      "updated_at": "2026-08-25T01:01:45+00:00"
     },
     "0ac1be6cb54e4b1e89068e39e75446ffaaffe38e24a92217b386bd569398d4ac": {
       "link_status": {
@@ -22,7 +22,7 @@
       "official_url": "https://wisprflow.onelink.me/PguH/lw5h199m",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:14+00:00"
+      "updated_at": "2026-08-25T01:01:47+00:00"
     },
     "0b06c683ec5a8fd59669101327a2841dbdce38a4df0944ba2f76fc6eeb433f43": {
       "link_status": {
@@ -34,7 +34,7 @@
       "official_url": "https://www.producthunt.com/products/capptivo",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:14+00:00"
+      "updated_at": "2026-08-25T01:01:47+00:00"
     },
     "0ba6ec5f5610c7c02678fda5c8e08287dbcb232fc1dced5e399f3fe432b0527c": {
       "link_status": {
@@ -46,7 +46,7 @@
       "official_url": "https://www.producthunt.com/products/equitybee",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:14+00:00"
+      "updated_at": "2026-08-25T01:01:47+00:00"
     },
     "127639cc62d76a80ea31db16a56983d54ab3c9336bca7d2723da3eabf6d6d01a": {
       "link_status": {
@@ -79,7 +79,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-08-24T01:02:15+00:00"
+      "updated_at": "2026-08-25T01:01:48+00:00"
     },
     "17a1f5898515f2ed79da8bcca6f8114af1d68b2dc68e6018d09436e8c95f244a": {
       "link_status": {
@@ -91,7 +91,7 @@
       "official_url": "https://www.producthunt.com/products/anycreature",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:15+00:00"
+      "updated_at": "2026-08-25T01:01:48+00:00"
     },
     "1cd886c575ea35bbeb6250b34363ba7120e21cffd56cb9785cb11583ec605188": {
       "link_status": {
@@ -103,7 +103,7 @@
       "official_url": "https://www.producthunt.com/products/scrimba",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:15+00:00"
+      "updated_at": "2026-08-25T01:01:48+00:00"
     },
     "27dcca354d02b8fd1145048c261b98bd3695e57b3d35a3b3e8f6ea1aba673562": {
       "link_status": {
@@ -115,7 +115,7 @@
       "official_url": "https://www.producthunt.com/products/chert",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:15+00:00"
+      "updated_at": "2026-08-25T01:01:48+00:00"
     },
     "2ab8b930554a1979d10befaa4fc2610f58b6755aba1081526cf5b7c719957375": {
       "link_status": {
@@ -142,7 +142,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-08-24T01:02:16+00:00"
+      "updated_at": "2026-08-25T01:01:49+00:00"
     },
     "2c85673336a9ea346bcb09d7278265b915ac5ea8a3e43df8ca8289055291131e": {
       "link_status": {
@@ -154,7 +154,7 @@
       "official_url": "https://www.producthunt.com/products/ai-group-call",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-08-24T01:02:17+00:00"
+      "updated_at": "2026-08-25T01:01:49+00:00"
     },
     "2dd1dec1f56ebcc4df8d6e63ebdd0028397d890ee22fcc722e621ee5c903ae7b": {
       "link_status": {
@@ -383,6 +383,18 @@
       "plans": [],
       "promotions": [],
       "updated_at": "2026-08-03T12:41:20+00:00"
+    },
+    "f82eee230f381eff996c945e74576d6bc8992c798cf0f7f1deb9ba600b1ca10b": {
+      "link_status": {
+        "error": "HTTP 403",
+        "ok": false,
+        "status_code": 403,
+        "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound"
+      },
+      "official_url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-08-25T01:01:45+00:00"
     },
     "fbe0d911eda16e7df7dcfbb645c90e529158dfb7ddfd8bec6e50c9125fbd0f27": {
       "link_status": {
