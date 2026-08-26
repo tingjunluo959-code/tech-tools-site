@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 01:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:02:55 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Wed, 26 Aug 2026 01:02:55 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Flare: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-26-flare-e347bc37.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-26-flare-e347bc37.html</guid>
+      <pubDate>Wed, 26 Aug 2026 01:02:55 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Flare is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The graph first IDE and interac…</description>
+    </item>
     <item>
       <title>IFAH: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-25-ifah-f82eee23.html</link>
@@ -37,14 +53,6 @@
       <pubDate>Sun, 23 Aug 2026 03:30:58 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Quick overview Pocket by Meta is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Vibe code…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:34 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>PixelRead AI OCR: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 09 Aug 2026 04:46:30 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Basedash Subscriptions is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Subscribe to…</description>
-    </item>
-    <item>
-      <title>Prompt Bridge: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-08-prompt-bridge-a5fab50b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-08-prompt-bridge-a5fab50b.html</guid>
-      <pubDate>Sat, 08 Aug 2026 04:18:21 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Prompt Bridge is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep AI Context Portabl…</description>
     </item>
   </channel>
 </rss>

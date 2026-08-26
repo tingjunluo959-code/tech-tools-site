@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-08-22T03:08:34+00:00'
+date: '2026-08-26T01:02:55+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [PixelRead AI OCR: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pixelread-ai-ocr}})
+### 1. [Flare: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/flare-11}})
 
 ## Quick overview
 
-### 2. [Shape: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/shape-5}})
+### 2. [PixelRead AI OCR: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pixelread-ai-ocr}})
 
 ## Quick overview
 
-### 3. [anyCreature by Gobkit: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/anycreature}})
+### 3. [Shape: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/shape-5}})
 
 ## Quick overview
 
-### 4. [TinyFish: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/tinyfish-2}})
+### 4. [anyCreature by Gobkit: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/anycreature}})
 
 ## Quick overview
 
-### 5. [Chert: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/chert}})
+### 5. [TinyFish: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/tinyfish-2}})
 
 ## Quick overview
