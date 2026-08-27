@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Message Album：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-27-message-album-6de53fdd.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-27-message-album-6de53fdd.html</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:32 +0000</pubDate>
+      <category>未分类</category>
+      <description>产品速览 Message Album 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Save one iMessage conversation as a private offline album 从这段公开信…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个未分类工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:32 +0000</pubDate>
+      <category>未分类</category>
+      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Message Album: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. IFAH: A Tool…</description>
+    </item>
     <item>
       <title>Flare：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-26-flare-e347bc37.html</link>
@@ -21,14 +37,6 @@
       <pubDate>Wed, 26 Aug 2026 01:02:55 +0000</pubDate>
       <category>AI</category>
       <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Flare: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. PixelRead AI OCR: A T…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个未分类工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Tue, 25 Aug 2026 01:01:45 +0000</pubDate>
-      <category>未分类</category>
-      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. IFAH: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. FileRouter: A Tool Wo…</description>
     </item>
     <item>
       <title>IFAH：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 10 Aug 2026 05:11:10 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Omniwork 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The Creative Agent OS, create better with desktop AI agents 从这段公开信息来看，…</description>
-    </item>
-    <item>
-      <title>Basedash Subscriptions：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-09-basedash-subscriptions-127639cc.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-09-basedash-subscriptions-127639cc.html</guid>
-      <pubDate>Sun, 09 Aug 2026 04:46:30 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 Basedash Subscriptions 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Subscribe to any dashboard. Delivered on schedule. 从这段公…</description>
     </item>
   </channel>
 </rss>
