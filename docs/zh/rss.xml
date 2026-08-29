@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 05:25:05 +0000</lastBuildDate>
+    <item>
+      <title>NotchDrop：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-29-notchdrop-6f268423.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-29-notchdrop-6f268423.html</guid>
+      <pubDate>Sat, 29 Aug 2026 05:25:05 +0000</pubDate>
+      <category>未分类</category>
+      <description>产品速览 NotchDrop 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： A Dynamic Island experience for your Mac notch 从这段公开信息来看，它更适合被当作一个值得…</description>
+    </item>
     <item>
       <title>2026 年值得关注的 5 个未分类工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Fri, 28 Aug 2026 08:48:28 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 05:25:05 +0000</pubDate>
       <category>未分类</category>
-      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. SnakeRank: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Message Album: A…</description>
+      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. NotchDrop: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. SnakeRank: A Too…</description>
     </item>
     <item>
       <title>SnakeRank：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 12 Aug 2026 05:45:43 +0000</pubDate>
       <category>Design</category>
       <description>产品速览 Equitybee Benchmark 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Compare your startup equity grant for free. 从这段公开信息来看，它…</description>
-    </item>
-    <item>
-      <title>AI Group Call：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-11-ai-group-call-2c856733.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-11-ai-group-call-2c856733.html</guid>
-      <pubDate>Tue, 11 Aug 2026 04:51:23 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 AI Group Call 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Type a goal, join a live voice call with six AI minds 从这段公开信息来看，它…</description>
     </item>
   </channel>
 </rss>
