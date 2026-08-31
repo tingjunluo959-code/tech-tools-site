@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 03:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:16:56 +0000</lastBuildDate>
+    <item>
+      <title>Caplio: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-31-caplio-b87593f2.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-31-caplio-b87593f2.html</guid>
+      <pubDate>Mon, 31 Aug 2026 03:16:56 +0000</pubDate>
+      <category>Design</category>
+      <description>Quick overview Caplio is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Find, organize, and reuse…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 Design Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Mon, 31 Aug 2026 03:16:56 +0000</pubDate>
+      <category>Design</category>
+      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
+    </item>
     <item>
       <title>1752vc Pitch Deck Analyzer: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-30-1752vc-pitch-deck-analyzer-310a03cf.html</link>
@@ -135,14 +151,6 @@
       <description>Quick overview FileRouter is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Take control of files and…</description>
     </item>
     <item>
-      <title>2026: Top 4 Design Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Sat, 15 Aug 2026 03:04:17 +0000</pubDate>
-      <category>Design</category>
-      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
-    </item>
-    <item>
       <title>Compass Calendar: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-15-compass-calendar-92b51d56.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-15-compass-calendar-92b51d56.html</guid>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 14 Aug 2026 05:46:12 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Scrimba Explain is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Ask any question,…</description>
-    </item>
-    <item>
-      <title>Swipe: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-13-swipe-b0d1a5fe.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-13-swipe-b0d1a5fe.html</guid>
-      <pubDate>Thu, 13 Aug 2026 05:51:07 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Swipe is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Swipe right on your next custo…</description>
     </item>
   </channel>
 </rss>
