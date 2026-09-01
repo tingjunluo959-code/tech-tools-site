@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:19:41 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Tue, 01 Sep 2026 03:19:41 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Video Agent by Fotor: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-01-video-agent-by-fotor-1b89198f.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-01-video-agent-by-fotor-1b89198f.html</guid>
+      <pubDate>Tue, 01 Sep 2026 03:19:41 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Video Agent by Fotor is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Create and edit…</description>
+    </item>
     <item>
       <title>Caplio: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-31-caplio-b87593f2.html</link>
@@ -61,14 +77,6 @@
       <pubDate>Thu, 27 Aug 2026 07:00:32 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Message Album is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Save one iMessage conv…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 26 Aug 2026 01:02:55 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Flare: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 15 Aug 2026 03:04:17 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Compass Calendar is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: The keyboard fir…</description>
-    </item>
-    <item>
-      <title>Scrimba Explain: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-14-scrimba-explain-1cd886c5.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-14-scrimba-explain-1cd886c5.html</guid>
-      <pubDate>Fri, 14 Aug 2026 05:46:12 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview Scrimba Explain is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Ask any question,…</description>
     </item>
   </channel>
 </rss>
