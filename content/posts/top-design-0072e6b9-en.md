@@ -1,7 +1,7 @@
 ---
 category: Design
 content_type: ranking
-date: '2026-08-31T03:16:56+00:00'
+date: '2026-09-02T02:38:15+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
@@ -13,22 +13,22 @@ translation_slug: top-design-0072e6b9
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [Caplio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/caplio}})
+### 1. [HONOR Robot Phone: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/honor-robot-phone}})
 
 ## Quick overview
 
-### 2. [Compass Calendar: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/compass-calendar}})
+### 2. [Caplio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/caplio}})
 
 ## Quick overview
 
-### 3. [Scrimba Explain: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/scrimba}})
+### 3. [Compass Calendar: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/compass-calendar}})
 
 ## Quick overview
 
-### 4. [Equitybee Benchmark: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/equitybee}})
+### 4. [Scrimba Explain: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/scrimba}})
 
 ## Quick overview
 
-### 5. [ArtDeck: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/artdeck}})
+### 5. [Equitybee Benchmark: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/equitybee}})
 
-![Public product page screenshot (automated capture, not proof of hands-on use)]({{screenshot_path}})
+## Quick overview

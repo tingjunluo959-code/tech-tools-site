@@ -1,36 +1,37 @@
 ---
-category: AI
+category: Design
 content_type: product
-date: '2026-09-01T03:19:41+00:00'
+date: '2026-09-02T02:38:15+00:00'
 lang: en
 link_status:
+  checked_at: '2026-09-02T02:38:15+00:00'
   error: HTTP 403
   ok: false
   status_code: 403
-  url: https://www.producthunt.com/products/fotor
-official_url: https://www.producthunt.com/products/fotor
-original_link: https://www.producthunt.com/products/fotor
+  url: https://www.producthunt.com/products/honor-robot-phone
+official_url: https://www.producthunt.com/products/honor-robot-phone
+original_link: https://www.producthunt.com/products/honor-robot-phone
 pricing: []
 pricing_url: ''
-product_id: 1b89198ff9a64bd0260fb80e312d8a05b98f20b31dd9762a88f0bb478e88e804
+product_id: 0b1e592794d7f87f3e5466cba223e43b62e8798e44b8743be15eb31e0035f18b
 promotion_alerts: []
 screenshot: ''
-slug: 2026-09-01-video-agent-by-fotor-1b89198f
-title: 'Video Agent by Fotor: A Tool Worth Watching'
-translation_slug: 2026-09-01-video-agent-by-fotor-1b89198f
+slug: 2026-09-02-honor-robot-phone-0b1e5927
+title: 'HONOR Robot Phone: A Tool Worth Watching'
+translation_slug: 2026-09-02-honor-robot-phone-0b1e5927
 ---
 
 ## Quick overview
 
-**Video Agent by Fotor** is a recent Product Hunt launch listed in the **AI** category. The public feed describes it this way:
+**HONOR Robot Phone** is a recent Product Hunt launch listed in the **Design** category. The public feed describes it this way:
 
-> Create and edit precision motion graphics & video with chat
+> The phone that literally has a gimbal built in
 
 That short description is a useful starting point, but it is not a substitute for the product's own documentation. This article intentionally avoids inventing features, prices, reviews, performance claims, or first-hand experience.
 
 ## Why it may be worth a closer look
 
-New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, Video Agent by Fotor is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
+New tools are most useful when they remove repetitive work, make a complicated workflow easier to understand, or help a small team keep information in one place. Based on the feed entry alone, HONOR Robot Phone is best treated as a candidate for further research rather than a guaranteed solution. Start by comparing the problem it claims to address with the way you work today. A short demo, a changelog, and the help center often reveal more than a launch headline.
 
 ## Who may find it useful
 
@@ -44,4 +45,4 @@ If your current workflow is stable and no clear pain point exists, bookmarking t
 
 Use [Learn more]({{affiliate_link}}) to open the latest product page. Confirm the current free allowance, subscription price, cancellation process, storage location, privacy policy, support channel, and any limits on integrations. If the tool requests access to email, cloud storage, source code, or team documents, begin with non-sensitive test data and verify that permissions can be revoked. For business use, ask the relevant owner to review security and compliance boundaries.
 
-Overall, Video Agent by Fotor is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.
+Overall, HONOR Robot Phone is an interesting candidate to monitor, but the available feed information is not enough for a strong recommendation. Verify current details on the official site and decide from a real, appropriately scoped trial.

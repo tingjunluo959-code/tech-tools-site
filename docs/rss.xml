@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 03:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:38:15 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 Design Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Wed, 02 Sep 2026 02:38:15 +0000</pubDate>
+      <category>Design</category>
+      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
+    </item>
+    <item>
+      <title>HONOR Robot Phone: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-02-honor-robot-phone-0b1e5927.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-02-honor-robot-phone-0b1e5927.html</guid>
+      <pubDate>Wed, 02 Sep 2026 02:38:15 +0000</pubDate>
+      <category>Design</category>
+      <description>Quick overview HONOR Robot Phone is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: The phone that…</description>
+    </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Mon, 31 Aug 2026 03:16:56 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Caplio is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Find, organize, and reuse…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 Design Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Mon, 31 Aug 2026 03:16:56 +0000</pubDate>
-      <category>Design</category>
-      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
     <item>
       <title>1752vc Pitch Deck Analyzer: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 16 Aug 2026 03:16:34 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview FileRouter is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Take control of files and…</description>
-    </item>
-    <item>
-      <title>Compass Calendar: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-15-compass-calendar-92b51d56.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-15-compass-calendar-92b51d56.html</guid>
-      <pubDate>Sat, 15 Aug 2026 03:04:17 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview Compass Calendar is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: The keyboard fir…</description>
     </item>
   </channel>
 </rss>
