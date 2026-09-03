@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 02:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:44:27 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Userlens: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-03-userlens-4be10427.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-03-userlens-4be10427.html</guid>
+      <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Userlens is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI agent to improve product…</description>
+    </item>
     <item>
       <title>2026: Top 5 Design Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
@@ -21,14 +37,6 @@
       <pubDate>Wed, 02 Sep 2026 02:38:15 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview HONOR Robot Phone is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: The phone that…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 01 Sep 2026 03:19:41 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Video Agent by Fotor: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 17 Aug 2026 03:16:09 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Chert is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Vapi for FaceTime: AI video age…</description>
-    </item>
-    <item>
-      <title>FileRouter: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-16-filerouter-fbe0d911.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-16-filerouter-fbe0d911.html</guid>
-      <pubDate>Sun, 16 Aug 2026 03:16:34 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview FileRouter is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Take control of files and…</description>
     </item>
   </channel>
 </rss>
