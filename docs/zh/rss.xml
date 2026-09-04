@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 02:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:41:47 +0000</lastBuildDate>
+    <item>
+      <title>MagiCrew：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-04-magicrew-20431f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-04-magicrew-20431f90.html</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 MagiCrew 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Give everyone their own AI workforce in one platform 从这段公开信息来看，它更适合被当作…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. MagiCrew: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Userlens: A Tool W…</description>
+    </item>
     <item>
       <title>Userlens：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-03-userlens-4be10427.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Userlens 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： AI agent to improve product adoption 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Userlens: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Video Agent by Fot…</description>
     </item>
     <item>
       <title>HONOR Robot Phone：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 TinyFish 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The web operating layer for AI agents 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由…</description>
-    </item>
-    <item>
-      <title>Chert：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-17-chert-27dcca35.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-17-chert-27dcca35.html</guid>
-      <pubDate>Mon, 17 Aug 2026 03:16:09 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 Chert 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Vapi for FaceTime: AI video agents in a few lines 从这段公开信息来看，它更适合被当作一个值得进一…</description>
     </item>
   </channel>
 </rss>

@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 02:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:41:47 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>MagiCrew: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-04-magicrew-20431f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-04-magicrew-20431f90.html</guid>
+      <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview MagiCrew is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Give everyone their own AI w…</description>
     </item>
     <item>
       <title>Userlens: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 18 Aug 2026 03:11:15 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview TinyFish is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The web operating layer for…</description>
-    </item>
-    <item>
-      <title>Chert: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-17-chert-27dcca35.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-17-chert-27dcca35.html</guid>
-      <pubDate>Mon, 17 Aug 2026 03:16:09 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Chert is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Vapi for FaceTime: AI video age…</description>
     </item>
   </channel>
 </rss>
