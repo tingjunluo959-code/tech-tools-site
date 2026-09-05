@@ -10,7 +10,7 @@
       "official_url": "https://usenotate.app/changelog",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:48+00:00"
+      "updated_at": "2026-09-05T02:43:18+00:00"
     },
     "0ac1be6cb54e4b1e89068e39e75446ffaaffe38e24a92217b386bd569398d4ac": {
       "link_status": {
@@ -22,7 +22,7 @@
       "official_url": "https://wisprflow.onelink.me/PguH/lw5h199m",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:51+00:00"
+      "updated_at": "2026-09-05T02:43:20+00:00"
     },
     "0b06c683ec5a8fd59669101327a2841dbdce38a4df0944ba2f76fc6eeb433f43": {
       "link_status": {
@@ -34,7 +34,7 @@
       "official_url": "https://www.producthunt.com/products/capptivo",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:51+00:00"
+      "updated_at": "2026-09-05T02:43:20+00:00"
     },
     "0b1e592794d7f87f3e5466cba223e43b62e8798e44b8743be15eb31e0035f18b": {
       "link_status": {
@@ -46,7 +46,7 @@
       "official_url": "https://www.producthunt.com/products/honor-robot-phone",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:51+00:00"
+      "updated_at": "2026-09-05T02:43:20+00:00"
     },
     "0ba6ec5f5610c7c02678fda5c8e08287dbcb232fc1dced5e399f3fe432b0527c": {
       "link_status": {
@@ -58,7 +58,7 @@
       "official_url": "https://www.producthunt.com/products/equitybee",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:51+00:00"
+      "updated_at": "2026-09-05T02:43:20+00:00"
     },
     "127639cc62d76a80ea31db16a56983d54ab3c9336bca7d2723da3eabf6d6d01a": {
       "link_status": {
@@ -91,7 +91,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-09-04T02:41:52+00:00"
+      "updated_at": "2026-09-05T02:43:20+00:00"
     },
     "17a1f5898515f2ed79da8bcca6f8114af1d68b2dc68e6018d09436e8c95f244a": {
       "link_status": {
@@ -103,7 +103,7 @@
       "official_url": "https://www.producthunt.com/products/anycreature",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:52+00:00"
+      "updated_at": "2026-09-05T02:43:20+00:00"
     },
     "1b89198ff9a64bd0260fb80e312d8a05b98f20b31dd9762a88f0bb478e88e804": {
       "link_status": {
@@ -115,7 +115,7 @@
       "official_url": "https://www.producthunt.com/products/fotor",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:52+00:00"
+      "updated_at": "2026-09-05T02:43:21+00:00"
     },
     "1cd886c575ea35bbeb6250b34363ba7120e21cffd56cb9785cb11583ec605188": {
       "link_status": {
@@ -127,7 +127,7 @@
       "official_url": "https://www.producthunt.com/products/scrimba",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:52+00:00"
+      "updated_at": "2026-09-05T02:43:21+00:00"
     },
     "20431f90fe011118908511bb6893df4a1d69468135cb6a474ca0d4538e25122d": {
       "link_status": {
@@ -139,7 +139,7 @@
       "official_url": "https://www.producthunt.com/products/magicrew",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-09-04T02:41:47+00:00"
+      "updated_at": "2026-09-05T02:43:21+00:00"
     },
     "27dcca354d02b8fd1145048c261b98bd3695e57b3d35a3b3e8f6ea1aba673562": {
       "link_status": {
@@ -227,6 +227,18 @@
       "plans": [],
       "promotions": [],
       "updated_at": "2026-08-16T03:16:38+00:00"
+    },
+    "4816346755f9c4545560ad0b97f419d5c71da0f7b4bf597d9c16d35a20e1e887": {
+      "link_status": {
+        "error": "HTTP 403",
+        "ok": false,
+        "status_code": 403,
+        "url": "https://www.producthunt.com/products/twelvelabs"
+      },
+      "official_url": "https://www.producthunt.com/products/twelvelabs",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-09-05T02:43:17+00:00"
     },
     "4be1042791f7c3d07a8be3e6dad27d78cb21d92285a7db4b5276cbb5a4c229a1": {
       "link_status": {
