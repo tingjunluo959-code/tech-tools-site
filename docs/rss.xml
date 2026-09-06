@@ -5,7 +5,15 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 02:40:56 +0000</lastBuildDate>
+    <item>
+      <title>Ponytail: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-06-ponytail-cf694a72.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-06-ponytail-cf694a72.html</guid>
+      <pubDate>Sun, 06 Sep 2026 02:40:56 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Quick overview Ponytail is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Make new code t…</description>
+    </item>
     <item>
       <title>Compliance by TwelveLabs: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-05-compliance-by-twelvelabs-48163467.html</link>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 21 Aug 2026 03:30:47 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Shape is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The agentic IDE for designers a…</description>
-    </item>
-    <item>
-      <title>anyCreature by Gobkit: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-20-anycreature-by-gobkit-17a1f589.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-20-anycreature-by-gobkit-17a1f589.html</guid>
-      <pubDate>Thu, 20 Aug 2026 03:13:01 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview anyCreature by Gobkit is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Summon monsters…</description>
     </item>
   </channel>
 </rss>
