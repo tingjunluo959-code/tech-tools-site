@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 02:40:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:38:26 +0000</lastBuildDate>
+    <item>
+      <title>Kit by Speakeasy: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-07-kit-by-speakeasy-bb6df65a.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-07-kit-by-speakeasy-bb6df65a.html</guid>
+      <pubDate>Mon, 07 Sep 2026 02:38:26 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Kit by Speakeasy is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your coding agent ru…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Mon, 07 Sep 2026 02:38:26 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>Ponytail: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-06-ponytail-cf694a72.html</link>
@@ -37,14 +53,6 @@
       <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview MagiCrew is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Give everyone their own AI w…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Userlens: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 22 Aug 2026 03:08:34 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview PixelRead AI OCR is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Capture, translate,…</description>
-    </item>
-    <item>
-      <title>Shape: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-21-shape-57936e82.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-21-shape-57936e82.html</guid>
-      <pubDate>Fri, 21 Aug 2026 03:30:47 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Shape is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The agentic IDE for designers a…</description>
     </item>
   </channel>
 </rss>
