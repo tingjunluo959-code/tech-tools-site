@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 02:51:52 +0000</lastBuildDate>
+    <item>
+      <title>Mastra Factory：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-10-mastra-factory-68a2d7b0.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-10-mastra-factory-68a2d7b0.html</guid>
+      <pubDate>Thu, 10 Sep 2026 02:51:52 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 Mastra Factory 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： From issue to production, run by agents. 从这段公开信息来看，它更适合被当作一个值得进一…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Thu, 10 Sep 2026 02:51:52 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Mastra Factory: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Nina by Anta…</description>
+    </item>
     <item>
       <title>2026 年值得关注的 5 个未分类工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Tue, 08 Sep 2026 02:51:04 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Nina by Antalpha 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Non custodial AI Agent: research, predict &amp; trade crypto 从这段公开…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 08 Sep 2026 02:51:04 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Nina by Antalpha: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Kit by Spe…</description>
     </item>
     <item>
       <title>Kit by Speakeasy：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 25 Aug 2026 01:01:45 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 IFAH 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Instruments for composing and experiencing sound as a space 从这段公开信息来看，它更适…</description>
-    </item>
-    <item>
-      <title>Tab Notes：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-24-tab-notes-c6844f5e.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-24-tab-notes-c6844f5e.html</guid>
-      <pubDate>Mon, 24 Aug 2026 01:02:11 +0000</pubDate>
-      <category>Productivity</category>
-      <description>产品速览 Tab Notes 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Productivity”类别。官方 Feed 给出的原始简介是： Turn your browser new tab into a distraction free notepad 从…</description>
     </item>
   </channel>
 </rss>

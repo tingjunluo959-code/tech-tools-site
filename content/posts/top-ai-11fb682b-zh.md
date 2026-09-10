@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-09-08T02:51:04+00:00'
+date: '2026-09-10T02:51:52+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Nina by Antalpha: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/antalpha}})
+### 1. [Mastra Factory: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mastra}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Kit by Speakeasy: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/speakeasydev}})
+### 2. [Nina by Antalpha: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/antalpha}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [MagiCrew: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/magicrew}})
+### 3. [Kit by Speakeasy: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/speakeasydev}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Userlens: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/userlens}})
+### 4. [MagiCrew: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/magicrew}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Video Agent by Fotor: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/fotor}})
+### 5. [Userlens: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/userlens}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。

@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-09-08T02:51:04+00:00'
+date: '2026-09-10T02:51:52+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [Nina by Antalpha: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/antalpha}})
+### 1. [Mastra Factory: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mastra}})
 
 ## Quick overview
 
-### 2. [Kit by Speakeasy: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/speakeasydev}})
+### 2. [Nina by Antalpha: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/antalpha}})
 
 ## Quick overview
 
-### 3. [MagiCrew: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/magicrew}})
+### 3. [Kit by Speakeasy: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/speakeasydev}})
 
 ## Quick overview
 
-### 4. [Userlens: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/userlens}})
+### 4. [MagiCrew: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/magicrew}})
 
 ## Quick overview
 
-### 5. [Video Agent by Fotor: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/fotor}})
+### 5. [Userlens: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/userlens}})
 
 ## Quick overview
