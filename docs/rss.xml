@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 02:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:46:01 +0000</lastBuildDate>
+    <item>
+      <title>Desert Ant Labs: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-11-desert-ant-labs-b2300872.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-11-desert-ant-labs-b2300872.html</guid>
+      <pubDate>Fri, 11 Sep 2026 02:46:01 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Desert Ant Labs is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Small specialized AI…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Fri, 11 Sep 2026 02:46:01 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>Mastra Factory: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-10-mastra-factory-68a2d7b0.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Thu, 10 Sep 2026 02:51:52 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Mastra Factory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: From issue to producti…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 10 Sep 2026 02:51:52 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Trancy Air: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 26 Aug 2026 01:02:55 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Flare is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The graph first IDE and interac…</description>
-    </item>
-    <item>
-      <title>IFAH: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-25-ifah-f82eee23.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-25-ifah-f82eee23.html</guid>
-      <pubDate>Tue, 25 Aug 2026 01:01:45 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview IFAH is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Instruments for composing and e…</description>
     </item>
   </channel>
 </rss>
