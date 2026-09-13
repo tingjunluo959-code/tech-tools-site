@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 02:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 02:53:39 +0000</lastBuildDate>
+    <item>
+      <title>Cortex: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-13-cortex-ee9d55df.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-13-cortex-ee9d55df.html</guid>
+      <pubDate>Sun, 13 Sep 2026 02:53:39 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Quick overview Cortex is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Turn API specs in…</description>
+    </item>
+    <item>
+      <title>2026: Top 3 Developer Tools Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
+      <pubDate>Sun, 13 Sep 2026 02:53:39 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Top tools in Developer Tools A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page befo…</description>
+    </item>
     <item>
       <title>Cline Desktop App: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-12-cline-desktop-app-b5aa7ad0.html</link>
@@ -149,22 +165,6 @@
       <pubDate>Sat, 29 Aug 2026 05:25:05 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview NotchDrop is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A Dynamic Island experienc…</description>
-    </item>
-    <item>
-      <title>SnakeRank: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-28-snakerank-d195c651.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-28-snakerank-d195c651.html</guid>
-      <pubDate>Fri, 28 Aug 2026 08:48:28 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview SnakeRank is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: The leaderboard is a snake…</description>
-    </item>
-    <item>
-      <title>Message Album: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-27-message-album-6de53fdd.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-27-message-album-6de53fdd.html</guid>
-      <pubDate>Thu, 27 Aug 2026 07:00:32 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Message Album is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Save one iMessage conv…</description>
     </item>
   </channel>
 </rss>
