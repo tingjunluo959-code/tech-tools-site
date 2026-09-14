@@ -5,7 +5,7 @@ date: '2026-09-05T02:43:17+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
-title: 2026 年值得关注的 5 个Design工具
+title: 2026 年值得关注的 3 个Design工具
 translation_slug: top-design-0072e6b9
 ---
 
@@ -22,13 +22,5 @@ translation_slug: top-design-0072e6b9
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
 ### 3. [Caplio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/caplio}})
-
-这是近期值得继续观察的候选工具，建议先小范围试用。
-
-### 4. [Compass Calendar: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/compass-calendar}})
-
-这是近期值得继续观察的候选工具，建议先小范围试用。
-
-### 5. [Scrimba Explain: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/scrimba}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
