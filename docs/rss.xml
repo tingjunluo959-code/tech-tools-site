@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 03:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:09:51 +0000</lastBuildDate>
+    <item>
+      <title>Elva: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-15-elva-3a7624e8.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-15-elva-3a7624e8.html</guid>
+      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Quick overview Elva is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Goodbye, Postman. Y…</description>
+    </item>
+    <item>
+      <title>2026: Top 4 Developer Tools Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
+      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Top tools in Developer Tools A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page befo…</description>
+    </item>
     <item>
       <title>Cognition&#39;s SWE-2: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-14-cognition-s-swe-2-a60a1c24.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Sun, 13 Sep 2026 02:53:39 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Quick overview Cortex is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Turn API specs in…</description>
-    </item>
-    <item>
-      <title>2026: Top 3 Developer Tools Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
-      <pubDate>Sun, 13 Sep 2026 02:53:39 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Top tools in Developer Tools A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page befo…</description>
     </item>
     <item>
       <title>Cline Desktop App: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 31 Aug 2026 03:16:56 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Caplio is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Find, organize, and reuse…</description>
-    </item>
-    <item>
-      <title>1752vc Pitch Deck Analyzer: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-30-1752vc-pitch-deck-analyzer-310a03cf.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-08-30-1752vc-pitch-deck-analyzer-310a03cf.html</guid>
-      <pubDate>Sun, 30 Aug 2026 03:20:57 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview 1752vc Pitch Deck Analyzer is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Know what…</description>
     </item>
   </channel>
 </rss>

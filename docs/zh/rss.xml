@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 03:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:09:51 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 4 个Developer Tools工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-developer-tools-85c1562c.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-developer-tools-85c1562c.html</guid>
+      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Developer Tools 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Elva: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Cortex: A…</description>
+    </item>
+    <item>
+      <title>Elva：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-15-elva-3a7624e8.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-15-elva-3a7624e8.html</guid>
+      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>产品速览 Elva 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Developer Tools”类别。官方 Feed 给出的原始简介是： Goodbye, Postman. Your APIs have new consumers 从这段公开信息来看，它更适合…</description>
+    </item>
     <item>
       <title>Cognition&#39;s SWE-2：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-14-cognition-s-swe-2-a60a1c24.html</link>
@@ -21,14 +37,6 @@
       <pubDate>Mon, 14 Sep 2026 03:07:51 +0000</pubDate>
       <category>AI</category>
       <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Cognition&#39;s SWE 2: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Cline Des…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 3 个Developer Tools工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-developer-tools-85c1562c.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-developer-tools-85c1562c.html</guid>
-      <pubDate>Sun, 13 Sep 2026 02:53:39 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Developer Tools 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Cortex: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Ponytai…</description>
     </item>
     <item>
       <title>Cortex：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 31 Aug 2026 03:16:56 +0000</pubDate>
       <category>Design</category>
       <description>产品速览 Caplio 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Find, organize, and reuse every image on your Mac 从这段公开信息来看，它更适合被当作一…</description>
-    </item>
-    <item>
-      <title>1752vc Pitch Deck Analyzer：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-30-1752vc-pitch-deck-analyzer-310a03cf.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-08-30-1752vc-pitch-deck-analyzer-310a03cf.html</guid>
-      <pubDate>Sun, 30 Aug 2026 03:20:57 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 1752vc Pitch Deck Analyzer 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Know what investors will say before you ever hit se…</description>
     </item>
   </channel>
 </rss>
