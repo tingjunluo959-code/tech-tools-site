@@ -5,12 +5,20 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 03:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 02:57:30 +0000</lastBuildDate>
+    <item>
+      <title>Blanc: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-18-blanc-7b9c1317.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-18-blanc-7b9c1317.html</guid>
+      <pubDate>Fri, 18 Sep 2026 02:57:30 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Blanc is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A minimal browser with a float…</description>
+    </item>
     <item>
       <title>2026: Top 5 未分类 Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Thu, 17 Sep 2026 03:10:34 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 02:57:30 +0000</pubDate>
       <category>未分类</category>
       <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
@@ -157,14 +165,6 @@
       <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Userlens is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI agent to improve product…</description>
-    </item>
-    <item>
-      <title>HONOR Robot Phone: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-02-honor-robot-phone-0b1e5927.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-02-honor-robot-phone-0b1e5927.html</guid>
-      <pubDate>Wed, 02 Sep 2026 02:38:15 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview HONOR Robot Phone is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: The phone that…</description>
     </item>
   </channel>
 </rss>
