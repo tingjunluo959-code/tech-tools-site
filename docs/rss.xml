@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 02:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 02:55:29 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Sat, 19 Sep 2026 02:55:29 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Keysake: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-19-keysake-acea7f57.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-19-keysake-acea7f57.html</guid>
+      <pubDate>Sat, 19 Sep 2026 02:55:29 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Keysake is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Learn English as you type Ch…</description>
+    </item>
     <item>
       <title>Blanc: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-18-blanc-7b9c1317.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Fri, 18 Sep 2026 02:57:30 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Blanc is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A minimal browser with a float…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Fri, 18 Sep 2026 02:57:30 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>PeakHour 6: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 04 Sep 2026 02:41:47 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview MagiCrew is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Give everyone their own AI w…</description>
-    </item>
-    <item>
-      <title>Userlens: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-03-userlens-4be10427.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-03-userlens-4be10427.html</guid>
-      <pubDate>Thu, 03 Sep 2026 02:44:27 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Userlens is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI agent to improve product…</description>
     </item>
   </channel>
 </rss>
