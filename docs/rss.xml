@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 03:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:05:09 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Mon, 21 Sep 2026 03:05:09 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Epismo OS: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-21-epismo-os-ddb29738.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-21-epismo-os-ddb29738.html</guid>
+      <pubDate>Mon, 21 Sep 2026 03:05:09 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Epismo OS is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep your work when you swi…</description>
+    </item>
     <item>
       <title>Lull: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-20-lull-6a691b17.html</link>
@@ -53,14 +69,6 @@
       <pubDate>Wed, 16 Sep 2026 03:06:24 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview tiun. is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Auth, billing, and payments for…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 16 Sep 2026 03:06:24 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Elva: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 05 Sep 2026 02:43:17 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Compliance by TwelveLabs is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Video co…</description>
-    </item>
-    <item>
-      <title>2026: Top 3 Design Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Sat, 05 Sep 2026 02:43:17 +0000</pubDate>
-      <category>Design</category>
-      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
   </channel>
 </rss>
