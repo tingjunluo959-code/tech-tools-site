@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 03:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:04:47 +0000</lastBuildDate>
+    <item>
+      <title>thestory.run: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-23-thestory-run-5a0759de.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-23-thestory-run-5a0759de.html</guid>
+      <pubDate>Wed, 23 Sep 2026 03:04:47 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview thestory.run is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A writing coach for cor…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Wed, 23 Sep 2026 03:04:47 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>Hyrax AI: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-22-hyrax-ai-63c086a6.html</link>
@@ -37,14 +53,6 @@
       <pubDate>Sun, 20 Sep 2026 03:08:44 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Lull is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Tell it what is on your mind. I…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Sun, 20 Sep 2026 03:08:44 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Keysake: A Tool Worth Watching</title>
@@ -87,7 +95,7 @@
       <description>Quick overview Elva is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Goodbye, Postman. Y…</description>
     </item>
     <item>
-      <title>2026: Top 4 Developer Tools Tools to Watch</title>
+      <title>2026: Top 3 Developer Tools Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
       <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 07 Sep 2026 02:38:26 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Kit by Speakeasy is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your coding agent ru…</description>
-    </item>
-    <item>
-      <title>Ponytail: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-06-ponytail-cf694a72.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-06-ponytail-cf694a72.html</guid>
-      <pubDate>Sun, 06 Sep 2026 02:40:56 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Quick overview Ponytail is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Make new code t…</description>
     </item>
   </channel>
 </rss>

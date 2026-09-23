@@ -5,7 +5,7 @@ date: '2026-09-15T03:09:51+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-developer-tools-85c1562c
-title: 2026 年值得关注的 4 个Developer Tools工具
+title: 2026 年值得关注的 3 个Developer Tools工具
 translation_slug: top-developer-tools-85c1562c
 ---
 
@@ -22,9 +22,5 @@ translation_slug: top-developer-tools-85c1562c
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
 ### 3. [Ponytail: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ponytail}})
-
-这是近期值得继续观察的候选工具，建议先小范围试用。
-
-### 4. [Pocket by Meta: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pocket-by-meta}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
