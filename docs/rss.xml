@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 02:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:12:41 +0000</lastBuildDate>
     <item>
-      <title>Koreshield: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-24-koreshield-3e4acbbb.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-24-koreshield-3e4acbbb.html</guid>
-      <pubDate>Thu, 24 Sep 2026 02:55:54 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Koreshield is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Security and evidence for…</description>
+      <title>LockLines: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-25-locklines-3b49e23c.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-25-locklines-3b49e23c.html</guid>
+      <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
+      <category>Design</category>
+      <description>Quick overview LockLines is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Design Mac lock screen…</description>
+    </item>
+    <item>
+      <title>2026: Top 4 Design Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
+      <category>Design</category>
+      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
@@ -21,6 +29,14 @@
       <pubDate>Thu, 24 Sep 2026 02:55:54 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Koreshield: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-24-koreshield-3e4acbbb.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-24-koreshield-3e4acbbb.html</guid>
+      <pubDate>Thu, 24 Sep 2026 02:55:54 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Koreshield is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Security and evidence for…</description>
     </item>
     <item>
       <title>thestory.run: A Tool Worth Watching</title>
@@ -149,22 +165,6 @@
       <pubDate>Thu, 10 Sep 2026 02:51:52 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Mastra Factory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: From issue to producti…</description>
-    </item>
-    <item>
-      <title>Trancy Air: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-09-trancy-air-f969b029.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-09-trancy-air-f969b029.html</guid>
-      <pubDate>Wed, 09 Sep 2026 02:51:00 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Trancy Air is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Translate anything you se…</description>
-    </item>
-    <item>
-      <title>Nina by Antalpha: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-08-nina-by-antalpha-5b4c1383.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-08-nina-by-antalpha-5b4c1383.html</guid>
-      <pubDate>Tue, 08 Sep 2026 02:51:04 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Nina by Antalpha is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Non custodial AI Age…</description>
     </item>
   </channel>
 </rss>
