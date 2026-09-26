@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 03:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 03:16:25 +0000</lastBuildDate>
+    <item>
+      <title>Kairn: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-26-kairn-b9683f36.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-26-kairn-b9683f36.html</guid>
+      <pubDate>Sat, 26 Sep 2026 03:16:25 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Kairn is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Turn any recorded convo into a…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Sat, 26 Sep 2026 03:16:25 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>LockLines: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-25-locklines-3b49e23c.html</link>
@@ -45,14 +61,6 @@
       <pubDate>Wed, 23 Sep 2026 03:04:47 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview thestory.run is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A writing coach for cor…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Wed, 23 Sep 2026 03:04:47 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Hyrax AI: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 11 Sep 2026 02:46:01 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Desert Ant Labs is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Small specialized AI…</description>
-    </item>
-    <item>
-      <title>Mastra Factory: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-10-mastra-factory-68a2d7b0.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-10-mastra-factory-68a2d7b0.html</guid>
-      <pubDate>Thu, 10 Sep 2026 02:51:52 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Mastra Factory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: From issue to producti…</description>
     </item>
   </channel>
 </rss>
