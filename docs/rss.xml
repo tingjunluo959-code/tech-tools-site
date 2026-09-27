@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 03:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 03:24:29 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Sun, 27 Sep 2026 03:24:29 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Hemory: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-27-hemory-b1844a12.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-27-hemory-b1844a12.html</guid>
+      <pubDate>Sun, 27 Sep 2026 03:24:29 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Hemory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep listening. Searchable mem…</description>
+    </item>
     <item>
       <title>Kairn: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-26-kairn-b9683f36.html</link>
@@ -37,14 +53,6 @@
       <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
       <category>Design</category>
       <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 24 Sep 2026 02:55:54 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Koreshield: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 12 Sep 2026 02:54:51 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Cline Desktop App is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: An open source app…</description>
-    </item>
-    <item>
-      <title>Desert Ant Labs: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-11-desert-ant-labs-b2300872.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-11-desert-ant-labs-b2300872.html</guid>
-      <pubDate>Fri, 11 Sep 2026 02:46:01 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Desert Ant Labs is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Small specialized AI…</description>
     </item>
   </channel>
 </rss>
