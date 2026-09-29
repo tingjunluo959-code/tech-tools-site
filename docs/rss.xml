@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:58:26 +0000</lastBuildDate>
+    <item>
+      <title>Lattice: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-29-lattice-6f6c6d20.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-29-lattice-6f6c6d20.html</guid>
+      <pubDate>Tue, 29 Sep 2026 03:58:26 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Lattice is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Reshape your text across lan…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Tue, 29 Sep 2026 03:58:26 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
@@ -37,14 +53,6 @@
       <pubDate>Sat, 26 Sep 2026 03:16:25 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Kairn is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Turn any recorded convo into a…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Sat, 26 Sep 2026 03:16:25 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>LockLines: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 14 Sep 2026 03:07:51 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Cognition&#39;s SWE 2 is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Cognition&#39;s coding…</description>
-    </item>
-    <item>
-      <title>Cortex: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-13-cortex-ee9d55df.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-13-cortex-ee9d55df.html</guid>
-      <pubDate>Sun, 13 Sep 2026 02:53:39 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Quick overview Cortex is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Turn API specs in…</description>
     </item>
   </channel>
 </rss>
