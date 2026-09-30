@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-09-28T03:21:40+00:00'
+date: '2026-09-30T03:45:57+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Harmony: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/harmony-it}})
+### 1. [iFixAi: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ifixai}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Hemory: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hemory}})
+### 2. [Harmony: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/harmony-it}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Koreshield: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/koreshield}})
+### 3. [Hemory: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hemory}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Hyrax AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/tristan-benozer}})
+### 4. [Koreshield: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/koreshield}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Epismo OS: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/epismo}})
+### 5. [Hyrax AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/tristan-benozer}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
