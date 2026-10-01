@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:45:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:52:52 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 4 Design Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
+      <category>Design</category>
+      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
+    </item>
+    <item>
+      <title>Pexo: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-01-pexo-9842c680.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-01-pexo-9842c680.html</guid>
+      <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
+      <category>Design</category>
+      <description>Quick overview Pexo is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Produce pitch perfect launch…</description>
+    </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
@@ -69,14 +85,6 @@
       <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview LockLines is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Design Mac lock screen…</description>
-    </item>
-    <item>
-      <title>2026: Top 3 Design Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
-      <category>Design</category>
-      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
     <item>
       <title>Koreshield: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Quick overview Elva is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Goodbye, Postman. Y…</description>
-    </item>
-    <item>
-      <title>2026: Top 3 Developer Tools Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
-      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Top tools in Developer Tools A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page befo…</description>
     </item>
   </channel>
 </rss>

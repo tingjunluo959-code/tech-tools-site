@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:45:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:52:52 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 4 个Design工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
+      <category>Design</category>
+      <description>Design 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Pexo: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. LockLines: A Tool…</description>
+    </item>
+    <item>
+      <title>Pexo：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-01-pexo-9842c680.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-01-pexo-9842c680.html</guid>
+      <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
+      <category>Design</category>
+      <description>产品速览 Pexo 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Produce pitch perfect launch videos with precise control 从这段公开信息来看，它更适…</description>
+    </item>
     <item>
       <title>iFixAi：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-30-ifixai-7fd22694.html</link>
@@ -61,14 +77,6 @@
       <pubDate>Sat, 26 Sep 2026 03:16:25 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 Kairn 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Turn any recorded convo into actionables and follow ups 从这段公开信息来看，它更适合被当…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 3 个Design工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
-      <category>Design</category>
-      <description>Design 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. LockLines: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Compliance by…</description>
     </item>
     <item>
       <title>LockLines：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
       <category>Developer Tools</category>
       <description>产品速览 Elva 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Developer Tools”类别。官方 Feed 给出的原始简介是： Goodbye, Postman. Your APIs have new consumers 从这段公开信息来看，它更适合…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 3 个Developer Tools工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-developer-tools-85c1562c.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-developer-tools-85c1562c.html</guid>
-      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Developer Tools 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Elva: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Cortex: A…</description>
     </item>
   </channel>
 </rss>
