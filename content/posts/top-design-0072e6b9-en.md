@@ -5,7 +5,7 @@ date: '2026-10-01T03:52:52+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
-title: '2026: Top 4 Design Tools to Watch'
+title: '2026: Top 3 Design Tools to Watch'
 translation_slug: top-design-0072e6b9
 ---
 
@@ -22,9 +22,5 @@ A rolling shortlist based on recent Product Hunt coverage. Verify current featur
 ## Quick overview
 
 ### 3. [Compliance by TwelveLabs: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/twelvelabs}})
-
-## Quick overview
-
-### 4. [HONOR Robot Phone: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/honor-robot-phone}})
 
 ## Quick overview

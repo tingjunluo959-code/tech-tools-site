@@ -5,9 +5,25 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 03:52:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:50:19 +0000</lastBuildDate>
     <item>
-      <title>2026: Top 4 Design Tools to Watch</title>
+      <title>2026: Top 4 Developer Tools Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
+      <pubDate>Fri, 02 Oct 2026 03:50:19 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Top tools in Developer Tools A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page befo…</description>
+    </item>
+    <item>
+      <title>Scape: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-02-scape-01f1f850.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-02-scape-01f1f850.html</guid>
+      <pubDate>Fri, 02 Oct 2026 03:50:19 +0000</pubDate>
+      <category>Developer Tools</category>
+      <description>Quick overview Scape is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Team document coll…</description>
+    </item>
+    <item>
+      <title>2026: Top 3 Design Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
       <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
@@ -149,22 +165,6 @@
       <pubDate>Thu, 17 Sep 2026 03:10:34 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview PeakHour 6 is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Real time network monitor…</description>
-    </item>
-    <item>
-      <title>tiun.: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-16-tiun-2f02c97e.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-16-tiun-2f02c97e.html</guid>
-      <pubDate>Wed, 16 Sep 2026 03:06:24 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview tiun. is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Auth, billing, and payments for…</description>
-    </item>
-    <item>
-      <title>Elva: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-15-elva-3a7624e8.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-15-elva-3a7624e8.html</guid>
-      <pubDate>Tue, 15 Sep 2026 03:09:51 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Quick overview Elva is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Goodbye, Postman. Y…</description>
     </item>
   </channel>
 </rss>
