@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 03:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:04:35 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Sun, 04 Oct 2026 04:04:35 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Notchware: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-04-notchware-395ffc3e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-04-notchware-395ffc3e.html</guid>
+      <pubDate>Sun, 04 Oct 2026 04:04:35 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Notchware is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Music and AI agent alerts i…</description>
+    </item>
     <item>
       <title>Earlyn: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-03-earlyn-ae923be9.html</link>
@@ -45,14 +61,6 @@
       <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Pexo is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Produce pitch perfect launch…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 30 Sep 2026 03:45:57 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>iFixAi: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 19 Sep 2026 02:55:29 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Keysake is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Learn English as you type Ch…</description>
-    </item>
-    <item>
-      <title>Blanc: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-18-blanc-7b9c1317.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-18-blanc-7b9c1317.html</guid>
-      <pubDate>Fri, 18 Sep 2026 02:57:30 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Blanc is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A minimal browser with a float…</description>
     </item>
   </channel>
 </rss>

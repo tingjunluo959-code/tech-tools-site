@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-09-30T03:45:57+00:00'
+date: '2026-10-04T04:04:35+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [iFixAi: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ifixai}})
+### 1. [Notchware: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/notchware}})
 
 ## Quick overview
 
-### 2. [Harmony: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/harmony-it}})
+### 2. [iFixAi: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ifixai}})
 
 ## Quick overview
 
-### 3. [Hemory: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hemory}})
+### 3. [Harmony: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/harmony-it}})
 
 ## Quick overview
 
-### 4. [Koreshield: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/koreshield}})
+### 4. [Hemory: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hemory}})
 
 ## Quick overview
 
-### 5. [Hyrax AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/tristan-benozer}})
+### 5. [Koreshield: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/koreshield}})
 
 ## Quick overview

@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 03:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:04:35 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Sun, 04 Oct 2026 04:04:35 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Notchware: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. iFixAi: A Tool Wo…</description>
+    </item>
+    <item>
+      <title>Notchware：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-04-notchware-395ffc3e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-04-notchware-395ffc3e.html</guid>
+      <pubDate>Sun, 04 Oct 2026 04:04:35 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 Notchware 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Music and AI agent alerts in your MacBook notch 从这段公开信息来看，它更适合被当作一个值得…</description>
+    </item>
     <item>
       <title>Earlyn：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-03-earlyn-ae923be9.html</link>
@@ -53,14 +69,6 @@
       <pubDate>Wed, 30 Sep 2026 03:45:57 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 iFixAi 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Independent auditing of AI agents to uncover misalignment 从这段公开信息来看，它更适合…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 30 Sep 2026 03:45:57 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. iFixAi: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Harmony: A Tool Wort…</description>
     </item>
     <item>
       <title>2026 年值得关注的 5 个未分类工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 19 Sep 2026 02:55:29 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 Keysake 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Learn English as you type Chinese 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。由于 Fe…</description>
-    </item>
-    <item>
-      <title>Blanc：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-18-blanc-7b9c1317.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-18-blanc-7b9c1317.html</guid>
-      <pubDate>Fri, 18 Sep 2026 02:57:30 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 Blanc 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： A minimal browser with a floating island for a toolbar 从这段公开信息来看，它更适合被当作…</description>
     </item>
   </channel>
 </rss>
