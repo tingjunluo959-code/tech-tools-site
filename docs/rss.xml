@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 04:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 03:49:15 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sun, 04 Oct 2026 04:04:35 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 03:49:15 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>CoreSpeed: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-05-corespeed-7d06b090.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-05-corespeed-7d06b090.html</guid>
+      <pubDate>Mon, 05 Oct 2026 03:49:15 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview CoreSpeed is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: One MCP for everything your…</description>
     </item>
     <item>
       <title>Notchware: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 20 Sep 2026 03:08:44 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Lull is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Tell it what is on your mind. I…</description>
-    </item>
-    <item>
-      <title>Keysake: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-19-keysake-acea7f57.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-19-keysake-acea7f57.html</guid>
-      <pubDate>Sat, 19 Sep 2026 02:55:29 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Keysake is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Learn English as you type Ch…</description>
     </item>
   </channel>
 </rss>
