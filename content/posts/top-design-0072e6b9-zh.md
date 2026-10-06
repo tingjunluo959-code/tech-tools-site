@@ -1,7 +1,7 @@
 ---
 category: Design
 content_type: ranking
-date: '2026-10-01T03:52:52+00:00'
+date: '2026-10-06T04:37:11+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
@@ -13,14 +13,14 @@ translation_slug: top-design-0072e6b9
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
+### 1. [Dots UI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/dots-ui}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
+### 2. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Compliance by TwelveLabs: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/twelvelabs}})
+### 3. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。

@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 03:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:37:11 +0000</lastBuildDate>
+    <item>
+      <title>Dots UI: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-06-dots-ui-40be886a.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-06-dots-ui-40be886a.html</guid>
+      <pubDate>Tue, 06 Oct 2026 04:37:11 +0000</pubDate>
+      <category>Design</category>
+      <description>Quick overview Dots UI is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: A React library for morph…</description>
+    </item>
+    <item>
+      <title>2026: Top 3 Design Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Tue, 06 Oct 2026 04:37:11 +0000</pubDate>
+      <category>Design</category>
+      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
+    </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
@@ -39,7 +55,7 @@
       <description>Quick overview Earlyn is a recent Product Hunt launch listed in the Collaboration category. The public feed describes it this way: Searchable memory o…</description>
     </item>
     <item>
-      <title>2026: Top 4 Developer Tools Tools to Watch</title>
+      <title>2026: Top 3 Developer Tools Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-developer-tools-85c1562c.html</guid>
       <pubDate>Fri, 02 Oct 2026 03:50:19 +0000</pubDate>
@@ -53,14 +69,6 @@
       <pubDate>Fri, 02 Oct 2026 03:50:19 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Quick overview Scape is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Team document coll…</description>
-    </item>
-    <item>
-      <title>2026: Top 3 Design Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
-      <category>Design</category>
-      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
     <item>
       <title>Pexo: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 21 Sep 2026 03:05:09 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Epismo OS is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep your work when you swi…</description>
-    </item>
-    <item>
-      <title>Lull: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-20-lull-6a691b17.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-20-lull-6a691b17.html</guid>
-      <pubDate>Sun, 20 Sep 2026 03:08:44 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Lull is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Tell it what is on your mind. I…</description>
     </item>
   </channel>
 </rss>
