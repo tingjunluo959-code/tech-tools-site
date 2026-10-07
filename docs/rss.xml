@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:02:56 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Wed, 07 Oct 2026 04:02:56 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Willow Knowledge: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-07-willow-knowledge-364b6090.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-07-willow-knowledge-364b6090.html</guid>
+      <pubDate>Wed, 07 Oct 2026 04:02:56 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Willow Knowledge is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your AI already know…</description>
+    </item>
     <item>
       <title>Dots UI: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-06-dots-ui-40be886a.html</link>
@@ -21,14 +37,6 @@
       <pubDate>Tue, 06 Oct 2026 04:37:11 +0000</pubDate>
       <category>Design</category>
       <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Mon, 05 Oct 2026 03:49:15 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>CoreSpeed: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 22 Sep 2026 03:04:44 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Hyrax AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The AI architect for your en…</description>
-    </item>
-    <item>
-      <title>Epismo OS: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-21-epismo-os-ddb29738.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-21-epismo-os-ddb29738.html</guid>
-      <pubDate>Mon, 21 Sep 2026 03:05:09 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Epismo OS is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep your work when you swi…</description>
     </item>
   </channel>
 </rss>
