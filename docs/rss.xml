@@ -5,12 +5,20 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 04:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:15:25 +0000</lastBuildDate>
+    <item>
+      <title>Linda: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-08-linda-b0e351c9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-08-linda-b0e351c9.html</guid>
+      <pubDate>Thu, 08 Oct 2026 04:15:25 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Linda is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your local AI coworker for the…</description>
+    </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 07 Oct 2026 04:02:56 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 04:15:25 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 23 Sep 2026 03:04:47 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview thestory.run is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: A writing coach for cor…</description>
-    </item>
-    <item>
-      <title>Hyrax AI: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-22-hyrax-ai-63c086a6.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-22-hyrax-ai-63c086a6.html</guid>
-      <pubDate>Tue, 22 Sep 2026 03:04:44 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Hyrax AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The AI architect for your en…</description>
     </item>
   </channel>
 </rss>
