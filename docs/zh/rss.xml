@@ -5,7 +5,15 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 04:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:06:03 +0000</lastBuildDate>
+    <item>
+      <title>BrightBean Studio：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-10-brightbean-studio-f598a18e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-10-brightbean-studio-f598a18e.html</guid>
+      <pubDate>Sat, 10 Oct 2026 04:06:03 +0000</pubDate>
+      <category>Collaboration</category>
+      <description>产品速览 BrightBean Studio 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Collaboration”类别。官方 Feed 给出的原始简介是： Open source Buffer alternative for social media te…</description>
+    </item>
     <item>
       <title>ProcBoss：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-09-procboss-61983422.html</link>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 25 Sep 2026 03:12:41 +0000</pubDate>
       <category>Design</category>
       <description>产品速览 LockLines 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Design Mac lock screen messages that fit 从这段公开信息来看，它更适合被当作一个值得进一步…</description>
-    </item>
-    <item>
-      <title>Koreshield：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-24-koreshield-3e4acbbb.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-24-koreshield-3e4acbbb.html</guid>
-      <pubDate>Thu, 24 Sep 2026 02:55:54 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 Koreshield 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Security and evidence for AI support agents 从这段公开信息来看，它更适合被当作一个值得进一步…</description>
     </item>
   </channel>
 </rss>
