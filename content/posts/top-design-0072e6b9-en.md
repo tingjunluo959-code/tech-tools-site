@@ -1,11 +1,11 @@
 ---
 category: Design
 content_type: ranking
-date: '2026-10-06T04:37:11+00:00'
+date: '2026-10-11T03:42:08+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
-title: '2026: Top 3 Design Tools to Watch'
+title: '2026: Top 4 Design Tools to Watch'
 translation_slug: top-design-0072e6b9
 ---
 
@@ -13,14 +13,18 @@ translation_slug: top-design-0072e6b9
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [Dots UI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/dots-ui}})
+### 1. [Skreno: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/skreno}})
 
 ## Quick overview
 
-### 2. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
+### 2. [Dots UI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/dots-ui}})
 
 ## Quick overview
 
-### 3. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
+### 3. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
+
+## Quick overview
+
+### 4. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
 
 ## Quick overview

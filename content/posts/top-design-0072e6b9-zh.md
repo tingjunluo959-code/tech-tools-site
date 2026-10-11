@@ -1,11 +1,11 @@
 ---
 category: Design
 content_type: ranking
-date: '2026-10-06T04:37:11+00:00'
+date: '2026-10-11T03:42:08+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
-title: 2026 年值得关注的 3 个Design工具
+title: 2026 年值得关注的 4 个Design工具
 translation_slug: top-design-0072e6b9
 ---
 
@@ -13,14 +13,18 @@ translation_slug: top-design-0072e6b9
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Dots UI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/dots-ui}})
+### 1. [Skreno: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/skreno}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
+### 2. [Dots UI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/dots-ui}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
+### 3. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
+
+这是近期值得继续观察的候选工具，建议先小范围试用。
+
+### 4. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
