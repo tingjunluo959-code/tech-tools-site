@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:42:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:05:40 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Mon, 12 Oct 2026 04:05:40 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>HireKey: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-12-hirekey-db219800.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-12-hirekey-db219800.html</guid>
+      <pubDate>Mon, 12 Oct 2026 04:05:40 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview HireKey is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your recruiter informed AI co…</description>
+    </item>
     <item>
       <title>2026: Top 4 Design Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
@@ -53,14 +69,6 @@
       <pubDate>Thu, 08 Oct 2026 04:15:25 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Linda is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your local AI coworker for the…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 08 Oct 2026 04:15:25 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Willow Knowledge: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 27 Sep 2026 03:24:29 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Hemory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Keep listening. Searchable mem…</description>
-    </item>
-    <item>
-      <title>Kairn: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-26-kairn-b9683f36.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-09-26-kairn-b9683f36.html</guid>
-      <pubDate>Sat, 26 Sep 2026 03:16:25 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview Kairn is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Turn any recorded convo into a…</description>
     </item>
   </channel>
 </rss>
