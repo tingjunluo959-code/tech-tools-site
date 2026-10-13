@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-10-12T04:05:40+00:00'
+date: '2026-10-13T05:14:37+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [HireKey: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hirekey}})
+### 1. [Kudos 3.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/kudos-smart-wallet}})
 
 ## Quick overview
 
-### 2. [Linda: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/linda}})
+### 2. [HireKey: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hirekey}})
 
 ## Quick overview
 
-### 3. [Willow Knowledge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/willow-voice}})
+### 3. [Linda: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/linda}})
 
 ## Quick overview
 
-### 4. [CoreSpeed: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/corespeed}})
+### 4. [Willow Knowledge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/willow-voice}})
 
 ## Quick overview
 
-### 5. [Notchware: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/notchware}})
+### 5. [CoreSpeed: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/corespeed}})
 
 ## Quick overview

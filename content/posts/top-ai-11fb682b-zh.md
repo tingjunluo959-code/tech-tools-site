@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-10-12T04:05:40+00:00'
+date: '2026-10-13T05:14:37+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [HireKey: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hirekey}})
+### 1. [Kudos 3.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/kudos-smart-wallet}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Linda: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/linda}})
+### 2. [HireKey: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/hirekey}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Willow Knowledge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/willow-voice}})
+### 3. [Linda: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/linda}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [CoreSpeed: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/corespeed}})
+### 4. [Willow Knowledge: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/willow-voice}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Notchware: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/notchware}})
+### 5. [CoreSpeed: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/corespeed}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
