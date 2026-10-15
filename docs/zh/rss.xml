@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 03:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:58:53 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个Design工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
+      <category>Design</category>
+      <description>Design 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Confidence by Spotify: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. S…</description>
+    </item>
+    <item>
+      <title>Confidence by Spotify：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</guid>
+      <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
+      <category>Design</category>
+      <description>产品速览 Confidence by Spotify 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Build products at full speed, with both hands on the…</description>
+    </item>
     <item>
       <title>Vincentt：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-14-vincentt-d0cfbed1.html</link>
@@ -45,14 +61,6 @@
       <pubDate>Mon, 12 Oct 2026 04:05:40 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 HireKey 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Your recruiter informed AI copilot for tech job search 从这段公开信息来看，它更适合被当…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 4 个Design工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Sun, 11 Oct 2026 03:42:08 +0000</pubDate>
-      <category>Design</category>
-      <description>Design 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Skreno: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Dots UI: A Tool…</description>
     </item>
     <item>
       <title>Skreno：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 30 Sep 2026 03:45:57 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 iFixAi 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Independent auditing of AI agents to uncover misalignment 从这段公开信息来看，它更适合…</description>
-    </item>
-    <item>
-      <title>Lattice：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-29-lattice-6f6c6d20.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-29-lattice-6f6c6d20.html</guid>
-      <pubDate>Tue, 29 Sep 2026 03:58:26 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 Lattice 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Reshape your text across languages while preserving meaning 从这段公开信息来看，…</description>
     </item>
   </channel>
 </rss>
