@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 02:58:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 02:56:38 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Fri, 16 Oct 2026 02:56:38 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. SuperLocalMemory: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Kudos 3.0:…</description>
+    </item>
+    <item>
+      <title>SuperLocalMemory：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-16-superlocalmemory-e028e702.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-16-superlocalmemory-e028e702.html</guid>
+      <pubDate>Fri, 16 Oct 2026 02:56:38 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 SuperLocalMemory 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Agent memory with Laya, Jev + Google Gemma 从这段公开信息来看，它更适合被当作一个…</description>
+    </item>
     <item>
       <title>2026 年值得关注的 5 个Design工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-design-0072e6b9.html</link>
@@ -37,14 +53,6 @@
       <pubDate>Wed, 14 Oct 2026 03:20:24 +0000</pubDate>
       <category>未分类</category>
       <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Vincentt: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Lattice: A Tool W…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 13 Oct 2026 05:14:37 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Kudos 3.0: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. HireKey: A Tool W…</description>
     </item>
     <item>
       <title>Kudos 3.0：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
       <category>Design</category>
       <description>产品速览 Pexo 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： Produce pitch perfect launch videos with precise control 从这段公开信息来看，它更适…</description>
-    </item>
-    <item>
-      <title>iFixAi：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-30-ifixai-7fd22694.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-09-30-ifixai-7fd22694.html</guid>
-      <pubDate>Wed, 30 Sep 2026 03:45:57 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 iFixAi 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Independent auditing of AI agents to uncover misalignment 从这段公开信息来看，它更适合…</description>
     </item>
   </channel>
 </rss>
