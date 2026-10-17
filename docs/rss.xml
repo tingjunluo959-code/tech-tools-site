@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 02:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:47:37 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Fri, 16 Oct 2026 02:56:38 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 02:47:37 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Palomino: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-17-palomino-f46db747.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-17-palomino-f46db747.html</guid>
+      <pubDate>Sat, 17 Oct 2026 02:47:37 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Palomino is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Ultrafast workspace for agen…</description>
     </item>
     <item>
       <title>SuperLocalMemory: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 02 Oct 2026 03:50:19 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Quick overview Scape is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Team document coll…</description>
-    </item>
-    <item>
-      <title>Pexo: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-01-pexo-9842c680.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-01-pexo-9842c680.html</guid>
-      <pubDate>Thu, 01 Oct 2026 03:52:52 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview Pexo is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Produce pitch perfect launch…</description>
     </item>
   </channel>
 </rss>
