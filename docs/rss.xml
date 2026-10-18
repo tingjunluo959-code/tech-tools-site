@@ -5,12 +5,20 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 02:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:49:32 +0000</lastBuildDate>
+    <item>
+      <title>Craft Agents: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-18-craft-agents-cf5829ef.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-18-craft-agents-cf5829ef.html</guid>
+      <pubDate>Sun, 18 Oct 2026 02:49:32 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Craft Agents is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The world&#39;s most powerfu…</description>
+    </item>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sat, 17 Oct 2026 02:47:37 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 02:49:32 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 03 Oct 2026 03:35:10 +0000</pubDate>
       <category>Collaboration</category>
       <description>Quick overview Earlyn is a recent Product Hunt launch listed in the Collaboration category. The public feed describes it this way: Searchable memory o…</description>
-    </item>
-    <item>
-      <title>Scape: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-02-scape-01f1f850.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-02-scape-01f1f850.html</guid>
-      <pubDate>Fri, 02 Oct 2026 03:50:19 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Quick overview Scape is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Team document coll…</description>
     </item>
   </channel>
 </rss>
