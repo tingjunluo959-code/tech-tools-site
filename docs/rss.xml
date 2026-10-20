@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 03:11:54 +0000</lastBuildDate>
     <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Tue, 20 Oct 2026 03:11:54 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Lookout (for Slack): A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-20-lookout-for-slack-d250ea60.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-20-lookout-for-slack-d250ea60.html</guid>
+      <pubDate>Tue, 20 Oct 2026 03:11:54 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Lookout for Slack is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Urgent Slack messa…</description>
     </item>
     <item>
       <title>Gravity Notes: A Tool Worth Watching</title>
@@ -21,6 +29,14 @@
       <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Gravity Notes is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: One list of notes, for…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Craft Agents: A Tool Worth Watching</title>
@@ -47,14 +63,6 @@
       <description>Quick overview SuperLocalMemory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Agent memory with La…</description>
     </item>
     <item>
-      <title>Confidence by Spotify: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</guid>
-      <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview Confidence by Spotify is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Build produ…</description>
-    </item>
-    <item>
       <title>2026: Top 5 Design Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
@@ -63,20 +71,20 @@
       <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
     <item>
+      <title>Confidence by Spotify: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</guid>
+      <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
+      <category>Design</category>
+      <description>Quick overview Confidence by Spotify is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Build produ…</description>
+    </item>
+    <item>
       <title>Vincentt: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-14-vincentt-d0cfbed1.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-14-vincentt-d0cfbed1.html</guid>
       <pubDate>Wed, 14 Oct 2026 03:20:24 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Vincentt is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Bring your ideas to life th…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Wed, 14 Oct 2026 03:20:24 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Kudos 3.0: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 05 Oct 2026 03:49:15 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview CoreSpeed is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: One MCP for everything your…</description>
-    </item>
-    <item>
-      <title>Notchware: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-04-notchware-395ffc3e.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-04-notchware-395ffc3e.html</guid>
-      <pubDate>Sun, 04 Oct 2026 04:04:35 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Notchware is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Music and AI agent alerts i…</description>
     </item>
   </channel>
 </rss>
