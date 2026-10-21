@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 03:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:06:43 +0000</lastBuildDate>
+    <item>
+      <title>Stage：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-21-stage-c21a7315.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-21-stage-c21a7315.html</guid>
+      <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
+      <category>未分类</category>
+      <description>产品速览 Stage 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Review, fix and sign off working prototypes and products 从这段公开信息来看，它更适合被…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个未分类工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
+      <category>未分类</category>
+      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Stage: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Lookout for Slack :…</description>
+    </item>
     <item>
       <title>Lookout (for Slack)：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-20-lookout-for-slack-d250ea60.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Tue, 20 Oct 2026 03:11:54 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 Lookout for Slack 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Urgent Slack messages, handled instantly. Powered by Jev. 从这…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个未分类工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Tue, 20 Oct 2026 03:11:54 +0000</pubDate>
-      <category>未分类</category>
-      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Lookout for Slack : A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Vincent…</description>
     </item>
     <item>
       <title>Gravity Notes：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 06 Oct 2026 04:37:11 +0000</pubDate>
       <category>Design</category>
       <description>产品速览 Dots UI 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Design”类别。官方 Feed 给出的原始简介是： A React library for morphable particle interfaces 从这段公开信息来看，它更适合被当作…</description>
-    </item>
-    <item>
-      <title>CoreSpeed：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-05-corespeed-7d06b090.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-05-corespeed-7d06b090.html</guid>
-      <pubDate>Mon, 05 Oct 2026 03:49:15 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 CoreSpeed 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： One MCP for everything your agents need: apps, memory, tools 从这段公开信息来…</description>
     </item>
   </channel>
 </rss>
