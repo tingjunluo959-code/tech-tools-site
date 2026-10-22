@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:05:13 +0000</lastBuildDate>
     <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+      <title>Needle: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-22-needle-bc29303d.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-22-needle-bc29303d.html</guid>
+      <pubDate>Thu, 22 Oct 2026 03:05:13 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Needle is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The agent native outbound engi…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Thu, 22 Oct 2026 03:05:13 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Stage: A Tool Worth Watching</title>
@@ -21,6 +29,14 @@
       <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Stage is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Review, fix and sign off worki…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Lookout (for Slack): A Tool Worth Watching</title>
@@ -37,14 +53,6 @@
       <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Gravity Notes is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: One list of notes, for…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Craft Agents: A Tool Worth Watching</title>
@@ -71,20 +79,20 @@
       <description>Quick overview SuperLocalMemory is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Agent memory with La…</description>
     </item>
     <item>
-      <title>2026: Top 5 Design Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
-      <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
-      <category>Design</category>
-      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
-    </item>
-    <item>
       <title>Confidence by Spotify: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-15-confidence-by-spotify-3e14fe74.html</guid>
       <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
       <category>Design</category>
       <description>Quick overview Confidence by Spotify is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Build produ…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 Design Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-design-0072e6b9.html</guid>
+      <pubDate>Thu, 15 Oct 2026 02:58:53 +0000</pubDate>
+      <category>Design</category>
+      <description>Top tools in Design A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before decidi…</description>
     </item>
     <item>
       <title>Vincentt: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 07 Oct 2026 04:02:56 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Willow Knowledge is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your AI already know…</description>
-    </item>
-    <item>
-      <title>Dots UI: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-06-dots-ui-40be886a.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-06-dots-ui-40be886a.html</guid>
-      <pubDate>Tue, 06 Oct 2026 04:37:11 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview Dots UI is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: A React library for morph…</description>
     </item>
   </channel>
 </rss>
