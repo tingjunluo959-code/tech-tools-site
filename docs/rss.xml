@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 03:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:16:45 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Fri, 23 Oct 2026 03:16:45 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Teclo: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-23-teclo-6b89dd0e.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-23-teclo-6b89dd0e.html</guid>
+      <pubDate>Fri, 23 Oct 2026 03:16:45 +0000</pubDate>
+      <category>未分类</category>
+      <description>Quick overview Teclo is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Mechanical keyboard sounds and…</description>
+    </item>
     <item>
       <title>Needle: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-22-needle-bc29303d.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Stage is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Review, fix and sign off worki…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Wed, 21 Oct 2026 03:06:43 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Lookout (for Slack): A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Thu, 08 Oct 2026 04:15:25 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Linda is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your local AI coworker for the…</description>
-    </item>
-    <item>
-      <title>Willow Knowledge: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-07-willow-knowledge-364b6090.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-07-willow-knowledge-364b6090.html</guid>
-      <pubDate>Wed, 07 Oct 2026 04:02:56 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Willow Knowledge is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your AI already know…</description>
     </item>
   </channel>
 </rss>
