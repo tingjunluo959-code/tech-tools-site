@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:05:03 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Sat, 24 Oct 2026 03:05:03 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>MOVO AI: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-24-movo-ai-785413db.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-24-movo-ai-785413db.html</guid>
+      <pubDate>Sat, 24 Oct 2026 03:05:03 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview MOVO AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The world&#39;s first long form v…</description>
+    </item>
     <item>
       <title>2026: Top 5 未分类 Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Thu, 22 Oct 2026 03:05:13 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Needle is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The agent native outbound engi…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 22 Oct 2026 03:05:13 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Stage: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 09 Oct 2026 04:21:02 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Quick overview ProcBoss is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Run, deploy, mo…</description>
-    </item>
-    <item>
-      <title>Linda: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-08-linda-b0e351c9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-08-linda-b0e351c9.html</guid>
-      <pubDate>Thu, 08 Oct 2026 04:15:25 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Linda is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your local AI coworker for the…</description>
     </item>
   </channel>
 </rss>
