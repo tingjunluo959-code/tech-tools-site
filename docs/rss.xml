@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:00:03 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sat, 24 Oct 2026 03:05:03 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 03:00:03 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>LinkIntel: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-25-linkintel-12ade2b1.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-25-linkintel-12ade2b1.html</guid>
+      <pubDate>Sun, 25 Oct 2026 03:00:03 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview LinkIntel is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Post insights delivered dir…</description>
     </item>
     <item>
       <title>MOVO AI: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 09 Oct 2026 04:21:02 +0000</pubDate>
       <category>Developer Tools</category>
       <description>Top tools in Developer Tools A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page befo…</description>
-    </item>
-    <item>
-      <title>ProcBoss: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-09-procboss-61983422.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-09-procboss-61983422.html</guid>
-      <pubDate>Fri, 09 Oct 2026 04:21:02 +0000</pubDate>
-      <category>Developer Tools</category>
-      <description>Quick overview ProcBoss is a recent Product Hunt launch listed in the Developer Tools category. The public feed describes it this way: Run, deploy, mo…</description>
     </item>
   </channel>
 </rss>
