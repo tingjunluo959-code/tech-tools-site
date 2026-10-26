@@ -5,7 +5,7 @@ date: '2026-10-15T02:58:53+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-design-0072e6b9
-title: '2026: Top 5 Design Tools to Watch'
+title: '2026: Top 4 Design Tools to Watch'
 translation_slug: top-design-0072e6b9
 ---
 
@@ -26,9 +26,5 @@ A rolling shortlist based on recent Product Hunt coverage. Verify current featur
 ## Quick overview
 
 ### 4. [Pexo: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/pexo-2}})
-
-## Quick overview
-
-### 5. [LockLines: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/locklines}})
 
 ## Quick overview
