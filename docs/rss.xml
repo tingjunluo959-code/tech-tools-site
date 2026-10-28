@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:46:45 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 27 Oct 2026 03:30:49 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 03:46:45 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Nuvio 5.0: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-28-nuvio-5-0-d84f30af.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-28-nuvio-5-0-d84f30af.html</guid>
+      <pubDate>Wed, 28 Oct 2026 03:46:45 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Nuvio 5.0 is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Hand your financial admin t…</description>
     </item>
     <item>
       <title>Jobmate AI: A Tool Worth Watching</title>
@@ -47,20 +55,20 @@
       <description>Quick overview MOVO AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The world&#39;s first long form v…</description>
     </item>
     <item>
-      <title>2026: Top 5 未分类 Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Fri, 23 Oct 2026 03:16:45 +0000</pubDate>
-      <category>未分类</category>
-      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
-    </item>
-    <item>
       <title>Teclo: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-23-teclo-6b89dd0e.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-23-teclo-6b89dd0e.html</guid>
       <pubDate>Fri, 23 Oct 2026 03:16:45 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Teclo is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Mechanical keyboard sounds and…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 未分类 Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Fri, 23 Oct 2026 03:16:45 +0000</pubDate>
+      <category>未分类</category>
+      <description>Top tools in 未分类 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Needle: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 12 Oct 2026 04:05:40 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview HireKey is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Your recruiter informed AI co…</description>
-    </item>
-    <item>
-      <title>Skreno: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-11-skreno-24fb3ce9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-11-skreno-24fb3ce9.html</guid>
-      <pubDate>Sun, 11 Oct 2026 03:42:08 +0000</pubDate>
-      <category>Design</category>
-      <description>Quick overview Skreno is a recent Product Hunt launch listed in the Design category. The public feed describes it this way: Record, edit and share vid…</description>
     </item>
   </channel>
 </rss>

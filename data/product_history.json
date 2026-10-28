@@ -10,7 +10,7 @@
       "official_url": "https://www.producthunt.com/products/scape-3",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:49+00:00"
+      "updated_at": "2026-10-28T03:46:46+00:00"
     },
     "0320568bbd5863fb761e20638115c50fb88803081321f97af6fc7433abe50467": {
       "link_status": {
@@ -29,7 +29,7 @@
         }
       ],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:50+00:00"
+      "updated_at": "2026-10-28T03:46:47+00:00"
     },
     "0ac1be6cb54e4b1e89068e39e75446ffaaffe38e24a92217b386bd569398d4ac": {
       "link_status": {
@@ -41,7 +41,7 @@
       "official_url": "https://wisprflow.onelink.me/PguH/lw5h199m",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:51+00:00"
+      "updated_at": "2026-10-28T03:46:49+00:00"
     },
     "0b06c683ec5a8fd59669101327a2841dbdce38a4df0944ba2f76fc6eeb433f43": {
       "link_status": {
@@ -53,7 +53,7 @@
       "official_url": "https://www.producthunt.com/products/capptivo",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:51+00:00"
+      "updated_at": "2026-10-28T03:46:49+00:00"
     },
     "0b1e592794d7f87f3e5466cba223e43b62e8798e44b8743be15eb31e0035f18b": {
       "link_status": {
@@ -65,7 +65,7 @@
       "official_url": "https://www.producthunt.com/products/honor-robot-phone",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:51+00:00"
+      "updated_at": "2026-10-28T03:46:49+00:00"
     },
     "0ba6ec5f5610c7c02678fda5c8e08287dbcb232fc1dced5e399f3fe432b0527c": {
       "link_status": {
@@ -77,7 +77,7 @@
       "official_url": "https://www.producthunt.com/products/equitybee",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:51+00:00"
+      "updated_at": "2026-10-28T03:46:49+00:00"
     },
     "109ed8473a0ee20eb059c6f2b32228a1b44923cccd6d880c76adc50ac8dcabc8": {
       "link_status": {
@@ -89,7 +89,7 @@
       "official_url": "https://www.producthunt.com/products/jobmate-ai-3",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:49+00:00"
+      "updated_at": "2026-10-28T03:46:49+00:00"
     },
     "127639cc62d76a80ea31db16a56983d54ab3c9336bca7d2723da3eabf6d6d01a": {
       "link_status": {
@@ -122,7 +122,7 @@
       "promotions": [
         "free trial"
       ],
-      "updated_at": "2026-10-27T03:30:52+00:00"
+      "updated_at": "2026-10-28T03:46:50+00:00"
     },
     "12ade2b1aa2eb906dea602f4f775e3a582ed0dce1cd49016fda93285047653b8": {
       "link_status": {
@@ -134,7 +134,7 @@
       "official_url": "https://www.producthunt.com/products/linkintel",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:52+00:00"
+      "updated_at": "2026-10-28T03:46:50+00:00"
     },
     "17a1f5898515f2ed79da8bcca6f8114af1d68b2dc68e6018d09436e8c95f244a": {
       "link_status": {
@@ -146,7 +146,7 @@
       "official_url": "https://www.producthunt.com/products/anycreature",
       "plans": [],
       "promotions": [],
-      "updated_at": "2026-10-27T03:30:52+00:00"
+      "updated_at": "2026-10-28T03:46:50+00:00"
     },
     "1b89198ff9a64bd0260fb80e312d8a05b98f20b31dd9762a88f0bb478e88e804": {
       "link_status": {
@@ -1002,6 +1002,18 @@
       "plans": [],
       "promotions": [],
       "updated_at": "2026-10-20T03:11:54+00:00"
+    },
+    "d84f30af7d5d46557d6d59c7f5213e2cb228fa94c3bd2e665198b1823b542509": {
+      "link_status": {
+        "error": "HTTP 403",
+        "ok": false,
+        "status_code": 403,
+        "url": "https://www.producthunt.com/products/nuvio"
+      },
+      "official_url": "https://www.producthunt.com/products/nuvio",
+      "plans": [],
+      "promotions": [],
+      "updated_at": "2026-10-28T03:46:45+00:00"
     },
     "db2198007a214d5a15101a72cec2ea9822a879ccb1357457e8db53c106b215ef": {
       "link_status": {
