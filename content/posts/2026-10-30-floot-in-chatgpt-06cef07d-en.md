@@ -4,7 +4,6 @@ content_type: product
 date: '2026-10-30T04:09:18+00:00'
 lang: en
 link_status:
-  checked_at: '2026-10-30T04:09:18+00:00'
   error: HTTP 403
   ok: false
   status_code: 403
