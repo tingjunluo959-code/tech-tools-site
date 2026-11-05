@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:54:30 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Thu, 05 Nov 2026 04:54:30 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Wanaka Studio: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-05-wanaka-studio-79d9e190.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-05-wanaka-studio-79d9e190.html</guid>
+      <pubDate>Thu, 05 Nov 2026 04:54:30 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Wanaka Studio is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Make and publish 3D gam…</description>
+    </item>
     <item>
       <title>Peji: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-04-peji-9e3e7fc1.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Wed, 04 Nov 2026 04:39:20 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Peji is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: An AI chat with a real browser y…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 04 Nov 2026 04:39:20 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Looper: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Gravity Notes is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: One list of notes, for…</description>
-    </item>
-    <item>
-      <title>Craft Agents: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-18-craft-agents-cf5829ef.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-18-craft-agents-cf5829ef.html</guid>
-      <pubDate>Sun, 18 Oct 2026 02:49:32 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Craft Agents is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The world&#39;s most powerfu…</description>
     </item>
   </channel>
 </rss>

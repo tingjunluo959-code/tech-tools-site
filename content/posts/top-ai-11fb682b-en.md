@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-04T04:39:20+00:00'
+date: '2026-11-05T04:54:30+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [Peji: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/peji}})
+### 1. [Wanaka Studio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/wanaka-studio}})
 
 ## Quick overview
 
-### 2. [Floot in ChatGPT: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/floot}})
+### 2. [Peji: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/peji}})
 
 ## Quick overview
 
-### 3. [Nuvio 5.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/nuvio}})
+### 3. [Floot in ChatGPT: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/floot}})
 
 ## Quick overview
 
-### 4. [Jobmate AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/jobmate-ai-3}})
+### 4. [Nuvio 5.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/nuvio}})
 
 ## Quick overview
 
-### 5. [Specsight: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/specsight}})
+### 5. [Jobmate AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/jobmate-ai-3}})
 
 ## Quick overview

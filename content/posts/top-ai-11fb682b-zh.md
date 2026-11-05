@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-04T04:39:20+00:00'
+date: '2026-11-05T04:54:30+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Peji: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/peji}})
+### 1. [Wanaka Studio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/wanaka-studio}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Floot in ChatGPT: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/floot}})
+### 2. [Peji: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/peji}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Nuvio 5.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/nuvio}})
+### 3. [Floot in ChatGPT: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/floot}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Jobmate AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/jobmate-ai-3}})
+### 4. [Nuvio 5.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/nuvio}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Specsight: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/specsight}})
+### 5. [Jobmate AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/jobmate-ai-3}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
