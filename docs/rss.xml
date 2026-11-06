@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 04:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:53:43 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 05 Nov 2026 04:54:30 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 04:53:43 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Glasshand: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-06-glasshand-149b2ecb.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-06-glasshand-149b2ecb.html</guid>
+      <pubDate>Fri, 06 Nov 2026 04:53:43 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Glasshand is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Give your agent a real iPho…</description>
     </item>
     <item>
       <title>Wanaka Studio: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 20 Oct 2026 03:11:54 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Lookout for Slack is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Urgent Slack messa…</description>
-    </item>
-    <item>
-      <title>Gravity Notes: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-19-gravity-notes-e670f629.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-19-gravity-notes-e670f629.html</guid>
-      <pubDate>Mon, 19 Oct 2026 03:02:07 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Gravity Notes is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: One list of notes, for…</description>
     </item>
   </channel>
 </rss>
