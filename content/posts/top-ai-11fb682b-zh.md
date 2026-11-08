@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-06T04:53:43+00:00'
+date: '2026-11-08T04:09:01+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Glasshand: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/glasshand}})
+### 1. [ClarifierAI for Chrome: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/clarifierai-rewrite-text-2}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [Wanaka Studio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/wanaka-studio}})
+### 2. [Glasshand: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/glasshand}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Peji: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/peji}})
+### 3. [Wanaka Studio: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/wanaka-studio}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Floot in ChatGPT: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/floot}})
+### 4. [Peji: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/peji}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Nuvio 5.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/nuvio}})
+### 5. [Floot in ChatGPT: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/floot}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
