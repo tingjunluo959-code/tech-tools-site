@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:29:26 +0000</lastBuildDate>
+    <item>
+      <title>Alsona: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-11-alsona-698e8a50.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-11-alsona-698e8a50.html</guid>
+      <pubDate>Wed, 11 Nov 2026 04:29:26 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Alsona is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI agents that turn buying sig…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Wed, 11 Nov 2026 04:29:26 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>Cardboard AI: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-10-cardboard-ai-afa5d6ec.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Tue, 10 Nov 2026 05:49:13 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Cardboard AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Best way to edit videos…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Tue, 10 Nov 2026 05:49:13 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>2026: Top 5 未分类 Tools to Watch</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 25 Oct 2026 03:00:03 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview LinkIntel is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Post insights delivered dir…</description>
-    </item>
-    <item>
-      <title>MOVO AI: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-24-movo-ai-785413db.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-24-movo-ai-785413db.html</guid>
-      <pubDate>Sat, 24 Oct 2026 03:05:03 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview MOVO AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The world&#39;s first long form v…</description>
     </item>
   </channel>
 </rss>
