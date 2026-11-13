@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 05:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:51:27 +0000</lastBuildDate>
     <item>
       <title>2026: Top 5 AI Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 12 Nov 2026 05:33:55 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 04:51:27 +0000</pubDate>
       <category>AI</category>
       <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>Insight7 Voice AI Agents: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-13-insight7-voice-ai-agents-875b1578.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-13-insight7-voice-ai-agents-875b1578.html</guid>
+      <pubDate>Fri, 13 Nov 2026 04:51:27 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Insight7 Voice AI Agents is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI voice age…</description>
     </item>
     <item>
       <title>CALL-E: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 27 Oct 2026 03:30:49 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Jobmate AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The humanized AI Copilot f…</description>
-    </item>
-    <item>
-      <title>Specsight: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-26-specsight-3dfead77.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-26-specsight-3dfead77.html</guid>
-      <pubDate>Mon, 26 Oct 2026 02:58:21 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Specsight is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Product observability for t…</description>
     </item>
   </channel>
 </rss>
