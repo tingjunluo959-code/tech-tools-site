@@ -5,14 +5,22 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:44:48 +0000</lastBuildDate>
     <item>
       <title>2026 年值得关注的 5 个AI工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Fri, 13 Nov 2026 04:51:27 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 04:44:48 +0000</pubDate>
       <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Insight7 Voice AI Agents: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. CA…</description>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Trainn MCP: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Insight7 Voice A…</description>
+    </item>
+    <item>
+      <title>Trainn MCP：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-14-trainn-mcp-834bdd0d.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-14-trainn-mcp-834bdd0d.html</guid>
+      <pubDate>Sat, 14 Nov 2026 04:44:48 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 Trainn MCP 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Create product videos and courses from any AI chat 从这段公开信息来看，它更适合被当作…</description>
     </item>
     <item>
       <title>Insight7 Voice AI Agents：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 28 Oct 2026 03:46:45 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Nuvio 5.0 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Hand your financial admin to your AI agent 从这段公开信息来看，它更适合被当作一个值得进一步了解…</description>
-    </item>
-    <item>
-      <title>Jobmate AI：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-27-jobmate-ai-109ed847.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-10-27-jobmate-ai-109ed847.html</guid>
-      <pubDate>Tue, 27 Oct 2026 03:30:49 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 Jobmate AI 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The humanized AI Copilot for your entire Job search 从这段公开信息来看，它更适合被当…</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-13T04:51:27+00:00'
+date: '2026-11-14T04:44:48+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [Insight7 Voice AI Agents: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/insight7}})
+### 1. [Trainn MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/trainn}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [CALL-E: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/call-e}})
+### 2. [Insight7 Voice AI Agents: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/insight7}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Alsona: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/alsona}})
+### 3. [CALL-E: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/call-e}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [Cardboard AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/cardboard-3}})
+### 4. [Alsona: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/alsona}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [ClarifierAI for Chrome: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/clarifierai-rewrite-text-2}})
+### 5. [Cardboard AI: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/cardboard-3}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
