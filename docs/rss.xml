@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:44:45 +0000</lastBuildDate>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Wed, 18 Nov 2026 05:44:45 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
+    <item>
+      <title>EkLine: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-18-ekline-118ddd23.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-18-ekline-118ddd23.html</guid>
+      <pubDate>Wed, 18 Nov 2026 05:44:45 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview EkLine is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI SEO for Developer Tools and…</description>
+    </item>
     <item>
       <title>2026: Top 5 未分类 Tools to Watch</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-tools-54b89f90.html</link>
@@ -45,14 +61,6 @@
       <pubDate>Sat, 14 Nov 2026 04:44:48 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Trainn MCP is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Create product videos and…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sat, 14 Nov 2026 04:44:48 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Insight7 Voice AI Agents: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 01 Nov 2026 04:02:28 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Hemmed is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Hide Mac menu bar clutter and…</description>
-    </item>
-    <item>
-      <title>StereoLift Live: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-31-stereolift-live-6607be10.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-10-31-stereolift-live-6607be10.html</guid>
-      <pubDate>Sat, 31 Oct 2026 03:52:20 +0000</pubDate>
-      <category>未分类</category>
-      <description>Quick overview StereoLift Live is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: your desktop in real…</description>
     </item>
   </channel>
 </rss>
