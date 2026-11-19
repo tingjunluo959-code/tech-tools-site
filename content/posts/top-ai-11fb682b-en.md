@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-18T05:44:45+00:00'
+date: '2026-11-19T05:43:23+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [EkLine: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ekline}})
+### 1. [Mermaid Flow: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mermaid-chart}})
 
 ## Quick overview
 
-### 2. [Trainn MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/trainn}})
+### 2. [EkLine: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ekline}})
 
 ## Quick overview
 
-### 3. [Insight7 Voice AI Agents: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/insight7}})
+### 3. [Trainn MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/trainn}})
 
 ## Quick overview
 
-### 4. [CALL-E: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/call-e}})
+### 4. [Insight7 Voice AI Agents: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/insight7}})
 
 ## Quick overview
 
-### 5. [Alsona: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/alsona}})
+### 5. [CALL-E: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/call-e}})
 
 ## Quick overview
