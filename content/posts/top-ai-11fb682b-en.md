@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-19T05:43:23+00:00'
+date: '2026-11-20T05:32:24+00:00'
 lang: en
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.
 
-### 1. [Mermaid Flow: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mermaid-chart}})
+### 1. [TestSprite 4.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/testsprite}})
 
 ## Quick overview
 
-### 2. [EkLine: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ekline}})
+### 2. [Mermaid Flow: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mermaid-chart}})
 
 ## Quick overview
 
-### 3. [Trainn MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/trainn}})
+### 3. [EkLine: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ekline}})
 
 ## Quick overview
 
-### 4. [Insight7 Voice AI Agents: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/insight7}})
+### 4. [Trainn MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/trainn}})
 
 ## Quick overview
 
-### 5. [CALL-E: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/call-e}})
+### 5. [Insight7 Voice AI Agents: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/insight7}})
 
 ## Quick overview

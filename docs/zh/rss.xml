@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:32:24 +0000</lastBuildDate>
+    <item>
+      <title>TestSprite 4.0：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-20-testsprite-4-0-30ecd685.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-20-testsprite-4-0-30ecd685.html</guid>
+      <pubDate>Fri, 20 Nov 2026 05:32:24 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 TestSprite 4.0 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Fix one thing, break another? This agent checks it all 从这段公开信息来看…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Fri, 20 Nov 2026 05:32:24 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. TestSprite 4.0: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Mermaid Flow…</description>
+    </item>
     <item>
       <title>Mermaid Flow：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-19-mermaid-flow-cd8a0f12.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Thu, 19 Nov 2026 05:43:23 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Mermaid Flow 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： The visual builder for agentic workflows 从这段公开信息来看，它更适合被当作一个值得进一步了…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Thu, 19 Nov 2026 05:43:23 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Mermaid Flow: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. EkLine: A Tool…</description>
     </item>
     <item>
       <title>EkLine：值得关注的科技工具</title>
@@ -31,20 +39,20 @@
       <description>产品速览 EkLine 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： AI SEO for Developer Tools and API first companies! 从这段公开信息来看，它更适合被当作一个值…</description>
     </item>
     <item>
-      <title>2026 年值得关注的 5 个未分类工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Tue, 17 Nov 2026 06:18:44 +0000</pubDate>
-      <category>未分类</category>
-      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. readywhen: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Emayler: A Tool…</description>
-    </item>
-    <item>
       <title>readywhen：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-17-readywhen-540274e0.html</link>
       <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-17-readywhen-540274e0.html</guid>
       <pubDate>Tue, 17 Nov 2026 06:18:44 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 readywhen 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Your personal assistant that lives in email around the clock 从这段公开信息…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个未分类工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Tue, 17 Nov 2026 06:18:44 +0000</pubDate>
+      <category>未分类</category>
+      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. readywhen: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Emayler: A Tool…</description>
     </item>
     <item>
       <title>Emayler：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 03 Nov 2026 05:08:07 +0000</pubDate>
       <category>Collaboration</category>
       <description>产品速览 Looper 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Collaboration”类别。官方 Feed 给出的原始简介是： If Grok Bot supported team collaboration and was Open Source…</description>
-    </item>
-    <item>
-      <title>Screen Studio 4.0：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-02-screen-studio-4-0-792c5a23.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-02-screen-studio-4-0-792c5a23.html</guid>
-      <pubDate>Mon, 02 Nov 2026 04:07:07 +0000</pubDate>
-      <category>未分类</category>
-      <description>产品速览 Screen Studio 4.0 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Glass Loupe, Camera Cutout, Edit by Transcript, and more 从这段…</description>
     </item>
   </channel>
 </rss>
