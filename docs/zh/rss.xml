@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:25:54 +0000</lastBuildDate>
+    <item>
+      <title>2026 年值得关注的 5 个未分类工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
+      <pubDate>Sat, 21 Nov 2026 05:25:54 +0000</pubDate>
+      <category>未分类</category>
+      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. Same Moon: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. readywhen: A Too…</description>
+    </item>
+    <item>
+      <title>Same Moon：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-21-same-moon-60c3338c.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-21-same-moon-60c3338c.html</guid>
+      <pubDate>Sat, 21 Nov 2026 05:25:54 +0000</pubDate>
+      <category>未分类</category>
+      <description>产品速览 Same Moon 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Free bedtime stories for children who had to leave home 从这段公开信息来看，它更…</description>
+    </item>
     <item>
       <title>TestSprite 4.0：值得关注的科技工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-20-testsprite-4-0-30ecd685.html</link>
@@ -45,14 +61,6 @@
       <pubDate>Tue, 17 Nov 2026 06:18:44 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 readywhen 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Your personal assistant that lives in email around the clock 从这段公开信息…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个未分类工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</guid>
-      <pubDate>Tue, 17 Nov 2026 06:18:44 +0000</pubDate>
-      <category>未分类</category>
-      <description>未分类 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. readywhen: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. Emayler: A Tool…</description>
     </item>
     <item>
       <title>Emayler：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 04 Nov 2026 04:39:20 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 Peji 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： An AI chat with a real browser you control 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。…</description>
-    </item>
-    <item>
-      <title>Looper：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-03-looper-194d1a19.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-03-looper-194d1a19.html</guid>
-      <pubDate>Tue, 03 Nov 2026 05:08:07 +0000</pubDate>
-      <category>Collaboration</category>
-      <description>产品速览 Looper 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“Collaboration”类别。官方 Feed 给出的原始简介是： If Grok Bot supported team collaboration and was Open Source…</description>
     </item>
   </channel>
 </rss>
