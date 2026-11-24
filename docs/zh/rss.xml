@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:09:10 +0000</lastBuildDate>
+    <item>
+      <title>tday.com：值得关注的科技工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-24-tday-com-5a60d451.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-24-tday-com-5a60d451.html</guid>
+      <pubDate>Tue, 24 Nov 2026 08:09:10 +0000</pubDate>
+      <category>AI</category>
+      <description>产品速览 tday.com 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Ask your coding agent for a narrated demo of any feature 从这段公开信息来看，它更适…</description>
+    </item>
+    <item>
+      <title>2026 年值得关注的 5 个AI工具</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Tue, 24 Nov 2026 08:09:10 +0000</pubDate>
+      <category>AI</category>
+      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. tday.com: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. AI Context Flow MC…</description>
+    </item>
     <item>
       <title>2026 年值得关注的 5 个未分类工具</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-tools-54b89f90.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Sun, 22 Nov 2026 04:51:30 +0000</pubDate>
       <category>AI</category>
       <description>产品速览 AI Context Flow MCP 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Memory you control, synced to every agent, tool and team 从这…</description>
-    </item>
-    <item>
-      <title>2026 年值得关注的 5 个AI工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sun, 22 Nov 2026 04:51:30 +0000</pubDate>
-      <category>AI</category>
-      <description>AI 工具观察榜 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。 1. AI Context Flow MCP: A Tool Worth Watching 这是近期值得继续观察的候选工具，建议先小范围试用。 2. TestSpr…</description>
     </item>
     <item>
       <title>Same Moon：值得关注的科技工具</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 07 Nov 2026 04:25:13 +0000</pubDate>
       <category>未分类</category>
       <description>产品速览 PostMyPace 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“未分类”类别。官方 Feed 给出的原始简介是： Turn your run into a ready to post Instagram Story or Reel 从这段公开信息来…</description>
-    </item>
-    <item>
-      <title>Glasshand：值得关注的科技工具</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-06-glasshand-149b2ecb.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/zh/posts/2026-11-06-glasshand-149b2ecb.html</guid>
-      <pubDate>Fri, 06 Nov 2026 04:53:43 +0000</pubDate>
-      <category>AI</category>
-      <description>产品速览 Glasshand 是近期出现在 Product Hunt 上的一款科技产品，目前 Feed 将它归在“AI”类别。官方 Feed 给出的原始简介是： Give your agent a real iPhone and Mac 从这段公开信息来看，它更适合被当作一个值得进一步了解的新工具。…</description>
     </item>
   </channel>
 </rss>

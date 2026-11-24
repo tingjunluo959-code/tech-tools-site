@@ -1,7 +1,7 @@
 ---
 category: AI
 content_type: ranking
-date: '2026-11-22T04:51:30+00:00'
+date: '2026-11-24T08:09:10+00:00'
 lang: zh
 original_link: https://www.producthunt.com/
 slug: top-ai-11fb682b
@@ -13,22 +13,22 @@ translation_slug: top-ai-11fb682b
 
 本榜单按最近 Product Hunt 文章整理，仅用于发现候选工具。功能、价格、隐私与服务条款请以各产品官网为准。
 
-### 1. [AI Context Flow MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ai-context-flow}})
+### 1. [tday.com: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/markup-one}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 2. [TestSprite 4.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/testsprite}})
+### 2. [AI Context Flow MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ai-context-flow}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 3. [Mermaid Flow: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mermaid-chart}})
+### 3. [TestSprite 4.0: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/testsprite}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 4. [EkLine: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ekline}})
+### 4. [Mermaid Flow: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/mermaid-chart}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。
 
-### 5. [Trainn MCP: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/trainn}})
+### 5. [EkLine: A Tool Worth Watching]({{affiliate_url|https://www.producthunt.com/products/ekline}})
 
 这是近期值得继续观察的候选工具，建议先小范围试用。

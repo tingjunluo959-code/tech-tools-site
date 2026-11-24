@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:09:10 +0000</lastBuildDate>
+    <item>
+      <title>tday.com: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-24-tday-com-5a60d451.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-24-tday-com-5a60d451.html</guid>
+      <pubDate>Tue, 24 Nov 2026 08:09:10 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview tday.com is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Ask your coding agent for a…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Tue, 24 Nov 2026 08:09:10 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>Wispim: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-23-wispim-06373233.html</link>
@@ -29,14 +45,6 @@
       <pubDate>Sun, 22 Nov 2026 04:51:30 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview AI Context Flow MCP is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Memory you contro…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Sun, 22 Nov 2026 04:51:30 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>Same Moon: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 07 Nov 2026 04:25:13 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview PostMyPace is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Turn your run into a read…</description>
-    </item>
-    <item>
-      <title>Glasshand: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-06-glasshand-149b2ecb.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-06-glasshand-149b2ecb.html</guid>
-      <pubDate>Fri, 06 Nov 2026 04:53:43 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Glasshand is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Give your agent a real iPho…</description>
     </item>
   </channel>
 </rss>
