@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:38:33 +0000</lastBuildDate>
+    <item>
+      <title>PartGenie 2.0: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-26-partgenie-2-0-f184f2ec.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-26-partgenie-2-0-f184f2ec.html</guid>
+      <pubDate>Thu, 26 Nov 2026 06:38:33 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview PartGenie 2.0 is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: The AI workspace for ha…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Thu, 26 Nov 2026 06:38:33 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>Ohhai: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-25-ohhai-e96cf172.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Wed, 25 Nov 2026 06:47:07 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Ohhai is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Type messy, send clean: an AI k…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Wed, 25 Nov 2026 06:47:07 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>tday.com: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 09 Nov 2026 04:24:04 +0000</pubDate>
       <category>未分类</category>
       <description>Quick overview Sage2 by Levanto Labs is a recent Product Hunt launch listed in the 未分类 category. The public feed describes it this way: Turn live talk…</description>
-    </item>
-    <item>
-      <title>ClarifierAI for Chrome: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-08-clarifierai-for-chrome-2532c0e9.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-08-clarifierai-for-chrome-2532c0e9.html</guid>
-      <pubDate>Sun, 08 Nov 2026 04:09:01 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview ClarifierAI for Chrome is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Use AI for wri…</description>
     </item>
   </channel>
 </rss>
