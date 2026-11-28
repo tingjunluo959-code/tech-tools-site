@@ -5,7 +5,23 @@
     <link>https://tingjunluo959-code.github.io/tech-tools-site/</link>
     <description>A daily, source-aware look at new tools from Product Hunt.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:03:57 +0000</lastBuildDate>
+    <item>
+      <title>Ploid: A Tool Worth Watching</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-28-ploid-e2a1983b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-28-ploid-e2a1983b.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:03:57 +0000</pubDate>
+      <category>AI</category>
+      <description>Quick overview Ploid is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: People search for AI agents, ac…</description>
+    </item>
+    <item>
+      <title>2026: Top 5 AI Tools to Watch</title>
+      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
+      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:03:57 +0000</pubDate>
+      <category>AI</category>
+      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
+    </item>
     <item>
       <title>ExtraOrbital: A Tool Worth Watching</title>
       <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-27-extraorbital-c481d100.html</link>
@@ -13,14 +29,6 @@
       <pubDate>Fri, 27 Nov 2026 06:28:41 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview ExtraOrbital is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: ✦ Open bar databases, st…</description>
-    </item>
-    <item>
-      <title>2026: Top 5 AI Tools to Watch</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/top-ai-11fb682b.html</guid>
-      <pubDate>Fri, 27 Nov 2026 06:28:41 +0000</pubDate>
-      <category>AI</category>
-      <description>Top tools in AI A rolling shortlist based on recent Product Hunt coverage. Verify current features and pricing on each official page before deciding.…</description>
     </item>
     <item>
       <title>PartGenie 2.0: A Tool Worth Watching</title>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 11 Nov 2026 04:29:26 +0000</pubDate>
       <category>AI</category>
       <description>Quick overview Alsona is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: AI agents that turn buying sig…</description>
-    </item>
-    <item>
-      <title>Cardboard AI: A Tool Worth Watching</title>
-      <link>https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-10-cardboard-ai-afa5d6ec.html</link>
-      <guid isPermaLink="true">https://tingjunluo959-code.github.io/tech-tools-site/posts/2026-11-10-cardboard-ai-afa5d6ec.html</guid>
-      <pubDate>Tue, 10 Nov 2026 05:49:13 +0000</pubDate>
-      <category>AI</category>
-      <description>Quick overview Cardboard AI is a recent Product Hunt launch listed in the AI category. The public feed describes it this way: Best way to edit videos…</description>
     </item>
   </channel>
 </rss>
